@@ -1,0 +1,529 @@
+<Activity mc:Ignorable="sap sap2010" x:Class="Therefore_GoTo_SOP_To_Search" mva:VisualBasic.Settings="{x:Null}" sap:VirtualizedContainerService.HintSize="654,1310" sap2010:WorkflowViewState.IdRef="ActivityBuilder_1" xmlns="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:av="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:mva="clr-namespace:Microsoft.VisualBasic.Activities;assembly=System.Activities" xmlns:sap="http://schemas.microsoft.com/netfx/2009/xaml/activities/presentation" xmlns:sap2010="http://schemas.microsoft.com/netfx/2010/xaml/activities/presentation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:sco="clr-namespace:System.Collections.ObjectModel;assembly=mscorlib" xmlns:ui="http://schemas.uipath.com/workflow/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TextExpression.NamespacesForImplementation>
+    <sco:Collection x:TypeArguments="x:String">
+      <x:String>System.Activities</x:String>
+      <x:String>System.Activities.Statements</x:String>
+      <x:String>System.Activities.Expressions</x:String>
+      <x:String>System.Activities.Validation</x:String>
+      <x:String>System.Activities.XamlIntegration</x:String>
+      <x:String>Microsoft.VisualBasic</x:String>
+      <x:String>Microsoft.VisualBasic.Activities</x:String>
+      <x:String>System</x:String>
+      <x:String>System.Collections</x:String>
+      <x:String>System.Collections.Generic</x:String>
+      <x:String>System.Data</x:String>
+      <x:String>System.Diagnostics</x:String>
+      <x:String>System.Drawing</x:String>
+      <x:String>System.IO</x:String>
+      <x:String>System.Linq</x:String>
+      <x:String>System.Net.Mail</x:String>
+      <x:String>System.Xml</x:String>
+      <x:String>System.Xml.Linq</x:String>
+      <x:String>System.Windows.Markup</x:String>
+      <x:String>UiPath.Core</x:String>
+      <x:String>UiPath.Core.Activities</x:String>
+    </sco:Collection>
+  </TextExpression.NamespacesForImplementation>
+  <TextExpression.ReferencesForImplementation>
+    <sco:Collection x:TypeArguments="AssemblyReference">
+      <AssemblyReference>System.Activities</AssemblyReference>
+      <AssemblyReference>Microsoft.VisualBasic</AssemblyReference>
+      <AssemblyReference>mscorlib</AssemblyReference>
+      <AssemblyReference>System.Data</AssemblyReference>
+      <AssemblyReference>System.Data.DataSetExtensions</AssemblyReference>
+      <AssemblyReference>System</AssemblyReference>
+      <AssemblyReference>System.Drawing</AssemblyReference>
+      <AssemblyReference>System.Core</AssemblyReference>
+      <AssemblyReference>System.Xml</AssemblyReference>
+      <AssemblyReference>System.Xml.Linq</AssemblyReference>
+      <AssemblyReference>PresentationFramework</AssemblyReference>
+      <AssemblyReference>WindowsBase</AssemblyReference>
+      <AssemblyReference>PresentationCore</AssemblyReference>
+      <AssemblyReference>System.Xaml</AssemblyReference>
+      <AssemblyReference>UiPath.UiAutomation.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.System.Activities</AssemblyReference>
+      <AssemblyReference>System.ServiceModel</AssemblyReference>
+      <AssemblyReference>UiPath.CV</AssemblyReference>
+      <AssemblyReference>UiPath.Excel</AssemblyReference>
+      <AssemblyReference>UiPath.Mail</AssemblyReference>
+    </sco:Collection>
+  </TextExpression.ReferencesForImplementation>
+  <Flowchart DisplayName="Therefore_GoTo_SOP_To_Search" sap:VirtualizedContainerService.HintSize="614,1638" sap2010:WorkflowViewState.IdRef="Flowchart_1">
+    <Flowchart.Variables>
+      <Variable x:TypeArguments="ui:GenericValue" Name="CorpLibState" />
+      <Variable x:TypeArguments="ui:GenericValue" Name="BPCState" />
+      <Variable x:TypeArguments="ui:GenericValue" Name="SOPState" />
+      <Variable x:TypeArguments="ui:GenericValue" Name="BPCSOPState" />
+      <Variable x:TypeArguments="x:Boolean" Name="PopupExist" />
+    </Flowchart.Variables>
+    <sap:WorkflowViewStateService.ViewState>
+      <scg:Dictionary x:TypeArguments="x:String, x:Object">
+        <x:Boolean x:Key="IsExpanded">False</x:Boolean>
+        <av:Point x:Key="ShapeLocation">270,2.5</av:Point>
+        <av:Size x:Key="ShapeSize">60,75</av:Size>
+        <av:PointCollection x:Key="ConnectorLocation">300,77.5 300,105.5</av:PointCollection>
+        <x:Double x:Key="Height">1602</x:Double>
+      </scg:Dictionary>
+    </sap:WorkflowViewStateService.ViewState>
+    <Flowchart.StartNode>
+      <x:Reference>__ReferenceID21</x:Reference>
+    </Flowchart.StartNode>
+    <FlowStep x:Name="__ReferenceID21">
+      <sap:WorkflowViewStateService.ViewState>
+        <scg:Dictionary x:TypeArguments="x:String, x:Object">
+          <av:Point x:Key="ShapeLocation">200,105.5</av:Point>
+          <av:Size x:Key="ShapeSize">200,49</av:Size>
+          <av:PointCollection x:Key="ConnectorLocation">300,154.5 300,170.5</av:PointCollection>
+        </scg:Dictionary>
+      </sap:WorkflowViewStateService.ViewState>
+      <ui:GetAttribute ContinueOnError="{x:Null}" Attribute="aastate" DisplayName="Get CorpLib Attribute" sap:VirtualizedContainerService.HintSize="200,49" sap2010:WorkflowViewState.IdRef="GetAttribute_1">
+        <ui:GetAttribute.Result>
+          <OutArgument x:TypeArguments="ui:GenericValue">[CorpLibState]</OutArgument>
+        </ui:GetAttribute.Result>
+        <ui:GetAttribute.Target>
+          <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" TimeoutMS="{x:Null}" InformativeScreenshot="a31bbde2f09e5f6b3b68ea3caee4ec64" Selector="&lt;wnd app='thenavigator.exe' cls='Afx:*' title='Therefore™ Navigator' /&gt;&lt;wnd cls='SysTreeView32' idx='1' /&gt;&lt;ctrl name='Corporate Libraries' role='outline item' /&gt;" WaitForReady="INTERACTIVE" />
+        </ui:GetAttribute.Target>
+      </ui:GetAttribute>
+      <FlowStep.Next>
+        <FlowStep x:Name="__ReferenceID4">
+          <sap:WorkflowViewStateService.ViewState>
+            <scg:Dictionary x:TypeArguments="x:String, x:Object">
+              <av:Point x:Key="ShapeLocation">194.5,170.5</av:Point>
+              <av:Size x:Key="ShapeSize">211,59</av:Size>
+              <av:PointCollection x:Key="ConnectorLocation">300,229.5 298.403333333333,229.5 298.403333333333,259.5</av:PointCollection>
+            </scg:Dictionary>
+          </sap:WorkflowViewStateService.ViewState>
+          <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="211,59" sap2010:WorkflowViewState.IdRef="WriteLine_1" Text="[CorpLibState]" />
+          <FlowStep.Next>
+            <FlowDecision x:Name="__ReferenceID5" Condition="[CorpLibState.Contains(&quot;invisible&quot;)]" DisplayName="CorpLib Invisible?" sap:VirtualizedContainerService.HintSize="89,87" sap2010:WorkflowViewState.IdRef="FlowDecision_1">
+              <sap:WorkflowViewStateService.ViewState>
+                <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                  <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                  <av:Point x:Key="ShapeLocation">253.903333333333,259.5</av:Point>
+                  <av:Size x:Key="ShapeSize">89,87</av:Size>
+                  <av:PointCollection x:Key="TrueConnector">253.903333333333,303 230,303 230,310</av:PointCollection>
+                  <av:PointCollection x:Key="FalseConnector">342.903333333333,303 430,303 430,400 400,400</av:PointCollection>
+                </scg:Dictionary>
+              </sap:WorkflowViewStateService.ViewState>
+              <FlowDecision.True>
+                <FlowStep x:Name="__ReferenceID6">
+                  <sap:WorkflowViewStateService.ViewState>
+                    <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                      <av:Point x:Key="ShapeLocation">30,285.5</av:Point>
+                      <av:Size x:Key="ShapeSize">200,49</av:Size>
+                      <av:PointCollection x:Key="ConnectorLocation">130,334.5 130,400 200,400</av:PointCollection>
+                    </scg:Dictionary>
+                  </sap:WorkflowViewStateService.ViewState>
+                  <ui:Click DelayBefore="{x:Null}" DelayMS="{x:Null}" ClickType="CLICK_DOUBLE" DisplayName="Click Repository" sap:VirtualizedContainerService.HintSize="200,49" sap2010:WorkflowViewState.IdRef="Click_2" KeyModifiers="None" MouseButton="BTN_LEFT" SendWindowMessages="False" SimulateClick="False">
+                    <ui:Click.CursorPosition>
+                      <ui:CursorPosition Position="Center">
+                        <ui:CursorPosition.OffsetX>
+                          <InArgument x:TypeArguments="x:Int32" />
+                        </ui:CursorPosition.OffsetX>
+                        <ui:CursorPosition.OffsetY>
+                          <InArgument x:TypeArguments="x:Int32" />
+                        </ui:CursorPosition.OffsetY>
+                      </ui:CursorPosition>
+                    </ui:Click.CursorPosition>
+                    <ui:Click.Target>
+                      <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" TimeoutMS="{x:Null}" InformativeScreenshot="1d022823a6f36089f912e92cee467316" Selector="&lt;wnd app='thenavigator.exe' cls='Afx:*' title='Therefore™ Navigator' /&gt;&lt;wnd cls='SysTreeView32' idx='1' /&gt;&lt;ctrl name='Repository' role='outline item' /&gt;" WaitForReady="INTERACTIVE" />
+                    </ui:Click.Target>
+                  </ui:Click>
+                  <FlowStep.Next>
+                    <FlowStep x:Name="__ReferenceID3">
+                      <sap:WorkflowViewStateService.ViewState>
+                        <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                          <av:Point x:Key="ShapeLocation">200,375.5</av:Point>
+                          <av:Size x:Key="ShapeSize">200,49</av:Size>
+                          <av:PointCollection x:Key="ConnectorLocation">300,424.5 300,450.5</av:PointCollection>
+                        </scg:Dictionary>
+                      </sap:WorkflowViewStateService.ViewState>
+                      <ui:GetAttribute ContinueOnError="{x:Null}" Attribute="aastate" DisplayName="Get BPC Op Attribute" sap:VirtualizedContainerService.HintSize="200,49" sap2010:WorkflowViewState.IdRef="GetAttribute_3">
+                        <ui:GetAttribute.Result>
+                          <OutArgument x:TypeArguments="ui:GenericValue">[BPCState]</OutArgument>
+                        </ui:GetAttribute.Result>
+                        <ui:GetAttribute.Target>
+                          <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" TimeoutMS="{x:Null}" InformativeScreenshot="8a2d1ddc3c239f2fc5d8fe3326eb6fac" Selector="&lt;wnd app='thenavigator.exe' cls='Afx:*' title='Therefore™ Navigator' /&gt;&lt;wnd cls='SysTreeView32' idx='1' /&gt;&lt;ctrl name='BPC Operations Documents' role='outline item' /&gt;" WaitForReady="INTERACTIVE" />
+                        </ui:GetAttribute.Target>
+                      </ui:GetAttribute>
+                      <FlowStep.Next>
+                        <FlowStep x:Name="__ReferenceID8">
+                          <sap:WorkflowViewStateService.ViewState>
+                            <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                              <av:Point x:Key="ShapeLocation">194.5,450.5</av:Point>
+                              <av:Size x:Key="ShapeSize">211,59</av:Size>
+                              <av:PointCollection x:Key="ConnectorLocation">300,509.5 300,536.5</av:PointCollection>
+                            </scg:Dictionary>
+                          </sap:WorkflowViewStateService.ViewState>
+                          <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="211,59" sap2010:WorkflowViewState.IdRef="WriteLine_2" Text="[BPCState]" />
+                          <FlowStep.Next>
+                            <FlowDecision x:Name="__ReferenceID7" Condition="[BPCState.Contains(&quot;invisible&quot;)]" DisplayName="BPC Invisible?" sap:VirtualizedContainerService.HintSize="72,87" sap2010:WorkflowViewState.IdRef="FlowDecision_2">
+                              <sap:WorkflowViewStateService.ViewState>
+                                <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                                  <av:Point x:Key="ShapeLocation">265,536.5</av:Point>
+                                  <av:Size x:Key="ShapeSize">72,87</av:Size>
+                                  <av:PointCollection x:Key="TrueConnector">265,580 240,580</av:PointCollection>
+                                  <av:PointCollection x:Key="FalseConnector">337,580 430,580 430,670 400,670</av:PointCollection>
+                                </scg:Dictionary>
+                              </sap:WorkflowViewStateService.ViewState>
+                              <FlowDecision.True>
+                                <FlowStep x:Name="__ReferenceID9">
+                                  <sap:WorkflowViewStateService.ViewState>
+                                    <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                                      <av:Point x:Key="ShapeLocation">40,555.5</av:Point>
+                                      <av:Size x:Key="ShapeSize">200,49</av:Size>
+                                      <av:PointCollection x:Key="ConnectorLocation">140,604.5 140,670 200,670</av:PointCollection>
+                                    </scg:Dictionary>
+                                  </sap:WorkflowViewStateService.ViewState>
+                                  <ui:Click DelayBefore="{x:Null}" DelayMS="{x:Null}" ClickType="CLICK_SINGLE" DisplayName="Click Corp Lib" sap:VirtualizedContainerService.HintSize="200,49" sap2010:WorkflowViewState.IdRef="Click_3" KeyModifiers="None" MouseButton="BTN_LEFT" SendWindowMessages="False" SimulateClick="True">
+                                    <ui:Click.CursorPosition>
+                                      <ui:CursorPosition Position="Center">
+                                        <ui:CursorPosition.OffsetX>
+                                          <InArgument x:TypeArguments="x:Int32" />
+                                        </ui:CursorPosition.OffsetX>
+                                        <ui:CursorPosition.OffsetY>
+                                          <InArgument x:TypeArguments="x:Int32" />
+                                        </ui:CursorPosition.OffsetY>
+                                      </ui:CursorPosition>
+                                    </ui:Click.CursorPosition>
+                                    <ui:Click.Target>
+                                      <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" TimeoutMS="{x:Null}" InformativeScreenshot="a31bbde2f09e5f6b3b68ea3caee4ec64" Selector="&lt;wnd app='thenavigator.exe' cls='Afx:*' title='Therefore™ Navigator' /&gt;&lt;wnd cls='SysTreeView32' idx='1' /&gt;&lt;ctrl name='Corporate Libraries' role='outline item' /&gt;" WaitForReady="INTERACTIVE" />
+                                    </ui:Click.Target>
+                                  </ui:Click>
+                                  <FlowStep.Next>
+                                    <FlowStep x:Name="__ReferenceID2">
+                                      <sap:WorkflowViewStateService.ViewState>
+                                        <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                                          <av:Point x:Key="ShapeLocation">200,645.5</av:Point>
+                                          <av:Size x:Key="ShapeSize">200,49</av:Size>
+                                          <av:PointCollection x:Key="ConnectorLocation">300,694.5 300,720.5</av:PointCollection>
+                                        </scg:Dictionary>
+                                      </sap:WorkflowViewStateService.ViewState>
+                                      <ui:GetAttribute ContinueOnError="{x:Null}" Attribute="aastate" DisplayName="Get SOP Attribute" sap:VirtualizedContainerService.HintSize="200,49" sap2010:WorkflowViewState.IdRef="GetAttribute_4">
+                                        <ui:GetAttribute.Result>
+                                          <OutArgument x:TypeArguments="ui:GenericValue">[SOPState]</OutArgument>
+                                        </ui:GetAttribute.Result>
+                                        <ui:GetAttribute.Target>
+                                          <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" TimeoutMS="{x:Null}" InformativeScreenshot="3a6c47a7558cfa6ac6cde0d3ffc61576" Selector="&lt;wnd app='thenavigator.exe' cls='Afx:*' title='Therefore™ Navigator' /&gt;&lt;wnd cls='SysTreeView32' idx='1' /&gt;&lt;ctrl name='Standard Operating Procedures' role='outline item' /&gt;" WaitForReady="INTERACTIVE" />
+                                        </ui:GetAttribute.Target>
+                                        <sap:WorkflowViewStateService.ViewState>
+                                          <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                                            <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                                          </scg:Dictionary>
+                                        </sap:WorkflowViewStateService.ViewState>
+                                      </ui:GetAttribute>
+                                      <FlowStep.Next>
+                                        <FlowStep x:Name="__ReferenceID10">
+                                          <sap:WorkflowViewStateService.ViewState>
+                                            <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                                              <av:Point x:Key="ShapeLocation">194.5,720.5</av:Point>
+                                              <av:Size x:Key="ShapeSize">211,59</av:Size>
+                                              <av:PointCollection x:Key="ConnectorLocation">300,779.5 300,809.5 300.403333333333,809.5</av:PointCollection>
+                                            </scg:Dictionary>
+                                          </sap:WorkflowViewStateService.ViewState>
+                                          <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="211,59" sap2010:WorkflowViewState.IdRef="WriteLine_3" Text="[SOPState]" />
+                                          <FlowStep.Next>
+                                            <FlowDecision x:Name="__ReferenceID12" Condition="[SOPState.Contains(&quot;invisible&quot;)]" DisplayName="SOP Invisible?" sap:VirtualizedContainerService.HintSize="73,87" sap2010:WorkflowViewState.IdRef="FlowDecision_3">
+                                              <sap:WorkflowViewStateService.ViewState>
+                                                <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                                                  <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                                                  <av:Point x:Key="ShapeLocation">263.903333333333,809.5</av:Point>
+                                                  <av:Size x:Key="ShapeSize">73,87</av:Size>
+                                                  <av:PointCollection x:Key="TrueConnector">263.903333333333,853 233.903333333333,853 233.903333333333,850 230,850</av:PointCollection>
+                                                  <av:PointCollection x:Key="FalseConnector">336.903333333333,853 430,853 430,940 400,940</av:PointCollection>
+                                                </scg:Dictionary>
+                                              </sap:WorkflowViewStateService.ViewState>
+                                              <FlowDecision.True>
+                                                <FlowStep x:Name="__ReferenceID11">
+                                                  <sap:WorkflowViewStateService.ViewState>
+                                                    <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                                                      <av:Point x:Key="ShapeLocation">30,825.5</av:Point>
+                                                      <av:Size x:Key="ShapeSize">200,49</av:Size>
+                                                      <av:PointCollection x:Key="ConnectorLocation">130,874.5 130,940 200,940</av:PointCollection>
+                                                    </scg:Dictionary>
+                                                  </sap:WorkflowViewStateService.ViewState>
+                                                  <ui:Click DelayBefore="{x:Null}" DelayMS="{x:Null}" ClickType="CLICK_SINGLE" DisplayName="Click BPC Op" sap:VirtualizedContainerService.HintSize="200,49" sap2010:WorkflowViewState.IdRef="Click_4" KeyModifiers="None" MouseButton="BTN_LEFT" SendWindowMessages="False" SimulateClick="True">
+                                                    <ui:Click.CursorPosition>
+                                                      <ui:CursorPosition Position="Center">
+                                                        <ui:CursorPosition.OffsetX>
+                                                          <InArgument x:TypeArguments="x:Int32" />
+                                                        </ui:CursorPosition.OffsetX>
+                                                        <ui:CursorPosition.OffsetY>
+                                                          <InArgument x:TypeArguments="x:Int32" />
+                                                        </ui:CursorPosition.OffsetY>
+                                                      </ui:CursorPosition>
+                                                    </ui:Click.CursorPosition>
+                                                    <ui:Click.Target>
+                                                      <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" TimeoutMS="{x:Null}" InformativeScreenshot="04ae67c9740967767380a8c445f67878" Selector="&lt;wnd app='thenavigator.exe' cls='Afx:*' title='Therefore™ Navigator' /&gt;&lt;wnd cls='SysTreeView32' idx='1' /&gt;&lt;ctrl name='BPC Operations Documents' role='outline item' /&gt;" WaitForReady="INTERACTIVE" />
+                                                    </ui:Click.Target>
+                                                    <sap:WorkflowViewStateService.ViewState>
+                                                      <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                                                        <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                                                      </scg:Dictionary>
+                                                    </sap:WorkflowViewStateService.ViewState>
+                                                  </ui:Click>
+                                                  <FlowStep.Next>
+                                                    <FlowStep x:Name="__ReferenceID1">
+                                                      <sap:WorkflowViewStateService.ViewState>
+                                                        <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                                                          <av:Point x:Key="ShapeLocation">200,915.5</av:Point>
+                                                          <av:Size x:Key="ShapeSize">200,49</av:Size>
+                                                          <av:PointCollection x:Key="ConnectorLocation">300,964.5 300,990.5</av:PointCollection>
+                                                        </scg:Dictionary>
+                                                      </sap:WorkflowViewStateService.ViewState>
+                                                      <ui:GetAttribute ContinueOnError="{x:Null}" Attribute="aastate" DisplayName="Get BPC SOP Attribute" sap:VirtualizedContainerService.HintSize="200,49" sap2010:WorkflowViewState.IdRef="GetAttribute_5">
+                                                        <ui:GetAttribute.Result>
+                                                          <OutArgument x:TypeArguments="ui:GenericValue">[BPCSOPState]</OutArgument>
+                                                        </ui:GetAttribute.Result>
+                                                        <ui:GetAttribute.Target>
+                                                          <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" TimeoutMS="{x:Null}" InformativeScreenshot="f33c9e1ea4629b3003f73c216b73783f" Selector="&lt;wnd app='thenavigator.exe' cls='Afx:*' title='Therefore™ Navigator' /&gt;&lt;wnd cls='SysTreeView32' idx='1' /&gt;&lt;ctrl name='BPC Standard Operating Procedures' role='outline item' /&gt;" WaitForReady="INTERACTIVE" />
+                                                        </ui:GetAttribute.Target>
+                                                        <sap:WorkflowViewStateService.ViewState>
+                                                          <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                                                            <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                                                          </scg:Dictionary>
+                                                        </sap:WorkflowViewStateService.ViewState>
+                                                      </ui:GetAttribute>
+                                                      <FlowStep.Next>
+                                                        <FlowStep x:Name="__ReferenceID13">
+                                                          <sap:WorkflowViewStateService.ViewState>
+                                                            <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                                                              <av:Point x:Key="ShapeLocation">194.5,990.5</av:Point>
+                                                              <av:Size x:Key="ShapeSize">211,59</av:Size>
+                                                              <av:PointCollection x:Key="ConnectorLocation">300,1049.5 300,1069.5 300.403333333333,1069.5</av:PointCollection>
+                                                            </scg:Dictionary>
+                                                          </sap:WorkflowViewStateService.ViewState>
+                                                          <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="211,59" sap2010:WorkflowViewState.IdRef="WriteLine_4" Text="[BPCSOPState]" />
+                                                          <FlowStep.Next>
+                                                            <FlowDecision x:Name="__ReferenceID14" Condition="[BPCSOPState.Contains(&quot;invisible&quot;)]" DisplayName="BPC SOP invisible?" sap:VirtualizedContainerService.HintSize="93,87" sap2010:WorkflowViewState.IdRef="FlowDecision_4">
+                                                              <sap:WorkflowViewStateService.ViewState>
+                                                                <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                                                                  <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                                                                  <av:Point x:Key="ShapeLocation">253.903333333333,1069.5</av:Point>
+                                                                  <av:Size x:Key="ShapeSize">93,87</av:Size>
+                                                                  <av:PointCollection x:Key="TrueConnector">253.903333333333,1113 223.903333333333,1113 223.903333333333,1110 220,1110</av:PointCollection>
+                                                                  <av:PointCollection x:Key="FalseConnector">346.903333333333,1113 440,1113 440,1210 410,1210</av:PointCollection>
+                                                                </scg:Dictionary>
+                                                              </sap:WorkflowViewStateService.ViewState>
+                                                              <FlowDecision.True>
+                                                                <FlowStep x:Name="__ReferenceID15">
+                                                                  <sap:WorkflowViewStateService.ViewState>
+                                                                    <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                                                                      <av:Point x:Key="ShapeLocation">20,1085.5</av:Point>
+                                                                      <av:Size x:Key="ShapeSize">200,49</av:Size>
+                                                                      <av:PointCollection x:Key="ConnectorLocation">120,1134.5 120,1210 210,1210</av:PointCollection>
+                                                                    </scg:Dictionary>
+                                                                  </sap:WorkflowViewStateService.ViewState>
+                                                                  <ui:Click DelayBefore="{x:Null}" DelayMS="{x:Null}" ClickType="CLICK_SINGLE" DisplayName="Click SOP" sap:VirtualizedContainerService.HintSize="200,49" sap2010:WorkflowViewState.IdRef="Click_5" KeyModifiers="None" MouseButton="BTN_LEFT" SendWindowMessages="False" SimulateClick="True">
+                                                                    <ui:Click.CursorPosition>
+                                                                      <ui:CursorPosition Position="Center">
+                                                                        <ui:CursorPosition.OffsetX>
+                                                                          <InArgument x:TypeArguments="x:Int32" />
+                                                                        </ui:CursorPosition.OffsetX>
+                                                                        <ui:CursorPosition.OffsetY>
+                                                                          <InArgument x:TypeArguments="x:Int32" />
+                                                                        </ui:CursorPosition.OffsetY>
+                                                                      </ui:CursorPosition>
+                                                                    </ui:Click.CursorPosition>
+                                                                    <ui:Click.Target>
+                                                                      <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" TimeoutMS="{x:Null}" InformativeScreenshot="3a6c47a7558cfa6ac6cde0d3ffc61576" Selector="&lt;wnd app='thenavigator.exe' cls='Afx:*' title='Therefore™ Navigator' /&gt;&lt;wnd cls='SysTreeView32' idx='1' /&gt;&lt;ctrl name='Standard Operating Procedures' role='outline item' /&gt;" WaitForReady="INTERACTIVE" />
+                                                                    </ui:Click.Target>
+                                                                    <sap:WorkflowViewStateService.ViewState>
+                                                                      <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                                                                        <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                                                                      </scg:Dictionary>
+                                                                    </sap:WorkflowViewStateService.ViewState>
+                                                                  </ui:Click>
+                                                                  <FlowStep.Next>
+                                                                    <FlowStep x:Name="__ReferenceID0">
+                                                                      <sap:WorkflowViewStateService.ViewState>
+                                                                        <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                                                                          <av:Point x:Key="ShapeLocation">210,1185.5</av:Point>
+                                                                          <av:Size x:Key="ShapeSize">200,49</av:Size>
+                                                                          <av:PointCollection x:Key="ConnectorLocation">310,1234.5 310,1264.5</av:PointCollection>
+                                                                        </scg:Dictionary>
+                                                                      </sap:WorkflowViewStateService.ViewState>
+                                                                      <ui:Click DelayBefore="{x:Null}" DelayMS="{x:Null}" ClickType="CLICK_SINGLE" DisplayName="Click BPC SOP" sap:VirtualizedContainerService.HintSize="200,49" sap2010:WorkflowViewState.IdRef="Click_6" KeyModifiers="None" MouseButton="BTN_LEFT" SendWindowMessages="False" SimulateClick="False">
+                                                                        <ui:Click.CursorPosition>
+                                                                          <ui:CursorPosition Position="Center">
+                                                                            <ui:CursorPosition.OffsetX>
+                                                                              <InArgument x:TypeArguments="x:Int32" />
+                                                                            </ui:CursorPosition.OffsetX>
+                                                                            <ui:CursorPosition.OffsetY>
+                                                                              <InArgument x:TypeArguments="x:Int32" />
+                                                                            </ui:CursorPosition.OffsetY>
+                                                                          </ui:CursorPosition>
+                                                                        </ui:Click.CursorPosition>
+                                                                        <ui:Click.Target>
+                                                                          <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" TimeoutMS="{x:Null}" InformativeScreenshot="8db66fbfbae09e030a5d76f053a1c05e" Selector="&lt;wnd app='thenavigator.exe' cls='Afx:*' title='Therefore™ Navigator' /&gt;&lt;wnd cls='SysTreeView32' idx='1' /&gt;&lt;ctrl name='BPC Standard Operating Procedures' role='outline item' /&gt;" WaitForReady="INTERACTIVE" />
+                                                                        </ui:Click.Target>
+                                                                        <sap:WorkflowViewStateService.ViewState>
+                                                                          <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                                                                            <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                                                                          </scg:Dictionary>
+                                                                        </sap:WorkflowViewStateService.ViewState>
+                                                                      </ui:Click>
+                                                                      <FlowStep.Next>
+                                                                        <FlowStep x:Name="__ReferenceID16">
+                                                                          <sap:WorkflowViewStateService.ViewState>
+                                                                            <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                                                                              <av:Point x:Key="ShapeLocation">210,1264.5</av:Point>
+                                                                              <av:Size x:Key="ShapeSize">200,49</av:Size>
+                                                                              <av:PointCollection x:Key="ConnectorLocation">310,1313.5 310,1335.5</av:PointCollection>
+                                                                            </scg:Dictionary>
+                                                                          </sap:WorkflowViewStateService.ViewState>
+                                                                          <ui:SendHotkey DelayBefore="{x:Null}" DelayBetweenKeys="{x:Null}" DelayMS="{x:Null}" Activate="True" ClickBeforeTyping="False" DisplayName="Send Hotkey" EmptyField="False" sap:VirtualizedContainerService.HintSize="200,49" sap2010:WorkflowViewState.IdRef="SendHotkey_1" Key="enter" KeyModifiers="None" SendWindowMessages="False" SpecialKey="True">
+                                                                            <ui:SendHotkey.Target>
+                                                                              <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Selector="{x:Null}" TimeoutMS="{x:Null}" WaitForReady="INTERACTIVE" />
+                                                                            </ui:SendHotkey.Target>
+                                                                            <sap:WorkflowViewStateService.ViewState>
+                                                                              <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                                                                                <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                                                                              </scg:Dictionary>
+                                                                            </sap:WorkflowViewStateService.ViewState>
+                                                                          </ui:SendHotkey>
+                                                                          <FlowStep.Next>
+                                                                            <FlowStep x:Name="__ReferenceID17">
+                                                                              <sap:WorkflowViewStateService.ViewState>
+                                                                                <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                                                                                  <av:Point x:Key="ShapeLocation">210,1335.5</av:Point>
+                                                                                  <av:Size x:Key="ShapeSize">200,49</av:Size>
+                                                                                  <av:PointCollection x:Key="ConnectorLocation">310,1384.5 310,1405.36166666667</av:PointCollection>
+                                                                                </scg:Dictionary>
+                                                                              </sap:WorkflowViewStateService.ViewState>
+                                                                              <ui:SendHotkey DelayBefore="{x:Null}" DelayBetweenKeys="{x:Null}" DelayMS="{x:Null}" Activate="True" ClickBeforeTyping="False" DisplayName="Send Hotkey" EmptyField="False" sap:VirtualizedContainerService.HintSize="200,49" sap2010:WorkflowViewState.IdRef="SendHotkey_2" Key="enter" KeyModifiers="None" SendWindowMessages="False" SpecialKey="True">
+                                                                                <ui:SendHotkey.Target>
+                                                                                  <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Selector="{x:Null}" TimeoutMS="{x:Null}" WaitForReady="INTERACTIVE" />
+                                                                                </ui:SendHotkey.Target>
+                                                                                <sap:WorkflowViewStateService.ViewState>
+                                                                                  <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                                                                                    <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                                                                                  </scg:Dictionary>
+                                                                                </sap:WorkflowViewStateService.ViewState>
+                                                                              </ui:SendHotkey>
+                                                                              <FlowStep.Next>
+                                                                                <FlowStep x:Name="__ReferenceID18">
+                                                                                  <sap:WorkflowViewStateService.ViewState>
+                                                                                    <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                                                                                      <av:Point x:Key="ShapeLocation">210,1405.36166666667</av:Point>
+                                                                                      <av:Size x:Key="ShapeSize">200,49</av:Size>
+                                                                                      <av:PointCollection x:Key="ConnectorLocation">310,1454.36166666667 308.903333333333,1454.36166666667 308.903333333333,1484.36166666667</av:PointCollection>
+                                                                                    </scg:Dictionary>
+                                                                                  </sap:WorkflowViewStateService.ViewState>
+                                                                                  <ui:UiElementExists DisplayName="Pop up" Exists="[PopupExist]" sap:VirtualizedContainerService.HintSize="200,49" sap2010:WorkflowViewState.IdRef="UiElementExists_1">
+                                                                                    <ui:UiElementExists.Target>
+                                                                                      <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" InformativeScreenshot="4c5c0c49a8f74c19178561910193e527" Selector="&lt;wnd app='thenavigator.exe' cls='#32770' title='Therefore™ Navigator' /&gt;&lt;wnd aaname='Therefore™ Navigator' cls='DirectUIHWND' /&gt;&lt;ctrl name='Therefore™ Navigator' role='pane' /&gt;&lt;ctrl name='Do you really want to see all items?' role='text' /&gt;" TimeoutMS="3000" WaitForReady="INTERACTIVE" />
+                                                                                    </ui:UiElementExists.Target>
+                                                                                    <sap:WorkflowViewStateService.ViewState>
+                                                                                      <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                                                                                        <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                                                                                      </scg:Dictionary>
+                                                                                    </sap:WorkflowViewStateService.ViewState>
+                                                                                  </ui:UiElementExists>
+                                                                                  <FlowStep.Next>
+                                                                                    <FlowDecision x:Name="__ReferenceID19" Condition="[PopupExist]" DisplayName="Pop Up" sap:VirtualizedContainerService.HintSize="70,87" sap2010:WorkflowViewState.IdRef="FlowDecision_5">
+                                                                                      <sap:WorkflowViewStateService.ViewState>
+                                                                                        <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                                                                                          <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                                                                                          <av:Point x:Key="ShapeLocation">273.903333333333,1484.36166666667</av:Point>
+                                                                                          <av:Size x:Key="ShapeSize">70,87</av:Size>
+                                                                                          <av:PointCollection x:Key="TrueConnector">273.903333333333,1527.86166666667 243.903333333333,1527.86166666667 243.903333333333,1530 230,1530</av:PointCollection>
+                                                                                        </scg:Dictionary>
+                                                                                      </sap:WorkflowViewStateService.ViewState>
+                                                                                      <FlowDecision.True>
+                                                                                        <FlowStep x:Name="__ReferenceID20">
+                                                                                          <sap:WorkflowViewStateService.ViewState>
+                                                                                            <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                                                                                              <av:Point x:Key="ShapeLocation">30,1505.5</av:Point>
+                                                                                              <av:Size x:Key="ShapeSize">200,49</av:Size>
+                                                                                              <av:PointCollection x:Key="ConnectorLocation">320,1394.5 320,1415.36166666667</av:PointCollection>
+                                                                                            </scg:Dictionary>
+                                                                                          </sap:WorkflowViewStateService.ViewState>
+                                                                                          <ui:SendHotkey DelayBefore="{x:Null}" DelayBetweenKeys="{x:Null}" DelayMS="{x:Null}" Activate="True" ClickBeforeTyping="False" DisplayName="Send Hotkey" EmptyField="False" sap:VirtualizedContainerService.HintSize="200,49" sap2010:WorkflowViewState.IdRef="SendHotkey_3" Key="enter" KeyModifiers="None" SendWindowMessages="False" SpecialKey="True">
+                                                                                            <ui:SendHotkey.Target>
+                                                                                              <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Selector="{x:Null}" TimeoutMS="{x:Null}" WaitForReady="INTERACTIVE" />
+                                                                                            </ui:SendHotkey.Target>
+                                                                                            <sap:WorkflowViewStateService.ViewState>
+                                                                                              <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                                                                                                <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                                                                                              </scg:Dictionary>
+                                                                                            </sap:WorkflowViewStateService.ViewState>
+                                                                                          </ui:SendHotkey>
+                                                                                        </FlowStep>
+                                                                                      </FlowDecision.True>
+                                                                                    </FlowDecision>
+                                                                                  </FlowStep.Next>
+                                                                                </FlowStep>
+                                                                              </FlowStep.Next>
+                                                                            </FlowStep>
+                                                                          </FlowStep.Next>
+                                                                        </FlowStep>
+                                                                      </FlowStep.Next>
+                                                                    </FlowStep>
+                                                                  </FlowStep.Next>
+                                                                </FlowStep>
+                                                              </FlowDecision.True>
+                                                              <FlowDecision.False>
+                                                                <x:Reference>__ReferenceID0</x:Reference>
+                                                              </FlowDecision.False>
+                                                            </FlowDecision>
+                                                          </FlowStep.Next>
+                                                        </FlowStep>
+                                                      </FlowStep.Next>
+                                                    </FlowStep>
+                                                  </FlowStep.Next>
+                                                </FlowStep>
+                                              </FlowDecision.True>
+                                              <FlowDecision.False>
+                                                <x:Reference>__ReferenceID1</x:Reference>
+                                              </FlowDecision.False>
+                                            </FlowDecision>
+                                          </FlowStep.Next>
+                                        </FlowStep>
+                                      </FlowStep.Next>
+                                    </FlowStep>
+                                  </FlowStep.Next>
+                                </FlowStep>
+                              </FlowDecision.True>
+                              <FlowDecision.False>
+                                <x:Reference>__ReferenceID2</x:Reference>
+                              </FlowDecision.False>
+                            </FlowDecision>
+                          </FlowStep.Next>
+                        </FlowStep>
+                      </FlowStep.Next>
+                    </FlowStep>
+                  </FlowStep.Next>
+                </FlowStep>
+              </FlowDecision.True>
+              <FlowDecision.False>
+                <x:Reference>__ReferenceID3</x:Reference>
+              </FlowDecision.False>
+            </FlowDecision>
+          </FlowStep.Next>
+        </FlowStep>
+      </FlowStep.Next>
+    </FlowStep>
+    <x:Reference>__ReferenceID4</x:Reference>
+    <x:Reference>__ReferenceID5</x:Reference>
+    <x:Reference>__ReferenceID6</x:Reference>
+    <x:Reference>__ReferenceID3</x:Reference>
+    <x:Reference>__ReferenceID7</x:Reference>
+    <x:Reference>__ReferenceID8</x:Reference>
+    <x:Reference>__ReferenceID9</x:Reference>
+    <x:Reference>__ReferenceID2</x:Reference>
+    <x:Reference>__ReferenceID10</x:Reference>
+    <x:Reference>__ReferenceID11</x:Reference>
+    <x:Reference>__ReferenceID12</x:Reference>
+    <x:Reference>__ReferenceID1</x:Reference>
+    <x:Reference>__ReferenceID13</x:Reference>
+    <x:Reference>__ReferenceID14</x:Reference>
+    <x:Reference>__ReferenceID15</x:Reference>
+    <x:Reference>__ReferenceID0</x:Reference>
+    <x:Reference>__ReferenceID16</x:Reference>
+    <x:Reference>__ReferenceID17</x:Reference>
+    <x:Reference>__ReferenceID18</x:Reference>
+    <x:Reference>__ReferenceID19</x:Reference>
+    <x:Reference>__ReferenceID20</x:Reference>
+  </Flowchart>
+</Activity>

@@ -1,0 +1,287 @@
+<Activity mc:Ignorable="sap sap2010" x:Class="BOX_Scrape_Folders_Until_Last_Page" xmlns="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:mv="clr-namespace:Microsoft.VisualBasic;assembly=Microsoft.VisualBasic, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" xmlns:mva="clr-namespace:Microsoft.VisualBasic.Activities;assembly=System.Activities" xmlns:p="http://schemas.uipath.com/workflow/activities/cv" xmlns:s="clr-namespace:System;assembly=mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" xmlns:sa="clr-namespace:System.Activities;assembly=System.Activities, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" xmlns:sap="http://schemas.microsoft.com/netfx/2009/xaml/activities/presentation" xmlns:sap2010="http://schemas.microsoft.com/netfx/2010/xaml/activities/presentation" xmlns:sc="clr-namespace:System.Collections;assembly=mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" xmlns:scg1="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:sco="clr-namespace:System.Collections.ObjectModel;assembly=mscorlib" xmlns:sd="clr-namespace:System.Data;assembly=System.Data" xmlns:sd1="clr-namespace:System.Data;assembly=System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" xmlns:sd2="clr-namespace:System.Data;assembly=System.Data.DataSetExtensions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" xmlns:sd3="clr-namespace:System.Diagnostics;assembly=System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" xmlns:sd4="clr-namespace:System.Drawing;assembly=System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" xmlns:sd5="clr-namespace:System.Drawing;assembly=System.Drawing" xmlns:si="clr-namespace:System.IO;assembly=mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" xmlns:sl="clr-namespace:System.Linq;assembly=System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" xmlns:snm="clr-namespace:System.Net.Mail;assembly=System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" xmlns:sx="clr-namespace:System.Xml;assembly=System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" xmlns:sxl="clr-namespace:System.Xml.Linq;assembly=System.Xml.Linq, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" xmlns:uc="clr-namespace:UiPath.CV;assembly=UiPath.CV" xmlns:ui="http://schemas.uipath.com/workflow/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <x:Members>
+    <x:Property Name="Out_ExtractedDataTable" Type="OutArgument(sd:DataTable)" />
+  </x:Members>
+  <sap:VirtualizedContainerService.HintSize>526,2457</sap:VirtualizedContainerService.HintSize>
+  <sap2010:WorkflowViewState.IdRef>ActivityBuilder_1</sap2010:WorkflowViewState.IdRef>
+  <mva:VisualBasic.Settings>Assembly references and imported namespaces for internal implementation</mva:VisualBasic.Settings>
+  <TextExpression.NamespacesForImplementation>
+    <sco:Collection x:TypeArguments="x:String">
+      <x:String>UiPath.Core</x:String>
+      <x:String>UiPath.Core.Activities</x:String>
+    </sco:Collection>
+  </TextExpression.NamespacesForImplementation>
+  <TextExpression.ReferencesForImplementation>
+    <sco:Collection x:TypeArguments="AssemblyReference">
+      <AssemblyReference>UiPath.UiAutomation.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.System.Activities</AssemblyReference>
+    </sco:Collection>
+  </TextExpression.ReferencesForImplementation>
+  <Sequence DisplayName="Scrape Folders Until Last Page" sap:VirtualizedContainerService.HintSize="486,2377" sap2010:WorkflowViewState.IdRef="Sequence_6">
+    <Sequence.Variables>
+      <Variable x:TypeArguments="x:String" Name="MaxPage" />
+      <Variable x:TypeArguments="x:String" Name="PageNumber" />
+      <Variable x:TypeArguments="x:String" Name="PageCount" />
+    </Sequence.Variables>
+    <sap:WorkflowViewStateService.ViewState>
+      <scg1:Dictionary x:TypeArguments="x:String, x:Object">
+        <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+        <x:Boolean x:Key="IsPinned">False</x:Boolean>
+      </scg1:Dictionary>
+    </sap:WorkflowViewStateService.ViewState>
+    <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="464,59" sap2010:WorkflowViewState.IdRef="WriteLine_3" Text="Scraping all pages" />
+    <ui:BrowserScope Browser="{x:Null}" SearchScope="{x:Null}" TimeoutMS="{x:Null}" UiBrowser="{x:Null}" BrowserType="Firefox" DisplayName="Check if there is multiple page" sap:VirtualizedContainerService.HintSize="464,252" sap2010:WorkflowViewState.IdRef="BrowserScope_4" InformativeScreenshot="18ab476160ed2c8935d29100d90df0ac" Selector="&lt;html app='firefox.exe' title='* | Powered by Box' /&gt;">
+      <ui:BrowserScope.Body>
+        <ActivityAction x:TypeArguments="x:Object">
+          <ActivityAction.Argument>
+            <DelegateInArgument x:TypeArguments="x:Object" Name="ContextTarget" />
+          </ActivityAction.Argument>
+          <ui:ExtractData NextLinkSelector="{x:Null}" ContinueOnError="True" DataTable="[Out_ExtractedDataTable]" DelayBetweenPagesMS="300" DisplayName="Extract Structured Data 'DIV  contextmenutarget1...'" ExtractMetadata="&lt;extract&gt;&lt;row exact='1'&gt;&lt;webctrl tag='div' idx='1'/&gt;&lt;webctrl tag='div' idx='1'/&gt;&lt;webctrl tag='div' class='ReactVirtualized__Table table is-window-scrollable has-hover-styles is-selectable' idx='1'/&gt;&lt;webctrl tag='div' class='ReactVirtualized__Grid ReactVirtualized__Table__Grid table-body' idx='1'/&gt;&lt;webctrl tag='div' class='ReactVirtualized__Grid__innerScrollContainer' idx='1'/&gt;&lt;webctrl tag='div' class='ReactVirtualized__Table__row table-row'/&gt;&lt;/row&gt;&lt;column exact='1' name='FolderName' attr='text'&gt;&lt;webctrl tag='div' idx='1'/&gt;&lt;webctrl tag='div' idx='1'/&gt;&lt;webctrl tag='div' class='ReactVirtualized__Table table is-window-scrollable has-hover-styles is-selectable' idx='1'/&gt;&lt;webctrl tag='div' class='ReactVirtualized__Grid ReactVirtualized__Table__Grid table-body' idx='1'/&gt;&lt;webctrl tag='div' class='ReactVirtualized__Grid__innerScrollContainer' idx='1'/&gt;&lt;webctrl tag='div' class='ReactVirtualized__Table__row table-row'/&gt;&lt;webctrl tag='div' class='ReactVirtualized__Table__rowColumn file-list-name' idx='1'/&gt;&lt;webctrl tag='div' class='item-list-name' idx='1'/&gt;&lt;webctrl tag='div' class='item-name-holder' idx='1'/&gt;&lt;webctrl tag='div' class='name-row' idx='1'/&gt;&lt;/column&gt;&lt;column exact='1' name='Count' attr='text'&gt;&lt;webctrl tag='div' idx='1'/&gt;&lt;webctrl tag='div' idx='1'/&gt;&lt;webctrl tag='div' class='ReactVirtualized__Table table is-window-scrollable has-hover-styles is-selectable' idx='1'/&gt;&lt;webctrl tag='div' class='ReactVirtualized__Grid ReactVirtualized__Table__Grid table-body' idx='1'/&gt;&lt;webctrl tag='div' class='ReactVirtualized__Grid__innerScrollContainer' idx='1'/&gt;&lt;webctrl tag='div' class='ReactVirtualized__Table__row table-row'/&gt;&lt;webctrl tag='div' class='ReactVirtualized__Table__rowColumn file-list-size' idx='1'/&gt;&lt;/column&gt;&lt;/extract&gt;" sap:VirtualizedContainerService.HintSize="314,106" sap2010:WorkflowViewState.IdRef="ExtractData_4" MaxNumberOfResults="0">
+            <ui:ExtractData.Target>
+              <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" TimeoutMS="{x:Null}" InformativeScreenshot="6a0de281ccbe0dfa0cf2471750474193" Selector="&lt;webctrl id='contextmenutarget*' tag='DIV' /&gt;" WaitForReady="NONE" />
+            </ui:ExtractData.Target>
+          </ui:ExtractData>
+        </ActivityAction>
+      </ui:BrowserScope.Body>
+      <sap:WorkflowViewStateService.ViewState>
+        <scg1:Dictionary x:TypeArguments="x:String, x:Object">
+          <x:Boolean x:Key="IsPinned">False</x:Boolean>
+          <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+        </scg1:Dictionary>
+      </sap:WorkflowViewStateService.ViewState>
+    </ui:BrowserScope>
+    <ui:GetAttribute ContinueOnError="{x:Null}" Attribute="aaname" DisplayName="Get Page Numbers" sap:VirtualizedContainerService.HintSize="464,134" sap2010:WorkflowViewState.IdRef="GetAttribute_6">
+      <ui:GetAttribute.Result>
+        <OutArgument x:TypeArguments="x:String">[PageNumber]</OutArgument>
+      </ui:GetAttribute.Result>
+      <ui:GetAttribute.Target>
+        <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" TimeoutMS="{x:Null}" InformativeScreenshot="4bf2d1d39e39979e9b7a258ae77e5cbe" Selector="&lt;html app='firefox.exe' title='* | Powered by Box' /&gt;&lt;webctrl tag='BUTTON' parentclass='pagination ' /&gt;" WaitForReady="INTERACTIVE" />
+      </ui:GetAttribute.Target>
+      <sap:WorkflowViewStateService.ViewState>
+        <scg1:Dictionary x:TypeArguments="x:String, x:Object">
+          <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+          <x:Boolean x:Key="IsPinned">False</x:Boolean>
+        </scg1:Dictionary>
+      </sap:WorkflowViewStateService.ViewState>
+    </ui:GetAttribute>
+    <Assign DisplayName="PageCount" sap:VirtualizedContainerService.HintSize="464,59" sap2010:WorkflowViewState.IdRef="Assign_2">
+      <Assign.To>
+        <OutArgument x:TypeArguments="x:String">[PageCount]</OutArgument>
+      </Assign.To>
+      <Assign.Value>
+        <InArgument x:TypeArguments="x:String">[Split(PageNumber, " ")(0)]</InArgument>
+      </Assign.Value>
+    </Assign>
+    <Assign DisplayName="Max Number of Page" sap:VirtualizedContainerService.HintSize="464,59" sap2010:WorkflowViewState.IdRef="Assign_3">
+      <Assign.To>
+        <OutArgument x:TypeArguments="x:String">[MaxPage]</OutArgument>
+      </Assign.To>
+      <Assign.Value>
+        <InArgument x:TypeArguments="x:String">[Split(PageNumber, " ")(2)]</InArgument>
+      </Assign.Value>
+    </Assign>
+    <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="464,59" sap2010:WorkflowViewState.IdRef="WriteLine_2" Text="[PageCount + &quot; of &quot; + MaxPage]" />
+    <DoWhile DisplayName="Click Next Until Max Page Is Reached" sap:VirtualizedContainerService.HintSize="464,1391" sap2010:WorkflowViewState.IdRef="DoWhile_1">
+      <sap:WorkflowViewStateService.ViewState>
+        <scg1:Dictionary x:TypeArguments="x:String, x:Object">
+          <x:Boolean x:Key="IsPinned">False</x:Boolean>
+          <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+        </scg1:Dictionary>
+      </sap:WorkflowViewStateService.ViewState>
+      <DoWhile.Condition>[NOT MaxPage.Equals(PageCount)]</DoWhile.Condition>
+      <Sequence sap:VirtualizedContainerService.HintSize="436,1234" sap2010:WorkflowViewState.IdRef="Sequence_5">
+        <sap:WorkflowViewStateService.ViewState>
+          <scg1:Dictionary x:TypeArguments="x:String, x:Object">
+            <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+            <x:Boolean x:Key="IsPinned">False</x:Boolean>
+          </scg1:Dictionary>
+        </sap:WorkflowViewStateService.ViewState>
+        <ui:GetAttribute ContinueOnError="{x:Null}" Attribute="aaname" DisplayName="Get Page Numbers" sap:VirtualizedContainerService.HintSize="414,134" sap2010:WorkflowViewState.IdRef="GetAttribute_2">
+          <ui:GetAttribute.Result>
+            <OutArgument x:TypeArguments="x:String">[PageNumber]</OutArgument>
+          </ui:GetAttribute.Result>
+          <ui:GetAttribute.Target>
+            <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" TimeoutMS="{x:Null}" InformativeScreenshot="4bf2d1d39e39979e9b7a258ae77e5cbe" Selector="&lt;html app='firefox.exe' title='* | Powered by Box' /&gt;&lt;webctrl tag='BUTTON' parentclass='pagination ' /&gt;" WaitForReady="INTERACTIVE" />
+          </ui:GetAttribute.Target>
+          <sap:WorkflowViewStateService.ViewState>
+            <scg1:Dictionary x:TypeArguments="x:String, x:Object">
+              <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+              <x:Boolean x:Key="IsPinned">False</x:Boolean>
+            </scg1:Dictionary>
+          </sap:WorkflowViewStateService.ViewState>
+        </ui:GetAttribute>
+        <Assign DisplayName="PageCount" sap:VirtualizedContainerService.HintSize="414,59" sap2010:WorkflowViewState.IdRef="Assign_4">
+          <Assign.To>
+            <OutArgument x:TypeArguments="x:String">[PageCount]</OutArgument>
+          </Assign.To>
+          <Assign.Value>
+            <InArgument x:TypeArguments="x:String">[Split(PageNumber, " ")(0)]</InArgument>
+          </Assign.Value>
+        </Assign>
+        <Assign DisplayName="Max Number of Page" sap:VirtualizedContainerService.HintSize="414,59" sap2010:WorkflowViewState.IdRef="Assign_5">
+          <Assign.To>
+            <OutArgument x:TypeArguments="x:String">[MaxPage]</OutArgument>
+          </Assign.To>
+          <Assign.Value>
+            <InArgument x:TypeArguments="x:String">[Split(PageNumber, " ")(2)]</InArgument>
+          </Assign.Value>
+        </Assign>
+        <p:CVScope ContinueOnError="{x:Null}" ApiKey="1WYslroMavMF01wKhHPgwaY1D6fE19iZmz4l4TJjcCFaAwuJBRJyXKHo+QqB3KNM" DelayBefore="300" DisplayName="Click Next" sap:VirtualizedContainerService.HintSize="414,384" sap2010:WorkflowViewState.IdRef="CVScope_1" Server="https://cv.uipath.com">
+          <p:CVScope.Body>
+            <ActivityAction x:TypeArguments="x:Object">
+              <ActivityAction.Argument>
+                <DelegateInArgument x:TypeArguments="x:Object" Name="CVSessionData" />
+              </ActivityAction.Argument>
+              <Sequence DisplayName="Do" sap2010:WorkflowViewState.IdRef="Sequence_4">
+                <p:CvClickWithDescriptor DelayBefore="{x:Null}" DelayMS="{x:Null}" ClickType="CLICK_SINGLE" Descriptor="[&quot;Target: Button (816,16,25,27)&quot; +&#xA;&quot;Anchor: Icon (855,25,18,10)&quot;]" DesignTimeScaleFactor="1.5" DisplayName="CV Click - Button" sap:VirtualizedContainerService.HintSize="400,106" sap2010:WorkflowViewState.IdRef="CvClickWithDescriptor_1" InformativeScreenshot="8bb79c5ce0f65650921a0d280f40f2c9" KeyModifiers="None" MouseButton="BTN_LEFT" TimeoutMS="30000">
+                  <p:CvClickWithDescriptor.CursorPosition>
+                    <ui:CursorPosition Position="Center">
+                      <ui:CursorPosition.OffsetX>
+                        <InArgument x:TypeArguments="x:Int32" />
+                      </ui:CursorPosition.OffsetX>
+                      <ui:CursorPosition.OffsetY>
+                        <InArgument x:TypeArguments="x:Int32" />
+                      </ui:CursorPosition.OffsetY>
+                    </ui:CursorPosition>
+                  </p:CvClickWithDescriptor.CursorPosition>
+                  <p:CvClickWithDescriptor.DesignTimeDescriptor>
+                    <uc:CvDescriptor>
+                      <uc:CvDescriptor.Anchors>
+                        <x:Array Type="uc:CvElementDescriptor">
+                          <uc:CvElementDescriptor DesignTimeArea="855, 25, 18, 10" ElementType="Icon" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAABsAAAAPCAYAAAAVk7TYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAFiUAABYlAUlSJPAAAACoSURBVDhPY/hPRzBqGVXACLDs85cv/9dt2PR/1569UBFUcPHS5f+Lly7/f+fuPagIKti5ey9YP8gcXABuWUl51X83L38wnj5zDlQUAl68eAmXA2EQHxmA1MPkSsqroaKYAG4ZsmEgi5EByNXI8kePnYDKQACyQ0EYF8Dqs0VLlkNFIYA0n6E6FBmgxtn6TWBfYAOguAI5Am+cAfUTFWf0AKOWUQH8/w8AS7QBWvwIBBcAAAAASUVORK5CYII=" />
+                        </x:Array>
+                      </uc:CvDescriptor.Anchors>
+                      <uc:CvDescriptor.Target>
+                        <uc:CvElementDescriptor DesignTimeArea="816, 16, 25, 27" ElementType="Button" />
+                      </uc:CvDescriptor.Target>
+                    </uc:CvDescriptor>
+                  </p:CvClickWithDescriptor.DesignTimeDescriptor>
+                  <p:CvClickWithDescriptor.Target>
+                    <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Selector="{x:Null}" TimeoutMS="{x:Null}" WaitForReady="INTERACTIVE" />
+                  </p:CvClickWithDescriptor.Target>
+                </p:CvClickWithDescriptor>
+              </Sequence>
+            </ActivityAction>
+          </p:CVScope.Body>
+          <p:CVScope.DesignTimeCache>
+            <uc:CVCache InformativeScreenshot="b5637898c713056eab482a11ca0de971" LogicalPosition="276, 173" OcrText="l V J&#xA;V&#xA;All Files &gt; &gt; RPA Unemployment Claims &gt; 3. Analysis Docs &gt; {ﬁzBPC West- EFX RPA Clients v2.0 20f3 [ &lt; l &gt; ] E] [ New' ] [ &lt;" Position="276, 173" ScaleFactor="1.5" ScreenshotGuid="e6cd5154-1d59-40bf-afd7-e8d60e81dd12" ServerVersion="1">
+              <uc:CVCache.CvUiElements>
+                <scg1:List x:TypeArguments="uc:CvElementInfo" Capacity="64">
+                  <uc:CvElementInfo Category="Button" Confidence="DesignTime" Region="816, 16, 25, 27" Score="1" />
+                  <uc:CvElementInfo Category="Button" Confidence="DesignTime" Region="883, 15, 28, 30" Score="1" />
+                  <uc:CvElementInfo Category="Button" Confidence="DesignTime" Region="850, 15, 27, 28" Score="1" />
+                  <uc:CvElementInfo Category="Button" Confidence="DesignTime" Region="792, 17, 23, 26" Score="1" />
+                  <uc:CvElementInfo Category="Button" Confidence="DesignTime" Region="920, 16, 56, 28" Score="1" />
+                  <uc:CvElementInfo Category="ArrowButton" Confidence="DesignTime" Region="250, 22, 12, 14" Score="1" />
+                  <uc:CvElementInfo Category="ArrowButton" Confidence="DesignTime" Region="358, 23, 12, 15" Score="1" />
+                  <uc:CvElementInfo Category="Icon" Confidence="DesignTime" Region="888, 20, 18, 20" Score="1" />
+                  <uc:CvElementInfo Category="Button" Confidence="DesignTime" Region="987, 15, 64, 28" Score="1" />
+                  <uc:CvElementInfo Category="ArrowButton" Confidence="DesignTime" Region="82, 22, 12, 15" Score="1" />
+                  <uc:CvElementInfo Category="Icon" Confidence="DesignTime" Region="855, 25, 18, 10" Score="1" />
+                  <uc:CvElementInfo Category="ArrowButton" Confidence="DesignTime" Region="1032, 22, 12, 14" Score="1" />
+                  <uc:CvElementInfo Category="Icon" Confidence="DesignTime" Region="372, 20, 14, 17" Score="1" />
+                  <uc:CvElementInfo Category="ArrowButton" Confidence="DesignTime" Region="954, 23, 11, 13" Score="1" />
+                  <uc:CvElementInfo Category="ArrowButton" Confidence="DesignTime" Region="46, 23, 12, 14" Score="1" />
+                  <uc:CvElementInfo Category="ArrowButton" Confidence="DesignTime" Region="799, 24, 10, 11" Score="1" />
+                  <uc:CvElementInfo Category="ArrowButton" Confidence="DesignTime" Region="823, 24, 11, 12" Score="1" />
+                  <uc:CvElementInfo Category="InputBox" Confidence="DesignTime" Region="954, 22, 11, 14" Score="1" />
+                  <uc:CvElementInfo Category="InputBox" Confidence="DesignTime" Region="980, 15, 74, 27" Score="1" />
+                  <uc:CvElementInfo Category="InputBox" Confidence="DesignTime" Region="918, 16, 58, 25" Score="1" />
+                  <uc:CvElementInfo Category="InputBox" Confidence="DesignTime" Region="1033, 22, 12, 14" Score="1" />
+                  <uc:CvElementInfo Category="Icon" Confidence="Runtime" Region="824, 24, 10, 12" Score="1" />
+                  <uc:CvElementInfo Category="Icon" Confidence="Runtime" Region="799, 24, 9, 11" Score="1" />
+                  <uc:CvElementInfo Category="Icon" Confidence="Runtime" Region="984, 14, 70, 28" Score="1" />
+                  <uc:CvElementInfo Category="Icon" Confidence="Runtime" Region="1033, 22, 11, 14" Score="1" />
+                  <uc:CvElementInfo Category="Icon" Confidence="Runtime" Region="955, 23, 10, 13" Score="1" />
+                  <uc:CvElementInfo Category="Icon" Confidence="Runtime" Region="796, 21, 14, 16" Score="1" />
+                  <uc:CvElementInfo Category="Icon" Confidence="Runtime" Region="46, 23, 11, 14" Score="1" />
+                  <uc:CvElementInfo Category="Icon" Confidence="Runtime" Region="359, 22, 12, 16" Score="1" />
+                  <uc:CvElementInfo Category="Icon" Confidence="Runtime" Region="249, 22, 13, 15" Score="1" />
+                  <uc:CvElementInfo Category="ArrowButton" Confidence="Runtime" Region="372, 21, 15, 16" Score="1" />
+                  <uc:CvElementInfo Category="RadioButton" Confidence="Runtime" Region="954, 22, 11, 13" Score="1" />
+                  <uc:CvElementInfo Category="RadioButton" Confidence="Runtime" Region="1033, 22, 11, 14" Score="1" />
+                </scg1:List>
+              </uc:CVCache.CvUiElements>
+              <uc:CVCache.OcrTexts>
+                <scg1:List x:TypeArguments="uc:OcrTextInfo" Capacity="64">
+                  <uc:OcrTextInfo Region="796, 0, 3, 6" Text="l" />
+                  <uc:OcrTextInfo Region="840, 0, 8, 3" Text="V" />
+                  <uc:OcrTextInfo Region="856, 0, 3, 6" Text="J" />
+                  <uc:OcrTextInfo Region="824, 9, 8, 4" Text="V" />
+                  <uc:OcrTextInfo Region="0, 24, 13, 8" Text="All" />
+                  <uc:OcrTextInfo Region="18, 24, 23, 8" Text="Files" />
+                  <uc:OcrTextInfo Region="49, 26, 6, 9" Text="&gt;" />
+                  <uc:OcrTextInfo Region="85, 26, 6, 9" Text="&gt;" />
+                  <uc:OcrTextInfo Region="99, 24, 22, 8" Text="RPA" />
+                  <uc:OcrTextInfo Region="124, 24, 83, 10" Text="Unemployment" />
+                  <uc:OcrTextInfo Region="211, 24, 36, 8" Text="Claims" />
+                  <uc:OcrTextInfo Region="254, 26, 6, 9" Text="&gt;" />
+                  <uc:OcrTextInfo Region="267, 24, 9, 8" Text="3." />
+                  <uc:OcrTextInfo Region="280, 24, 44, 10" Text="Analysis" />
+                  <uc:OcrTextInfo Region="328, 24, 26, 8" Text="Docs" />
+                  <uc:OcrTextInfo Region="362, 26, 6, 9" Text="&gt;" />
+                  <uc:OcrTextInfo Region="374, 24, 38, 10" Text="{}{ﬁzBPC" />
+                  <uc:OcrTextInfo Region="416, 24, 36, 8" Text="West-" />
+                  <uc:OcrTextInfo Region="457, 24, 21, 8" Text="EFX" />
+                  <uc:OcrTextInfo Region="483, 24, 22, 8" Text="RPA" />
+                  <uc:OcrTextInfo Region="508, 24, 36, 8" Text="Clients" />
+                  <uc:OcrTextInfo Region="549, 24, 23, 8" Text="v2.0" />
+                  <uc:OcrTextInfo Region="742, 24, 28, 8" Text="20f3" />
+                  <uc:OcrTextInfo Region="790, 18, 2, 24" Text="[" />
+                  <uc:OcrTextInfo Region="801, 26, 4, 6" Text="&lt;" />
+                  <uc:OcrTextInfo Region="815, 18, 1, 24" Text="l" />
+                  <uc:OcrTextInfo Region="825, 26, 4, 6" Text="&gt;" />
+                  <uc:OcrTextInfo Region="838, 18, 2, 24" Text="]" />
+                  <uc:OcrTextInfo Region="848, 17, 26, 25" Text="E]" />
+                  <uc:OcrTextInfo Region="917, 18, 2, 24" Text="[" />
+                  <uc:OcrTextInfo Region="932, 25, 30, 8" Text="New'" />
+                  <uc:OcrTextInfo Region="974, 18, 2, 24" Text="]" />
+                  <uc:OcrTextInfo Region="984, 20, 4, 20" Text="[" />
+                  <uc:OcrTextInfo Region="1052, 19, 3, 2" Text="&lt;" />
+                </scg1:List>
+              </uc:CVCache.OcrTexts>
+            </uc:CVCache>
+          </p:CVScope.DesignTimeCache>
+          <p:CVScope.OCREngine>
+            <ActivityFunc x:TypeArguments="sd5:Image, scg1:IEnumerable(scg1:KeyValuePair(sd5:Rectangle, x:String))">
+              <ActivityFunc.Argument>
+                <DelegateInArgument x:TypeArguments="sd5:Image" Name="Image" />
+              </ActivityFunc.Argument>
+              <ui:GoogleOCR FilterRegion="{x:Null}" Output="{x:Null}" Text="{x:Null}" AllowedCharacters="" ComputeSkewAngle="False" DeniedCharacters="" DisplayName="Tesseract OCR" ExtractWords="True" sap:VirtualizedContainerService.HintSize="200,22" sap2010:WorkflowViewState.IdRef="GoogleOCR_1" Image="[Image]" Invert="False" Language="eng" Profile="Legacy" Scale="2" />
+            </ActivityFunc>
+          </p:CVScope.OCREngine>
+          <p:CVScope.Target>
+            <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" TimeoutMS="{x:Null}" InformativeScreenshot="59cda1591c5fe2593aa29048dd08dc25" Selector="&lt;html app='firefox.exe' title='* | Powered by Box' /&gt;&lt;webctrl css-selector='body&amp;gt;div&amp;gt;div&amp;gt;span&amp;gt;div&amp;gt;main&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div' idx='1' parentid='app' tag='DIV' /&gt;" WaitForReady="NONE" />
+          </p:CVScope.Target>
+          <sap:WorkflowViewStateService.ViewState>
+            <scg1:Dictionary x:TypeArguments="x:String, x:Object">
+              <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+              <x:Boolean x:Key="IsPinned">False</x:Boolean>
+            </scg1:Dictionary>
+          </sap:WorkflowViewStateService.ViewState>
+        </p:CVScope>
+        <ui:BrowserScope Browser="{x:Null}" SearchScope="{x:Null}" TimeoutMS="{x:Null}" UiBrowser="{x:Null}" BrowserType="Firefox" DisplayName="Check if there is multiple page" sap:VirtualizedContainerService.HintSize="414,252" sap2010:WorkflowViewState.IdRef="BrowserScope_3" InformativeScreenshot="18ab476160ed2c8935d29100d90df0ac" Selector="&lt;html app='firefox.exe' title='* | Powered by Box' /&gt;">
+          <ui:BrowserScope.Body>
+            <ActivityAction x:TypeArguments="x:Object">
+              <ActivityAction.Argument>
+                <DelegateInArgument x:TypeArguments="x:Object" Name="ContextTarget" />
+              </ActivityAction.Argument>
+              <ui:ExtractData NextLinkSelector="{x:Null}" ContinueOnError="True" DataTable="[Out_ExtractedDataTable]" DelayBetweenPagesMS="300" DisplayName="Extract Structured Data 'DIV  contextmenutarget1...'" ExtractMetadata="&lt;extract&gt;&lt;row exact='1'&gt;&lt;webctrl tag='div' idx='1'/&gt;&lt;webctrl tag='div' idx='1'/&gt;&lt;webctrl tag='div' class='ReactVirtualized__Table table is-window-scrollable has-hover-styles is-selectable' idx='1'/&gt;&lt;webctrl tag='div' class='ReactVirtualized__Grid ReactVirtualized__Table__Grid table-body' idx='1'/&gt;&lt;webctrl tag='div' class='ReactVirtualized__Grid__innerScrollContainer' idx='1'/&gt;&lt;webctrl tag='div' class='ReactVirtualized__Table__row table-row'/&gt;&lt;/row&gt;&lt;column exact='1' name='FolderName' attr='text'&gt;&lt;webctrl tag='div' idx='1'/&gt;&lt;webctrl tag='div' idx='1'/&gt;&lt;webctrl tag='div' class='ReactVirtualized__Table table is-window-scrollable has-hover-styles is-selectable' idx='1'/&gt;&lt;webctrl tag='div' class='ReactVirtualized__Grid ReactVirtualized__Table__Grid table-body' idx='1'/&gt;&lt;webctrl tag='div' class='ReactVirtualized__Grid__innerScrollContainer' idx='1'/&gt;&lt;webctrl tag='div' class='ReactVirtualized__Table__row table-row'/&gt;&lt;webctrl tag='div' class='ReactVirtualized__Table__rowColumn file-list-name' idx='1'/&gt;&lt;webctrl tag='div' class='item-list-name' idx='1'/&gt;&lt;webctrl tag='div' class='item-name-holder' idx='1'/&gt;&lt;webctrl tag='div' class='name-row' idx='1'/&gt;&lt;/column&gt;&lt;column exact='1' name='Count' attr='text'&gt;&lt;webctrl tag='div' idx='1'/&gt;&lt;webctrl tag='div' idx='1'/&gt;&lt;webctrl tag='div' class='ReactVirtualized__Table table is-window-scrollable has-hover-styles is-selectable' idx='1'/&gt;&lt;webctrl tag='div' class='ReactVirtualized__Grid ReactVirtualized__Table__Grid table-body' idx='1'/&gt;&lt;webctrl tag='div' class='ReactVirtualized__Grid__innerScrollContainer' idx='1'/&gt;&lt;webctrl tag='div' class='ReactVirtualized__Table__row table-row'/&gt;&lt;webctrl tag='div' class='ReactVirtualized__Table__rowColumn file-list-size' idx='1'/&gt;&lt;/column&gt;&lt;/extract&gt;" sap:VirtualizedContainerService.HintSize="314,106" sap2010:WorkflowViewState.IdRef="ExtractData_3" MaxNumberOfResults="0">
+                <ui:ExtractData.Target>
+                  <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" TimeoutMS="{x:Null}" InformativeScreenshot="6a0de281ccbe0dfa0cf2471750474193" Selector="&lt;webctrl id='contextmenutarget*' tag='DIV' /&gt;" WaitForReady="NONE" />
+                </ui:ExtractData.Target>
+              </ui:ExtractData>
+            </ActivityAction>
+          </ui:BrowserScope.Body>
+          <sap:WorkflowViewStateService.ViewState>
+            <scg1:Dictionary x:TypeArguments="x:String, x:Object">
+              <x:Boolean x:Key="IsPinned">False</x:Boolean>
+              <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+            </scg1:Dictionary>
+          </sap:WorkflowViewStateService.ViewState>
+        </ui:BrowserScope>
+        <ui:MergeDataTable Destination="[Out_ExtractedDataTable]" DisplayName="Merge Data Table" sap:VirtualizedContainerService.HintSize="414,22" sap2010:WorkflowViewState.IdRef="MergeDataTable_1" MissingSchemaAction="Add" Source="[Out_ExtractedDataTable]" />
+      </Sequence>
+    </DoWhile>
+  </Sequence>
+</Activity>

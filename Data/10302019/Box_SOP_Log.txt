@@ -1,0 +1,331 @@
+﻿
+=================================================
+Starting run at 10:35:30  AM, 10/31/2019
+=================================================
+Logging in to Box as fcanta@cbps.canon.com
+Log in to Box successful...
+=========================
+Client: 5S Workstation Configuration - Document Preparation 1.0 - Approved.docx
+Successfully uploaded 5S Workstation Configuration - Document Preparation 1.0 - Approved.docx folder.
+=========================
+Client: 5S Workstation Configuration - Indexing Validation Verification 1.0 - Approved.docx
+Successfully uploaded 5S Workstation Configuration - Indexing Validation Verification 1.0 - Approved.docx folder.
+=========================
+Client: 5S Workstation Configuration - Indexing Validation Verification 1.0 - Published.pdf
+Successfully uploaded 5S Workstation Configuration - Indexing Validation Verification 1.0 - Published.pdf folder.
+=========================
+Client: 5S Workstation Configuration - QC 1.0 - Approved.docx
+Successfully uploaded 5S Workstation Configuration - QC 1.0 - Approved.docx folder.
+=========================
+Client: 5S Workstation Configuration - QC 1.0 - Published.pdf
+Successfully uploaded 5S Workstation Configuration - QC 1.0 - Published.pdf folder.
+=========================
+Client: 5S Workstation Configuration - Scan ADF 1.0 - Approved.docx
+Successfully uploaded 5S Workstation Configuration - Scan ADF 1.0 - Approved.docx folder.
+=========================
+Client: 5S Workstation Configuration - Scan ADF 1.0 - Published.pdf
+Successfully uploaded 5S Workstation Configuration - Scan ADF 1.0 - Published.pdf folder.
+=========================
+Client: 5S Workstation Configuration - Scan Wide Format 1.0 - Approved.docx
+Successfully uploaded 5S Workstation Configuration - Scan Wide Format 1.0 - Approved.docx folder.
+=========================
+Client: 5S Workstation Configuration - Scan Wide Format 1.0 - Published.pdf
+Successfully uploaded 5S Workstation Configuration - Scan Wide Format 1.0 - Published.pdf folder.
+=========================
+Client: BPC BC Plan Distribution List20190131  - Approved.docx
+Successfully uploaded BPC BC Plan Distribution List20190131  - Approved.docx folder.
+=========================
+Client: BPC Business Continuity Plan Workbook  - In Review.xlsx
+Successfully uploaded BPC Business Continuity Plan Workbook  - In Review.xlsx folder.
+=========================
+Client: BPC Contact List 1.1 - Approved.docx
+Successfully uploaded BPC Contact List 1.1 - Approved.docx folder.
+=========================
+Client: BPC Contact List 1.1 - Published.pdf
+Successfully uploaded BPC Contact List 1.1 - Published.pdf folder.
+=========================
+Client: BPC Governance 2.1 - Approved.docx
+Successfully uploaded BPC Governance 2.1 - Approved.docx folder.
+=========================
+Client: BPC Governance 2.1 - Published.pdf
+Successfully uploaded BPC Governance 2.1 - Published.pdf folder.
+=========================
+Client: BPC Governance, 2.1.pdf 2.1 - Approved.pdf
+Successfully uploaded BPC Governance, 2.1.pdf 2.1 - Approved.pdf folder.
+=========================
+Client: BPC Ops Manager Checklist 20190121  - Approved.docx
+Successfully uploaded BPC Ops Manager Checklist 20190121  - Approved.docx folder.
+=========================
+Client: BPC Process Overview  - In Review.vsd
+Successfully uploaded BPC Process Overview  - In Review.vsd folder.
+=========================
+Client: Business Process Center Business Continuity Plan_20190411 FINAL.docx  - Approved.docx
+Successfully uploaded Business Process Center Business Continuity Plan_20190411 FINAL.docx  - Approved.docx folder.
+=========================
+Client: Caller Service Check Disb Request Form 1.0 - Approved.xls
+Successfully uploaded Caller Service Check Disb Request Form 1.0 - Approved.xls folder.
+=========================
+Client: Chain of Custody 1.0 - Approved.docx
+Successfully uploaded Chain of Custody 1.0 - Approved.docx folder.
+=========================
+Client: Chain of Custody 1.0 - Published.pdf
+Successfully uploaded Chain of Custody 1.0 - Published.pdf folder.
+=========================
+Client: Client Contact List 20190131  - Approved.docx
+Successfully uploaded Client Contact List 20190131  - Approved.docx folder.
+=========================
+Client: Client Specific Information20190131  - Approved.docx
+Successfully uploaded Client Specific Information20190131  - Approved.docx folder.
+=========================
+Client: Container Tracking Form 1.0 - Published.pdf
+Successfully uploaded Container Tracking Form 1.0 - Published.pdf folder.
+=========================
+Client: Container Tracking Form Example 1.0 - Published.pdf
+Successfully uploaded Container Tracking Form Example 1.0 - Published.pdf folder.
+=========================
+Client: Critical Vendors Call Tree 20190131  - Approved.docx
+Successfully uploaded Critical Vendors Call Tree 20190131  - Approved.docx folder.
+=========================
+Client: Destruction Notification Template 1.0 - Approved.docx
+Successfully uploaded Destruction Notification Template 1.0 - Approved.docx folder.
+=========================
+Client: Document Preparation 1.2 - Approved.docx
+Successfully uploaded Document Preparation 1.2 - Approved.docx folder.
+=========================
+Client: Equipment and Specifications - BPC  - Approved.docx
+Successfully uploaded Equipment and Specifications - BPC  - Approved.docx folder.
+=========================
+Client: Facility_Room Damage Assessment Log 20190131  - Approved.docx
+Successfully uploaded Facility_Room Damage Assessment Log 20190131  - Approved.docx folder.
+=========================
+Client: Fixtures_Furnishings Damage Assessment Log 20190131  - Approved.docx
+Successfully uploaded Fixtures_Furnishings Damage Assessment Log 20190131  - Approved.docx folder.
+=========================
+Client: How To Access Reports - Container Tracking 1.0 - Approved.docx
+Successfully uploaded How To Access Reports - Container Tracking 1.0 - Approved.docx folder.
+=========================
+Client: How To Access Reports - Container Tracking 1.0 - Published.pdf
+Successfully uploaded How To Access Reports - Container Tracking 1.0 - Published.pdf folder.
+=========================
+Client: How To Create and Sign a Destruction Notification  - Approved.docx
+Successfully uploaded How To Create and Sign a Destruction Notification  - Approved.docx folder.
+=========================
+Client: How to Create and Sign a Destruction Notification.docx 1.0 - In Review.docx
+Successfully uploaded How to Create and Sign a Destruction Notification.docx 1.0 - In Review.docx folder.
+=========================
+Client: How To Create Container Barcode Label 1.1 - Approved.docx
+Successfully uploaded How To Create Container Barcode Label 1.1 - Approved.docx folder.
+=========================
+Client: How To Create Container Barcode Label 1.1 - Published.pdf
+Successfully uploaded How To Create Container Barcode Label 1.1 - Published.pdf folder.
+=========================
+Client: How To Create Customer Information Label 1.0 - Approved.docx
+Successfully uploaded How To Create Customer Information Label 1.0 - Approved.docx folder.
+=========================
+Client: How To Create Customer Information Label 1.0 - Published.pdf
+Successfully uploaded How To Create Customer Information Label 1.0 - Published.pdf folder.
+=========================
+Client: How To Create Employee Login - Container Tracking 1.0 - Approved.docx
+Successfully uploaded How To Create Employee Login - Container Tracking 1.0 - Approved.docx folder.
+=========================
+Client: How To Create Employee Login - Container Tracking 1.0 - Published.pdf
+Successfully uploaded How To Create Employee Login - Container Tracking 1.0 - Published.pdf folder.
+=========================
+Client: How To Merge Container Contents - Container Tracking 1.0 - Approved.docx
+Successfully uploaded How To Merge Container Contents - Container Tracking 1.0 - Approved.docx folder.
+=========================
+Client: How To Merge Container Contents - Container Tracking 1.0 - Published.pdf
+Successfully uploaded How To Merge Container Contents - Container Tracking 1.0 - Published.pdf folder.
+=========================
+Client: How To Obtain SSAE18 Deliverables  - In Review.docx
+Successfully uploaded How To Obtain SSAE18 Deliverables  - In Review.docx folder.
+=========================
+Client: How To Perform a Container Tracking Scan 1.0 - Approved.docx
+Successfully uploaded How To Perform a Container Tracking Scan 1.0 - Approved.docx folder.
+=========================
+Client: How To Perform a Container Tracking Scan 1.0 - Published.pdf
+Successfully uploaded How To Perform a Container Tracking Scan 1.0 - Published.pdf folder.
+=========================
+Client: How To Perform QC - Kofax 1.0 - Approved.docx
+Successfully uploaded How To Perform QC - Kofax 1.0 - Approved.docx folder.
+=========================
+Client: How To Perform QC - Kofax 1.0 - Published.pdf
+Successfully uploaded How To Perform QC - Kofax 1.0 - Published.pdf folder.
+=========================
+Client: How To Perform QC - PaperVision 1.0 - Approved.docx
+Successfully uploaded How To Perform QC - PaperVision 1.0 - Approved.docx folder.
+=========================
+Client: How To Perform QC - PaperVision 1.0 - Published.pdf
+Successfully uploaded How To Perform QC - PaperVision 1.0 - Published.pdf folder.
+=========================
+Client: How To Perform Scanner Maintenance - fi5900c 1.0 - Approved.docx
+Successfully uploaded How To Perform Scanner Maintenance - fi5900c 1.0 - Approved.docx folder.
+=========================
+Client: How To Perform Scanner Maintenance - fi5900c 1.0 - Published.pdf
+Successfully uploaded How To Perform Scanner Maintenance - fi5900c 1.0 - Published.pdf folder.
+=========================
+Client: How To Populate Job Instruction Form 1.0 - Approved.docx
+Successfully uploaded How To Populate Job Instruction Form 1.0 - Approved.docx folder.
+=========================
+Client: How To Populate Job Instruction Form 1.0 - Published.pdf
+Successfully uploaded How To Populate Job Instruction Form 1.0 - Published.pdf folder.
+=========================
+Client: How To Populate QC Form 1.0 - Approved.docx
+Successfully uploaded How To Populate QC Form 1.0 - Approved.docx folder.
+=========================
+Client: How To Populate QC Form 1.0 - Published.pdf
+Successfully uploaded How To Populate QC Form 1.0 - Published.pdf folder.
+=========================
+Client: How To Provide and Review Visitor Access 1.0 - Approved.docx
+Successfully uploaded How To Provide and Review Visitor Access 1.0 - Approved.docx folder.
+=========================
+Client: How To Provide and Review Visitor Access 1.0 - Published.pdf
+Successfully uploaded How To Provide and Review Visitor Access 1.0 - Published.pdf folder.
+=========================
+Client: How To Receive within Container Tracking 1.0 - Approved.docx
+Successfully uploaded How To Receive within Container Tracking 1.0 - Approved.docx folder.
+=========================
+Client: How To Receive within Container Tracking 1.0 - Published.pdf
+Successfully uploaded How To Receive within Container Tracking 1.0 - Published.pdf folder.
+=========================
+Client: How To Release to Box.com 1.0 - Approved.docx
+Successfully uploaded How To Release to Box.com 1.0 - Approved.docx folder.
+=========================
+Client: How To Release to Box.com 1.0 - Published.pdf
+Successfully uploaded How To Release to Box.com 1.0 - Published.pdf folder.
+=========================
+Client: How To Release to Removable Media 1.0 - Approved.docx
+Successfully uploaded How To Release to Removable Media 1.0 - Approved.docx folder.
+=========================
+Client: How To Release to Removable Media 1.0 - Published.pdf
+Successfully uploaded How To Release to Removable Media 1.0 - Published.pdf folder.
+=========================
+Client: How To Release to SFTP 1.0 - Approved.docx
+Successfully uploaded How To Release to SFTP 1.0 - Approved.docx folder.
+=========================
+Client: How To Release to SFTP 1.0 - Published.pdf
+Successfully uploaded How To Release to SFTP 1.0 - Published.pdf folder.
+=========================
+Client: How To Scan - Kofax 1.0 - Approved.docx
+Successfully uploaded How To Scan - Kofax 1.0 - Approved.docx folder.
+=========================
+Client: How To Scan - Papervision 1.0 - Approved.docx
+Successfully uploaded How To Scan - Papervision 1.0 - Approved.docx folder.
+=========================
+Client: How to Setup a BPC Customer 1.0 - Approved.docx
+Successfully uploaded How to Setup a BPC Customer 1.0 - Approved.docx folder.
+=========================
+Client: How to Setup a BPC Customer 1.0 - Published.pdf
+Successfully uploaded How to Setup a BPC Customer 1.0 - Published.pdf folder.
+=========================
+Client: How To Setup A USPS Caller Service 1.0 - Published.docx
+Successfully uploaded How To Setup A USPS Caller Service 1.0 - Published.docx folder.
+=========================
+Client: How To Setup and Deactivate Access 1.0 - Approved.docx
+Successfully uploaded How To Setup and Deactivate Access 1.0 - Approved.docx folder.
+=========================
+Client: How To Setup and Deactivate Access 1.0 - Published.pdf
+Successfully uploaded How To Setup and Deactivate Access 1.0 - Published.pdf folder.
+=========================
+Client: Indexing Validation_Verification OP 1.1 - Approved.docx
+Successfully uploaded Indexing Validation_Verification OP 1.1 - Approved.docx folder.
+=========================
+Client: Indexing Validation_Verification OP 1.1 - Published.pdf
+Successfully uploaded Indexing Validation_Verification OP 1.1 - Published.pdf folder.
+=========================
+Client: IT Equipment Damage Assessment Log20190131  - Approved.docx
+Successfully uploaded IT Equipment Damage Assessment Log20190131  - Approved.docx folder.
+=========================
+Client: Job Instruction Review Form 1.0 - Published.docx
+Successfully uploaded Job Instruction Review Form 1.0 - Published.docx folder.
+=========================
+Client: Job Instructions 1.0 - Approved.docx
+Successfully uploaded Job Instructions 1.0 - Approved.docx folder.
+=========================
+Client: Job Instructions 1.0 - Published.pdf
+Successfully uploaded Job Instructions 1.0 - Published.pdf folder.
+=========================
+Client: Management Notification Checklist  - Approved.docx
+Successfully uploaded Management Notification Checklist  - Approved.docx folder.
+=========================
+Client: Notification Roster  - Approved.docx
+Successfully uploaded Notification Roster  - Approved.docx folder.
+=========================
+Client: Personnel Location Control Form 20190131  - Approved.docx
+Successfully uploaded Personnel Location Control Form 20190131  - Approved.docx folder.
+=========================
+Client: PO Box Key Log 1.0 - Published.pdf
+Successfully uploaded PO Box Key Log 1.0 - Published.pdf folder.
+=========================
+Client: Post Office Box Authorization EAST 1.0 - Approved.docx
+Successfully uploaded Post Office Box Authorization EAST 1.0 - Approved.docx folder.
+=========================
+Client: Post Office Box Authorization WEST 1.0 - Approved.docx
+Successfully uploaded Post Office Box Authorization WEST 1.0 - Approved.docx folder.
+=========================
+Client: Prep 1.2 - Published.pdf
+Successfully uploaded Prep 1.2 - Published.pdf folder.
+=========================
+Client: QC Form 1.0 - Published.docx
+Successfully uploaded QC Form 1.0 - Published.docx folder.
+=========================
+Client: QC Form Example 1.0 - Published.pdf
+Successfully uploaded QC Form Example 1.0 - Published.pdf folder.
+=========================
+Client: Quality Control 1.2 - Approved.docx
+Successfully uploaded Quality Control 1.2 - Approved.docx folder.
+=========================
+Client: Quality Control 1.2 - Published.pdf
+Successfully uploaded Quality Control 1.2 - Published.pdf folder.
+=========================
+Client: Receive Inventory 1.1 - Approved.docx
+Successfully uploaded Receive Inventory 1.1 - Approved.docx folder.
+=========================
+Client: Receive Inventory 1.1 - Published.pdf
+Successfully uploaded Receive Inventory 1.1 - Published.pdf folder.
+=========================
+Client: Receive Inventory 1.2 - Approved.docx
+Successfully uploaded Receive Inventory 1.2 - Approved.docx folder.
+=========================
+Client: Receive Inventory 1.2 - Published.pdf
+Successfully uploaded Receive Inventory 1.2 - Published.pdf folder.
+=========================
+Client: Recovery Teams Call Log 20190131  - Approved.docx
+Successfully uploaded Recovery Teams Call Log 20190131  - Approved.docx folder.
+=========================
+Client: Recovery Teams Notification Checklist 20190131  - Approved.docx
+Successfully uploaded Recovery Teams Notification Checklist 20190131  - Approved.docx folder.
+=========================
+Client: Release 1.0 - Approved.docx
+Successfully uploaded Release 1.0 - Approved.docx folder.
+=========================
+Client: Release 1.0 - Published.pdf
+Successfully uploaded Release 1.0 - Published.pdf folder.
+=========================
+Client: Release 1.1 - Approved.docx
+Successfully uploaded Release 1.1 - Approved.docx folder.
+=========================
+Client: Release 1.1 - Published.pdf
+Successfully uploaded Release 1.1 - Published.pdf folder.
+=========================
+Client: Sample Testing 1.0 - Approved.docx
+Successfully uploaded Sample Testing 1.0 - Approved.docx folder.
+=========================
+Client: Sample Testing 1.0 - Published.pdf
+Successfully uploaded Sample Testing 1.0 - Published.pdf folder.
+=========================
+Client: Scan - Wide Format 1.1 - Published.pdf
+Successfully uploaded Scan - Wide Format 1.1 - Published.pdf folder.
+=========================
+Client: Scan - Wide Format 1.2 - Approved.docx
+Successfully uploaded Scan - Wide Format 1.2 - Approved.docx folder.
+=========================
+Client: Scan 1.1 - Approved.docx
+Successfully uploaded Scan 1.1 - Approved.docx folder.
+=========================
+Client: Scan 1.1 - Published.pdf
+Successfully uploaded Scan 1.1 - Published.pdf folder.
+
+=================================================
+Ending run at 10:51:37  AM, 10/31/2019
+=================================================

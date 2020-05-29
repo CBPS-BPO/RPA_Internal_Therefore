@@ -1,0 +1,329 @@
+﻿
+=================================================
+Starting run at 06:25:57  AM, 10/29/2019
+=================================================
+Opening Therefore Navigator..
+Total Number of Clients: 107
+Number of Client files to be downloaded: 0
+Starting at Transaction number 1
+Processing Transaction 1: DocNumber: 2152 - DocType: SOP - Doc title: Business Process Center Business Continuity Plan_20190411 FINAL.docx
+Started exporting files.
+Exported files successfully.
+Processing Transaction 2: DocNumber: 2025 - DocType: How To - Doc title: How To Create Container Barcode Label
+Started exporting files.
+Exported files successfully.
+Processing Transaction 3: DocNumber: 2119 - DocType: SOP - Doc title: Chain of Custody
+Started exporting files.
+Exported files successfully.
+Processing Transaction 4: DocNumber: 2019 - DocType: SOP - Doc title: Scan - Wide Format
+Started exporting files.
+Exported files successfully.
+Processing Transaction 5: DocNumber: 2015 - DocType: SOP - Doc title: Scan
+Started exporting files.
+Exported files successfully.
+Processing Transaction 6: DocNumber: 2038 - DocType: How To - Doc title: How To Scan - Kofax
+Started exporting files.
+Exported files successfully.
+Processing Transaction 7: DocNumber: 2151 - DocType: Form - Doc title: Post Office Box Authorization EAST
+Started exporting files.
+Exported files successfully.
+Processing Transaction 8: DocNumber: 2150 - DocType: Form - Doc title: Caller Service Check Disb Request Form
+Started exporting files.
+Exported files successfully.
+Processing Transaction 9: DocNumber: 2149 - DocType: Form - Doc title: Post Office Box Authorization WEST
+Started exporting files.
+Exported files successfully.
+Processing Transaction 10: DocNumber: 2148 - DocType: How To - Doc title: How To Setup A USPS Caller Service
+Started exporting files.
+Exported files successfully.
+Processing Transaction 11: DocNumber: 2147 - DocType: Form - Doc title: BPC Ops Manager Checklist 20190121
+Started exporting files.
+Exported files successfully.
+Processing Transaction 12: DocNumber: 2146 - DocType: Form - Doc title: BPC BC Plan Distribution List20190131
+Started exporting files.
+Exported files successfully.
+Processing Transaction 13: DocNumber: 2145 - DocType: Form - Doc title: Client Contact List 20190131
+Started exporting files.
+Exported files successfully.
+Processing Transaction 14: DocNumber: 2144 - DocType: Form - Doc title: Client Specific Information20190131
+Started exporting files.
+Exported files successfully.
+Processing Transaction 15: DocNumber: 2143 - DocType: Form - Doc title: Critical Vendors Call Tree 20190131
+Started exporting files.
+Exported files successfully.
+Processing Transaction 16: DocNumber: 2142 - DocType: Form - Doc title: Equipment and Specifications - BPC
+Started exporting files.
+Exported files successfully.
+Processing Transaction 17: DocNumber: 2141 - DocType: Form - Doc title: Facility_Room Damage Assessment Log 20190131
+Started exporting files.
+Exported files successfully.
+Processing Transaction 18: DocNumber: 2140 - DocType: Form - Doc title: Fixtures_Furnishings Damage Assessment Log 20190131
+Started exporting files.
+Exported files successfully.
+Processing Transaction 19: DocNumber: 2139 - DocType: Form - Doc title: IT Equipment Damage Assessment Log20190131
+Started exporting files.
+Exported files successfully.
+Processing Transaction 20: DocNumber: 2138 - DocType: Form - Doc title: Management Notification Checklist
+Started exporting files.
+Exported files successfully.
+Processing Transaction 21: DocNumber: 2137 - DocType: Form - Doc title: Notification Roster
+Started exporting files.
+Exported files successfully.
+Processing Transaction 22: DocNumber: 2136 - DocType: Form - Doc title: Personnel Location Control Form 20190131
+Started exporting files.
+Exported files successfully.
+Processing Transaction 23: DocNumber: 2135 - DocType: Form - Doc title: Recovery Teams Call Log 20190131
+Started exporting files.
+Exported files successfully.
+Processing Transaction 24: DocNumber: 2134 - DocType: Form - Doc title: Recovery Teams Notification Checklist 20190131
+Started exporting files.
+Exported files successfully.
+Processing Transaction 25: DocNumber: 2131 - DocType: Other - Doc title: BPC Business Continuity Plan Workbook
+Started exporting files.
+Exported files successfully.
+Processing Transaction 26: DocNumber: 2132 - DocType: Other - Doc title: BPC Process Overview
+Started exporting files.
+Exported files successfully.
+Processing Transaction 27: DocNumber: 2081 - DocType: SOP - Doc title: BPC Governance
+Started exporting files.
+Exported files successfully.
+Processing Transaction 28: DocNumber: 2128 - DocType: How To - Doc title: How To Obtain SSAE18 Deliverables
+Started exporting files.
+Exported files successfully.
+Processing Transaction 29: DocNumber: 2127 - DocType: How To - Doc title: How To Create and Sign a Destruction Notification
+Started exporting files.
+Exported files successfully.
+Processing Transaction 30: DocNumber: 2121 - DocType: SOP - Doc title: Release
+Started exporting files.
+Exported files successfully.
+Processing Transaction 31: DocNumber: 2126 - DocType: How To - Doc title: How to Create and Sign a Destruction Notification.docx
+Started exporting files.
+Exported files successfully.
+Processing Transaction 32: DocNumber: 2125 - DocType: Form - Doc title: Destruction Notification Template
+Started exporting files.
+Exported files successfully.
+Processing Transaction 33: DocNumber: 2057 - DocType: SOP - Doc title: Job Instructions
+Started exporting files.
+Exported files successfully.
+Processing Transaction 34: DocNumber: 2124 - DocType: SOP - Doc title: BPC Governance, 2.1.pdf
+Started exporting files.
+Exported files successfully.
+Processing Transaction 35: DocNumber: 2123 - DocType: SOP - Doc title: BPC Governance
+Started exporting files.
+Exported files successfully.
+Processing Transaction 36: DocNumber: 2122 - DocType: SOP - Doc title: Release
+Started exporting files.
+Exported files successfully.
+Processing Transaction 37: DocNumber: 2120 - DocType: SOP - Doc title: Chain of Custody
+Started exporting files.
+Exported files successfully.
+Processing Transaction 38: DocNumber: 2117 - DocType: How To - Doc title: How To Access Reports - Container Tracking
+Started exporting files.
+Exported files successfully.
+Processing Transaction 39: DocNumber: 2116 - DocType: How To - Doc title: How To Access Reports - Container Tracking
+Started exporting files.
+Exported files successfully.
+Processing Transaction 40: DocNumber: 2115 - DocType: SOP - Doc title: Receive Inventory
+Started exporting files.
+Exported files successfully.
+Processing Transaction 41: DocNumber: 2114 - DocType: SOP - Doc title: Receive Inventory
+Started exporting files.
+Exported files successfully.
+Processing Transaction 42: DocNumber: 2113 - DocType: How To - Doc title: How to Setup a BPC Customer
+Started exporting files.
+Exported files successfully.
+Processing Transaction 43: DocNumber: 2112 - DocType: How To - Doc title: How to Setup a BPC Customer
+Started exporting files.
+Exported files successfully.
+Processing Transaction 44: DocNumber: 2111 - DocType: How To - Doc title: How To Receive within Container Tracking
+Started exporting files.
+Exported files successfully.
+Processing Transaction 45: DocNumber: 2110 - DocType: How To - Doc title: How To Receive within Container Tracking
+Started exporting files.
+Exported files successfully.
+Processing Transaction 46: DocNumber: 2108 - DocType: How To - Doc title: How To Perform a Container Tracking Scan
+Started exporting files.
+Exported files successfully.
+Processing Transaction 47: DocNumber: 2107 - DocType: How To - Doc title: How To Perform a Container Tracking Scan
+Started exporting files.
+Exported files successfully.
+Processing Transaction 48: DocNumber: 2106 - DocType: How To - Doc title: How To Merge Container Contents - Container Tracking
+Started exporting files.
+Exported files successfully.
+Processing Transaction 49: DocNumber: 2105 - DocType: How To - Doc title: How To Merge Container Contents - Container Tracking
+Started exporting files.
+Exported files successfully.
+Processing Transaction 50: DocNumber: 2104 - DocType: How To - Doc title: How To Create Employee Login - Container Tracking
+Started exporting files.
+Exported files successfully.
+Processing Transaction 51: DocNumber: 2103 - DocType: How To - Doc title: How To Create Employee Login - Container Tracking
+Started exporting files.
+Exported files successfully.
+Processing Transaction 52: DocNumber: 2102 - DocType: Form - Doc title: Container Tracking Form
+Started exporting files.
+Exported files successfully.
+Processing Transaction 53: DocNumber: 2023 - DocType: SOP - Doc title: Receive Inventory
+Started exporting files.
+Exported files successfully.
+Processing Transaction 54: DocNumber: 2101 - DocType: How To - Doc title: How To Create Container Barcode Label
+Started exporting files.
+Exported files successfully.
+Processing Transaction 55: DocNumber: 2100 - DocType: SOP - Doc title: Scan - Wide Format
+Started exporting files.
+Exported files successfully.
+Processing Transaction 56: DocNumber: 2099 - DocType: SOP - Doc title: Quality Control
+Started exporting files.
+Exported files successfully.
+Processing Transaction 57: DocNumber: 2042 - DocType: SOP - Doc title: Quality Control
+Started exporting files.
+Exported files successfully.
+Processing Transaction 58: DocNumber: 2098 - DocType: Other - Doc title: BPC Contact List
+Started exporting files.
+Exported files successfully.
+Processing Transaction 59: DocNumber: 2092 - DocType: Other - Doc title: BPC Contact List
+Started exporting files.
+Exported files successfully.
+Processing Transaction 60: DocNumber: 2097 - DocType: SOP - Doc title: Indexing Validation_Verification OP
+Started exporting files.
+Exported files successfully.
+Processing Transaction 61: DocNumber: 2055 - DocType: SOP - Doc title: Indexing Validation_Verification OP
+Started exporting files.
+Exported files successfully.
+Processing Transaction 62: DocNumber: 2096 - DocType: SOP - Doc title: Scan
+Started exporting files.
+Exported files successfully.
+Processing Transaction 63: DocNumber: 2094 - DocType: SOP - Doc title: Prep
+Started exporting files.
+Exported files successfully.
+Processing Transaction 64: DocNumber: 2032 - DocType: SOP - Doc title: Document Preparation
+Started exporting files.
+Exported files successfully.
+Processing Transaction 65: DocNumber: 2091 - DocType: Other - Doc title: QC Form Example
+Started exporting files.
+Exported files successfully.
+Processing Transaction 66: DocNumber: 2090 - DocType: Other - Doc title: Container Tracking Form Example
+Started exporting files.
+Exported files successfully.
+Processing Transaction 67: DocNumber: 2089 - DocType: Form - Doc title: PO Box Key Log
+Started exporting files.
+Exported files successfully.
+Processing Transaction 68: DocNumber: 2088 - DocType: How To - Doc title: How To Setup and Deactivate Access
+Started exporting files.
+Exported files successfully.
+Processing Transaction 69: DocNumber: 2087 - DocType: How To - Doc title: How To Setup and Deactivate Access
+Started exporting files.
+Exported files successfully.
+Processing Transaction 70: DocNumber: 2086 - DocType: How To - Doc title: How To Provide and Review Visitor Access
+Started exporting files.
+Exported files successfully.
+Processing Transaction 71: DocNumber: 2085 - DocType: How To - Doc title: How To Provide and Review Visitor Access
+Started exporting files.
+Exported files successfully.
+Processing Transaction 72: DocNumber: 2084 - DocType: SOP - Doc title: Sample Testing
+Started exporting files.
+Exported files successfully.
+Processing Transaction 73: DocNumber: 2083 - DocType: SOP - Doc title: Sample Testing
+Started exporting files.
+Exported files successfully.
+Processing Transaction 74: DocNumber: 2079 - DocType: How To - Doc title: How To Release to SFTP
+Started exporting files.
+Exported files successfully.
+Processing Transaction 75: DocNumber: 2078 - DocType: How To - Doc title: How To Release to SFTP
+Started exporting files.
+Exported files successfully.
+Processing Transaction 76: DocNumber: 2077 - DocType: How To - Doc title: How To Release to Removable Media
+Started exporting files.
+Exported files successfully.
+Processing Transaction 77: DocNumber: 2076 - DocType: How To - Doc title: How To Release to Removable Media
+Started exporting files.
+Exported files successfully.
+Processing Transaction 78: DocNumber: 2075 - DocType: How To - Doc title: How To Release to Box.com
+Started exporting files.
+Exported files successfully.
+Processing Transaction 79: DocNumber: 2074 - DocType: How To - Doc title: How To Release to Box.com
+Started exporting files.
+Exported files successfully.
+Processing Transaction 80: DocNumber: 2073 - DocType: How To - Doc title: 5S Workstation Configuration - Scan Wide Format
+Started exporting files.
+Exported files successfully.
+Processing Transaction 81: DocNumber: 2072 - DocType: How To - Doc title: 5S Workstation Configuration - Scan Wide Format
+Started exporting files.
+Exported files successfully.
+Processing Transaction 82: DocNumber: 2071 - DocType: How To - Doc title: 5S Workstation Configuration - Scan ADF
+Started exporting files.
+Exported files successfully.
+Processing Transaction 83: DocNumber: 2070 - DocType: How To - Doc title: 5S Workstation Configuration - Scan ADF
+Started exporting files.
+Exported files successfully.
+Processing Transaction 84: DocNumber: 2069 - DocType: How To - Doc title: 5S Workstation Configuration - QC
+Started exporting files.
+Exported files successfully.
+Processing Transaction 85: DocNumber: 2068 - DocType: How To - Doc title: 5S Workstation Configuration - QC
+Started exporting files.
+Exported files successfully.
+Processing Transaction 86: DocNumber: 2067 - DocType: How To - Doc title: 5S Workstation Configuration - Indexing Validation Verification
+Started exporting files.
+Exported files successfully.
+Processing Transaction 87: DocNumber: 2066 - DocType: How To - Doc title: 5S Workstation Configuration - Indexing Validation Verification
+Started exporting files.
+Exported files successfully.
+Processing Transaction 88: DocNumber: 2063 - DocType: How To - Doc title: 5S Workstation Configuration - Document Preparation
+Started exporting files.
+Exported files successfully.
+Processing Transaction 89: DocNumber: 2061 - DocType: Form - Doc title: Job Instruction Review Form
+Started exporting files.
+Exported files successfully.
+Processing Transaction 90: DocNumber: 2060 - DocType: How To - Doc title: How To Populate Job Instruction Form
+Started exporting files.
+Exported files successfully.
+Processing Transaction 91: DocNumber: 2059 - DocType: How To - Doc title: How To Populate Job Instruction Form
+Started exporting files.
+Exported files successfully.
+Processing Transaction 92: DocNumber: 2058 - DocType: SOP - Doc title: Job Instructions
+Started exporting files.
+Exported files successfully.
+Processing Transaction 93: DocNumber: 2054 - DocType: Form - Doc title: QC Form
+Started exporting files.
+Exported files successfully.
+Processing Transaction 94: DocNumber: 2051 - DocType: How To - Doc title: How To Populate QC Form
+Started exporting files.
+Exported files successfully.
+Processing Transaction 95: DocNumber: 2050 - DocType: How To - Doc title: How To Populate QC Form
+Started exporting files.
+Exported files successfully.
+Processing Transaction 96: DocNumber: 2049 - DocType: How To - Doc title: How To Perform QC - PaperVision
+Started exporting files.
+Exported files successfully.
+Processing Transaction 97: DocNumber: 2048 - DocType: How To - Doc title: How To Perform QC - PaperVision
+Started exporting files.
+Exported files successfully.
+Processing Transaction 98: DocNumber: 2045 - DocType: How To - Doc title: How To Perform QC - Kofax
+Started exporting files.
+Exported files successfully.
+Processing Transaction 99: DocNumber: 2044 - DocType: How To - Doc title: How To Perform QC - Kofax
+Started exporting files.
+Exported files successfully.
+Processing Transaction 100: DocNumber: 2040 - DocType: How To - Doc title: How To Scan - Papervision
+Started exporting files.
+Exported files successfully.
+Processing Transaction 101: DocNumber: 2037 - DocType: How To - Doc title: How To Perform Scanner Maintenance - fi5900c
+Started exporting files.
+Exported files successfully.
+Processing Transaction 102: DocNumber: 2036 - DocType: How To - Doc title: How To Perform Scanner Maintenance - fi5900c
+Started exporting files.
+Exported files successfully.
+Processing Transaction 103: DocNumber: 2028 - DocType: How To - Doc title: How To Create Customer Information Label
+Started exporting files.
+Exported files successfully.
+Processing Transaction 104: DocNumber: 2027 - DocType: How To - Doc title: How To Create Customer Information Label
+Started exporting files.
+Exported files successfully.
+Processing Transaction 105: DocNumber: 2024 - DocType: SOP - Doc title: Receive Inventory
+Started exporting files.
+Exported files successfully.
+Processing Transaction 106: DocNumber: 2022 - DocType: SOP - Doc title: Release
+Started exporting files.
+Exported files successfully.
+Processing Transaction 107: DocNumber: 2021 - DocType: SOP - Doc title: Release
+Started exporting files.
+Exported files successfully.

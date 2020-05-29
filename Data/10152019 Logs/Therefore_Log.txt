@@ -1,0 +1,2071 @@
+﻿
+=================================================
+Starting run at 10:34:22  AM, 10/14/2019
+=================================================
+Opening Therefore Navigator..
+Searching all client files..
+Total Number of Clients: 650
+Number of Client files to be downloaded: 300
+Starting at Transaction number 1
+Processing Transaction 1: Client: Marshall Gerstein - Project Title: Patent Project
+Started exporting files.
+Exported files successfully.
+Processing Transaction 2: Client: Klockner Pentaplast - Project Title: RFP 2019
+Started exporting files.
+Exported files successfully.
+Processing Transaction 3: Client: Encore Capital - Project Title: Renewal 2019
+No files found. Skipping...
+Processing Transaction 4: Client: Comerica - Project Title: Procedure Updates
+Started exporting files.
+Exported files successfully.
+Processing Transaction 5: Client: Health Care Service Corporation - Project Title: Mail and Scanning RFP
+No files found. Skipping...
+Processing Transaction 6: Client: Inova Health System - Project Title: AP 2019
+No files found. Skipping...
+Processing Transaction 7: Client: Encore Capital - Project Title: Roanoke
+No files found. Skipping...
+Processing Transaction 8: Client: Equifax - Project Title: EWS Imaging RFP 2019
+No files found. Skipping...
+Processing Transaction 9: Client: Equifax - Project Title: EVS Phase 2
+No files found. Skipping...
+Processing Transaction 10: Client: Equifax - Project Title: WOTC Lift and Shift
+Started exporting files.
+Exported files successfully.
+Processing Transaction 11: Client: Equifax - Project Title: Mortgage Project for BPC East
+Started exporting files.
+Exported files successfully.
+Processing Transaction 12: Client: LogistiCare - Project Title: Claims RFP 2019
+Started exporting files.
+Exported files successfully.
+Processing Transaction 13: Client: US Steel - Project Title: Renewal RFP 2019
+No files found. Skipping...
+Processing Transaction 14: Client: Tradeshift - Project Title: Masonite
+No files found. Skipping...
+Processing Transaction 15: Client: Tradeshift - Project Title: Halliburton
+No files found. Skipping...
+Processing Transaction 16: Client: Jefferson Capital Systems - Project Title: Phase 2 - Consumer Relations, Secured Assets and Bankruptcy
+Started exporting files.
+Exported files successfully.
+Processing Transaction 17: Client: JM Smucker - Project Title: AP Capture
+Started exporting files.
+Exported files successfully.
+Processing Transaction 18: Client: Gilead - Project Title: BPC Help Desk
+Started exporting files.
+Exported files successfully.
+Processing Transaction 19: Client: Comerica - Project Title: LIBOR OCR
+Started exporting files.
+Exported files successfully.
+Processing Transaction 20: Client: The Conference Board - Project Title: HR Project 2
+Started exporting files.
+Exported files successfully.
+Processing Transaction 21: Client: Perry Ellis - Project Title: AP
+No files found. Skipping...
+Processing Transaction 22: Client: Philips - Project Title: Digital Transformation
+Started exporting files.
+Exported files successfully.
+Processing Transaction 23: Client: Shelby Group - Project Title: Global AP
+Started exporting files.
+Exported files successfully.
+Processing Transaction 24: Client: Tradeshift - Project Title: Marvell
+Started exporting files.
+Exported files successfully.
+Processing Transaction 25: Client: Wilson Sonsini Goodrich & Roasati - Project Title: RFP 2019
+Started exporting files.
+Exported files successfully.
+Processing Transaction 26: Client: Abt Associates - Project Title: ABT Audit 2019
+No files found. Skipping...
+Processing Transaction 27: Client: Tradeshift - Project Title: Best Buy Canada
+Started exporting files.
+Exported files successfully.
+Processing Transaction 28: Client: Newmark, Knight and Frank - Project Title: AP and Contracts
+Started exporting files.
+Exported files successfully.
+Processing Transaction 29: Client: Innovis - Project Title: Mail
+Started exporting files.
+Exported files successfully.
+Processing Transaction 30: Client: Miller Canfield - Project Title: Renewal 2019
+Started exporting files.
+Exported files successfully.
+Processing Transaction 31: Client: Tewksbury Schools - Project Title: Storage
+Started exporting files.
+Exported files successfully.
+Processing Transaction 32: Client: Box - Project Title: RFP Legal Docs
+Started exporting files.
+Exported files successfully.
+Processing Transaction 33: Client: Perry Ellis - Project Title: S2P
+Started exporting files.
+Exported files successfully.
+Processing Transaction 34: Client: Black Knight Financial - Project Title: S2P
+No files found. Skipping...
+Processing Transaction 35: Client: GE - Project Title: Digital Intake Center 2019
+No files found. Skipping...
+Processing Transaction 36: Client: CBPS DTS - Project Title: PMO
+No files found. Skipping...
+Processing Transaction 37: Client: CBPS DTS - Project Title: Case Manager v2
+No files found. Skipping...
+Processing Transaction 38: Client: CBPS - Project Title: Accounts Payable Phase 1
+No files found. Skipping...
+Processing Transaction 39: Client: CBPS - Project Title: HR Repository Reconciliation
+No files found. Skipping...
+Processing Transaction 40: Client: Tradeshift - Project Title: Corning
+Started exporting files.
+Exported files successfully.
+Processing Transaction 41: Client: Tradeshift - Project Title: Catalent Phase 1
+Started exporting files.
+Exported files successfully.
+Processing Transaction 42: Client: Tradeshift - Project Title: L'Oreal
+Started exporting files.
+Exported files successfully.
+Processing Transaction 43: Client: Mazda - Project Title: Digital Mail 2019
+No files found. Skipping...
+Processing Transaction 44: Client: HERC - Project Title: Accounts Payable 2019
+No files found. Skipping...
+Processing Transaction 45: Client: HERC - Project Title: Rental Agreements
+No files found. Skipping...
+Processing Transaction 46: Client: Equifax - Project Title: Accounts Payable
+No files found. Skipping...
+Processing Transaction 47: Client: Equifax - Project Title: WFS RPA Enablement
+No files found. Skipping...
+Processing Transaction 48: Client: Encore Capital - Project Title: Ephesoft Advanced Training
+No files found. Skipping...
+Processing Transaction 49: Client: Ice Miller LLP - Project Title: Road Map
+Started exporting files.
+Exported files successfully.
+Processing Transaction 50: Client: Kreig - Project Title: Kreig DeVault Records Review
+No files found. Skipping...
+Processing Transaction 51: Client: Neal Gerber - Project Title: Renewal 2019
+Started exporting files.
+Exported files successfully.
+Processing Transaction 52: Client: HERC - Project Title: Rentals Change Controls
+Started exporting files.
+Exported files successfully.
+Processing Transaction 53: Client: Jackson Lewis - Project Title: Renewal RFP 2019
+Started exporting files.
+Exported files successfully.
+Processing Transaction 54: Client: Tradeshift - Project Title: Procter and Gamble
+Started exporting files.
+Exported files successfully.
+Processing Transaction 55: Client: Equifax - Project Title: SSV 2019
+Started exporting files.
+Exported files successfully.
+Processing Transaction 56: Client: Capgemini - Project Title: Upfield
+Started exporting files.
+Exported files successfully.
+Processing Transaction 57: Client: Union Bank - Project Title: Implementation 2010
+Started exporting files.
+Exported files successfully.
+Processing Transaction 58: Client: Gilead - Project Title: AP Outsourced Services 2010
+Started exporting files.
+Exported files successfully.
+Processing Transaction 59: Client: JP Morgan Chase & Co - Project Title: JP Morgan Trade
+Started exporting files.
+Exported files successfully.
+Processing Transaction 60: Client: Citigroup - Project Title: Trades Renewal 2019
+Started exporting files.
+Exported files successfully.
+Processing Transaction 61: Client: Jefferson Capital Systems - Project Title: Phase 1 - Digitial Intake
+Started exporting files.
+Exported files successfully.
+Processing Transaction 62: Client: Liberty Mutual - Project Title: Return Mail Change Requests
+Started exporting files.
+Exported files successfully.
+Processing Transaction 63: Client: Cameco - Project Title: AP Capture
+No files found. Skipping...
+Processing Transaction 64: Client: Aon - Project Title: AON Pension
+Started exporting files.
+Exported files successfully.
+Processing Transaction 65: Client: CBPS PSD - Project Title: IT Related Documentation
+Started exporting files.
+Exported files successfully.
+Processing Transaction 66: Client: CBPS DTS - Project Title: Team Meeting 2019 Q1
+Started exporting files.
+Exported files successfully.
+Processing Transaction 67: Client: CBPS BPC - Project Title: Internal AP
+Started exporting files.
+Exported files successfully.
+Processing Transaction 68: Client: Goodwin Proctor LLP - Project Title: RFP 2019
+Started exporting files.
+Exported files successfully.
+Processing Transaction 69: Client: CBPS BPC - Project Title: BPC Pricing
+Started exporting files.
+Exported files successfully.
+Processing Transaction 70: Client: Coca Cola - Project Title: AP Capture Services
+No files found. Skipping...
+Processing Transaction 71: Client: Liberty Mutual - Project Title: LM Digital Intake Center
+Started exporting files.
+Exported files successfully.
+Processing Transaction 72: Client: CBPS BPC - Project Title: BPC Project Reporting
+Started exporting files.
+Exported files successfully.
+Processing Transaction 73: Client: CBPS HR - Project Title: 2019 Employee File Reconcilation
+Started exporting files.
+Exported files successfully.
+Processing Transaction 74: Client: Facebook - Project Title: Digitization
+Started exporting files.
+Exported files successfully.
+Processing Transaction 75: Client: Cathay Bank - Project Title: MailRoom Digitization 2019
+Started exporting files.
+Exported files successfully.
+Processing Transaction 76: Client: UPMC - Project Title: Transformation Roadmap 2019
+Started exporting files.
+Exported files successfully.
+Processing Transaction 77: Client: The Hartford Insurance Group - Project Title: The Hartford Renewal 2019
+Started exporting files.
+Exported files successfully.
+Processing Transaction 78: Client: CBPS DTS - Project Title: Insurance Reasearch
+Started exporting files.
+Exported files successfully.
+Processing Transaction 79: Client: Equifax - Project Title: EVS Phase 1
+Started exporting files.
+Exported files successfully.
+Processing Transaction 80: Client: HSBC - Project Title: NA for Tradeshift
+Started exporting files.
+Exported files successfully.
+Processing Transaction 81: Client: Hill Farrer & Burrill LLP - Project Title: Renewal
+Started exporting files.
+Exported files successfully.
+Processing Transaction 82: Client: Latham & Watkins LLP - Project Title: RFP 2019
+Started exporting files.
+Exported files successfully.
+Processing Transaction 83: Client: Milbank - Project Title: Records Procedure Development
+No files found. Skipping...
+Processing Transaction 84: Client: Citigroup - Project Title: Global Contracts 2019
+Started exporting files.
+Exported files successfully.
+Processing Transaction 85: Client: Encore Capital - Project Title: Technology Discussion Q1 2019
+Started exporting files.
+Exported files successfully.
+Processing Transaction 86: Client: HERC - Project Title: S2P Transformation
+No files found. Skipping...
+Processing Transaction 87: Client: Aon - Project Title: Affinity Mail Room Consolidation
+Started exporting files.
+Exported files successfully.
+Processing Transaction 88: Client: Equifax - Project Title: Alpharetta CS and AP Site Renewal 2019
+Started exporting files.
+Exported files successfully.
+Processing Transaction 89: Client: CBPS BPO Consulting - Project Title: Therefore Documents for Sales
+Started exporting files.
+Exported files successfully.
+Processing Transaction 90: Client: Equifax - Project Title: WOTC Phase 1 and 2
+Started exporting files.
+Exported files successfully.
+Processing Transaction 91: Client: Liberty Mutual - Project Title: Video File Management
+Started exporting files.
+Exported files successfully.
+Processing Transaction 92: Client: CBPS BPO Consulting - Project Title: Therefore Demos
+Started exporting files.
+Exported files successfully.
+Processing Transaction 93: Client: Clark Hill - Project Title: SCLogic
+Started exporting files.
+Exported files successfully.
+Processing Transaction 94: Client: CBPS BPC - Project Title: SC Logic
+Started exporting files.
+Exported files successfully.
+Processing Transaction 95: Client: Hertz - Project Title: FL HR
+Started exporting files.
+Exported files successfully.
+Processing Transaction 96: Client: ICW Group - Project Title: Insurance Claims
+Started exporting files.
+Exported files successfully.
+Processing Transaction 97: Client: Country-Wide Insurance - Project Title: Mail
+Started exporting files.
+Exported files successfully.
+Processing Transaction 98: Client: HERC - Project Title: CineLease
+Started exporting files.
+Exported files successfully.
+Processing Transaction 99: Client: Equifax - Project Title: Citi - Des Moines, IA
+Started exporting files.
+Exported files successfully.
+Processing Transaction 100: Client: Expeditors International of Washington Inc - Project Title: Expeditors International for Tradeshift
+Started exporting files.
+Exported files successfully.
+Processing Transaction 101: Client: Best Buy - Project Title: Best Buy Change Requests
+Started exporting files.
+Exported files successfully.
+Processing Transaction 102: Client: Cooley LLP - Project Title: NYC RFP
+Started exporting files.
+Exported files successfully.
+Processing Transaction 103: Client: CNBC - Project Title: Imaging Back File
+Started exporting files.
+Exported files successfully.
+Processing Transaction 104: Client: Rockland County - Project Title: Imaging Back File and Records Consulting
+Started exporting files.
+Exported files successfully.
+Processing Transaction 105: Client: Chubb - Project Title: Claims Support OFallon
+Started exporting files.
+Exported files successfully.
+Processing Transaction 106: Client: Sikorsky - Project Title: 2018 Renewal
+Started exporting files.
+Exported files successfully.
+Processing Transaction 107: Client: Procopio - Project Title: BPA
+Started exporting files.
+Exported files successfully.
+Processing Transaction 108: Client: Liberty Mutual - Project Title: PFN Automation
+Started exporting files.
+Exported files successfully.
+Processing Transaction 109: Client: Clorox - Project Title: AP Capture
+Started exporting files.
+Exported files successfully.
+Processing Transaction 110: Client: Wake Forest - Project Title: AP Capture
+Started exporting files.
+Exported files successfully.
+Processing Transaction 111: Client: Equifax - Project Title: Canon -Des Moines, IA
+Started exporting files.
+Exported files successfully.
+Processing Transaction 112: Client: The Clorox Company - Project Title: Clorox for Tradeshift
+No files found. Skipping...
+Processing Transaction 113: Client: Sephora - Project Title: AP Capture
+Started exporting files.
+Exported files successfully.
+Processing Transaction 114: Client: Fragomen, Del Rey, Bernsen & Loewry - Project Title: Fragomen NYC Move
+Started exporting files.
+Exported files successfully.
+Processing Transaction 115: Client: CBPS DTS - Project Title: S2P Implementation
+Started exporting files.
+Exported files successfully.
+Processing Transaction 116: Client: Boies Schiller Flexner LLP - Project Title: NYC Copy Services
+Started exporting files.
+Exported files successfully.
+Processing Transaction 117: Client: GE - Project Title: Evendale OH Mail and Imaging
+Started exporting files.
+Exported files successfully.
+Processing Transaction 118: Client: Seward & Kissel - Project Title: Seward & Kissel 2018
+Started exporting files.
+Exported files successfully.
+Processing Transaction 119: Client: Equifax - Project Title: Verification Services 2018
+Started exporting files.
+Exported files successfully.
+Processing Transaction 120: Client: GE - Project Title: EBRs and Leadership Meetings
+Started exporting files.
+Exported files successfully.
+Processing Transaction 121: Client: Kia - Project Title: Imaging Project
+Started exporting files.
+Exported files successfully.
+Processing Transaction 122: Client: Allianz - Project Title: RFP 2018
+Started exporting files.
+Exported files successfully.
+Processing Transaction 123: Client: Coca Cola - Project Title: RM and Imaging 2018
+Started exporting files.
+Exported files successfully.
+Processing Transaction 124: Client: Ryerson - Project Title: Ryerson Backfile Conversion
+Started exporting files.
+Exported files successfully.
+Processing Transaction 125: Client: Best Best & Krieger - Project Title: RFP
+Started exporting files.
+Exported files successfully.
+Processing Transaction 126: Client: John Hancock - Project Title: Imaging Project
+Started exporting files.
+Exported files successfully.
+Processing Transaction 127: Client: Jeffer Mangels Butler and Mitchell LLP - Project Title: Jeffer Mangels RFP
+Started exporting files.
+Exported files successfully.
+Processing Transaction 128: Client: Jaffe Raitt Heuer & Weiss - Project Title: Jaffe Raitt RFP
+Started exporting files.
+Exported files successfully.
+Processing Transaction 129: Client: Epstein Becker - Project Title: Epstein Move Imaging Project RFP
+Started exporting files.
+Exported files successfully.
+Processing Transaction 130: Client: Cathay Bank - Project Title: Compendium Enterprise
+Started exporting files.
+Exported files successfully.
+Processing Transaction 131: Client: Equifax - Project Title: Security Review
+Started exporting files.
+Exported files successfully.
+Processing Transaction 132: Client: Raymond James - Project Title: Contracts Clean Up Project 2
+Started exporting files.
+Exported files successfully.
+Processing Transaction 133: Client: Liberty Mutual - Project Title: Ironshore Backlog Scanning
+Started exporting files.
+Exported files successfully.
+Processing Transaction 134: Client: CBRE - Project Title: Wide Format
+Started exporting files.
+Exported files successfully.
+Processing Transaction 135: Client: Chubb - Project Title: Claims Attaching National
+Started exporting files.
+Exported files successfully.
+Processing Transaction 136: Client: Otsuka - Project Title: Offsite Storage Imaging
+Started exporting files.
+Exported files successfully.
+Processing Transaction 137: Client: Blue Cross Blue Shield - Project Title: Florida RFP
+Started exporting files.
+Exported files successfully.
+Processing Transaction 138: Client: Nelson Mullins - Project Title: RFP
+Started exporting files.
+Exported files successfully.
+Processing Transaction 139: Client: Encore Capital - Project Title: Consumer and Business Checks
+Started exporting files.
+Exported files successfully.
+Processing Transaction 140: Client: Liberty Mutual - Project Title: San Fran Offsite Box Project
+Started exporting files.
+Exported files successfully.
+Processing Transaction 141: Client: Thompson Hine LLP - Project Title: Offsite Storage
+Started exporting files.
+Exported files successfully.
+Processing Transaction 142: Client: Equifax - Project Title: Credit Clinc Process Change
+Started exporting files.
+Exported files successfully.
+Processing Transaction 143: Client: Proskauer Rose LLP - Project Title: Proskauer RFP
+Started exporting files.
+Exported files successfully.
+Processing Transaction 144: Client: SunLife - Project Title: Renewal RFP
+Started exporting files.
+Exported files successfully.
+Processing Transaction 145: Client: Blue Cross Blue Shield - Project Title: FL Claims Adjudication
+Started exporting files.
+Exported files successfully.
+Processing Transaction 146: Client: Troutman Sanders LLP - Project Title: Office Services RFP
+Started exporting files.
+Exported files successfully.
+Processing Transaction 147: Client: Boeing - Project Title: Consulting RFP
+Started exporting files.
+Exported files successfully.
+Processing Transaction 148: Client: Morgan and Morgan - Project Title: Mail
+Started exporting files.
+Exported files successfully.
+Processing Transaction 149: Client: ExxonMobil - Project Title: EMRE Phase 2 BPC Imaging
+Started exporting files.
+Exported files successfully.
+Processing Transaction 150: Client: Knights of Columbus - Project Title: Knights of Columbus BPC
+Started exporting files.
+Exported files successfully.
+Processing Transaction 151: Client: CBPS DTS - Project Title: Team Meeting 2018 Q2
+Started exporting files.
+Exported files successfully.
+Processing Transaction 152: Client: UPS - Project Title: Key Entry RFP
+Started exporting files.
+Exported files successfully.
+Processing Transaction 153: Client: GE - Project Title: Power Pension/Payroll/Tax Imaging - Change Requests
+Started exporting files.
+Exported files successfully.
+Processing Transaction 154: Client: UPMC - Project Title: Imaging Center
+Started exporting files.
+Exported files successfully.
+Processing Transaction 155: Client: Fisher & Phillips LLP - Project Title: Irvine
+Started exporting files.
+Exported files successfully.
+Processing Transaction 156: Client: Faegre Baker Daniels - Project Title: Faegre Denver BPA
+Started exporting files.
+Exported files successfully.
+Processing Transaction 157: Client: The Conference Board - Project Title: HR Project
+Started exporting files.
+Exported files successfully.
+Processing Transaction 158: Client: Jackson Lewis - Project Title: Sacramento
+Started exporting files.
+Exported files successfully.
+Processing Transaction 159: Client: Capgemini - Project Title: AP Scanning
+Started exporting files.
+Exported files successfully.
+Processing Transaction 160: Client: Debevoise - Project Title: HR Scanning Project
+Started exporting files.
+Exported files successfully.
+Processing Transaction 161: Client: Capgemini - Project Title: Capgemini AP Scanning
+No files found. Skipping...
+Processing Transaction 162: Client: Harbourvest - Project Title: File Room
+Started exporting files.
+Exported files successfully.
+Processing Transaction 163: Client: GE - Project Title: Active Case Migration
+Started exporting files.
+Exported files successfully.
+Processing Transaction 164: Client: Exeter - Project Title: Renewal
+Started exporting files.
+Exported files successfully.
+Processing Transaction 165: Client: Liberty Mutual - Project Title: Return Mail 2019
+Started exporting files.
+Exported files successfully.
+Processing Transaction 166: Client: AIG - Project Title: Houston Private Credit
+Started exporting files.
+Exported files successfully.
+Processing Transaction 167: Client: Preferred One - Project Title: CMS
+Started exporting files.
+Exported files successfully.
+Processing Transaction 168: Client: Boies Schiller Flexner LLP - Project Title: Boies Schiller Move
+Started exporting files.
+Exported files successfully.
+Processing Transaction 169: Client: Arconic Inc - Project Title: Arconic for Tradeshift
+Started exporting files.
+Exported files successfully.
+Processing Transaction 170: Client: Peninsula Regional Medical Center - Project Title: PRMC For Tradeshift
+Started exporting files.
+Exported files successfully.
+Processing Transaction 171: Client: Graubard - Project Title: Graubard Move
+Started exporting files.
+Exported files successfully.
+Processing Transaction 172: Client: Freeman Freeman & Smiley - Project Title: Freeman Renewal
+Started exporting files.
+Exported files successfully.
+Processing Transaction 173: Client: Nossaman LLP - Project Title: Renewal 2018
+Started exporting files.
+Exported files successfully.
+Processing Transaction 174: Client: XL Catlin - Project Title: Claims
+Started exporting files.
+Exported files successfully.
+Processing Transaction 175: Client: AXA - Project Title: Centralized Imaging
+Started exporting files.
+Exported files successfully.
+Processing Transaction 176: Client: DCH Health Systems - Project Title: DCH Health Systems for Tradeshift
+Started exporting files.
+Exported files successfully.
+Processing Transaction 177: Client: Citigroup - Project Title: Citi Power Point Presentatons
+Started exporting files.
+Exported files successfully.
+Processing Transaction 178: Client: AIG - Project Title: AIG Houston Benefits
+Started exporting files.
+Exported files successfully.
+Processing Transaction 179: Client: Aon - Project Title: Benefits
+Started exporting files.
+Exported files successfully.
+Processing Transaction 180: Client: Everest National Insurance Company - Project Title: Everest Mail Imaging
+Started exporting files.
+Exported files successfully.
+Processing Transaction 181: Client: AIG - Project Title: Houston Restack
+Started exporting files.
+Exported files successfully.
+Processing Transaction 182: Client: Pfizer - Project Title: Pfizer AP Costa Rica
+Started exporting files.
+Exported files successfully.
+Processing Transaction 183: Client: AIG - Project Title: AIG Houston Restack
+Started exporting files.
+Exported files successfully.
+Processing Transaction 184: Client: Barnes and Thornburg - Project Title: TaskPro Relaunch
+Started exporting files.
+Exported files successfully.
+Processing Transaction 185: Client: CenturyLink - Project Title: Audit
+No files found. Skipping...
+Processing Transaction 186: Client: Hertz - Project Title: Rental Agreements Online
+Started exporting files.
+Exported files successfully.
+Processing Transaction 187: Client: Hertz - Project Title: BPC Kofax Transfer
+Started exporting files.
+Exported files successfully.
+Processing Transaction 188: Client: L'Oreal - Project Title: Canada AP
+Started exporting files.
+Exported files successfully.
+Processing Transaction 189: Client: Hertz - Project Title: Hertz Renewal - BPC
+Started exporting files.
+Exported files successfully.
+Processing Transaction 190: Client: Encore Capital - Project Title: CSS Inbound Processing - Ephesoft Development
+Started exporting files.
+Exported files successfully.
+Processing Transaction 191: Client: Tradeshift - Project Title: Catalent Phase 2
+Started exporting files.
+Exported files successfully.
+Processing Transaction 192: Client: Robins Kaplan - Project Title: Robins Kaplan 2018
+Started exporting files.
+Exported files successfully.
+Processing Transaction 193: Client: CBPS PSD - Project Title: PSD Templates
+Started exporting files.
+Exported files successfully.
+Processing Transaction 194: Client: MorseLife - Project Title: AP Outsourcing
+No files found. Skipping...
+Processing Transaction 195: Client: Hartz - Project Title: Mountain Move Imaging
+Started exporting files.
+Exported files successfully.
+Processing Transaction 196: Client: Dickinson Wright PLLC - Project Title: RFP
+Started exporting files.
+Exported files successfully.
+Processing Transaction 197: Client: Treehouse Private Brands Inc - Project Title: AP
+Started exporting files.
+Exported files successfully.
+Processing Transaction 198: Client: HERC - Project Title: AP Automation
+Started exporting files.
+Exported files successfully.
+Processing Transaction 199: Client: Equifax - Project Title: ACA Forms
+Started exporting files.
+Exported files successfully.
+Processing Transaction 200: Client: Verizon - Project Title: Construction and Misc Imaging
+Started exporting files.
+Exported files successfully.
+Processing Transaction 201: Client: GE - Project Title: Global Ops Data Migration
+Started exporting files.
+Exported files successfully.
+Processing Transaction 202: Client: Faegre Baker Daniels - Project Title: Labor Utilization
+Started exporting files.
+Exported files successfully.
+Processing Transaction 203: Client: Procopio - Project Title: Will Safe
+Started exporting files.
+Exported files successfully.
+Processing Transaction 204: Client: Freeman Freeman & Smiley - Project Title: Retention and Taxonomy
+Started exporting files.
+Exported files successfully.
+Processing Transaction 205: Client: Milbank - Project Title: Milbank Innovation
+Started exporting files.
+Exported files successfully.
+Processing Transaction 206: Client: Nixon Peabody - Project Title: Office Services
+Started exporting files.
+Exported files successfully.
+Processing Transaction 207: Client: Nexteer Automotive - Project Title: AP RFP
+Started exporting files.
+Exported files successfully.
+Processing Transaction 208: Client: Electronic Arts - Project Title: Mail Copy Print Services RFP
+Started exporting files.
+Exported files successfully.
+Processing Transaction 209: Client: United Technologies Corporation - Project Title: CC&S Executive Imaging
+Started exporting files.
+Exported files successfully.
+Processing Transaction 210: Client: Credit Suisse - Project Title: Print-Copy-Imagin and AP RFP
+Started exporting files.
+Exported files successfully.
+Processing Transaction 211: Client: Best Buy - Project Title: AP RFP
+Started exporting files.
+Exported files successfully.
+Processing Transaction 212: Client: Reyes Holdings - Project Title: Tradeshift
+Started exporting files.
+Exported files successfully.
+Processing Transaction 213: Client: CC&S - Project Title: Executive Imaging
+Started exporting files.
+Exported files successfully.
+Processing Transaction 214: Client: Tesoro Corp - Project Title: Imaging Project
+Started exporting files.
+Exported files successfully.
+Processing Transaction 215: Client: Weil - Project Title: RFI Houston and DC
+Started exporting files.
+Exported files successfully.
+Processing Transaction 216: Client: Tradeshift - Project Title: Best Buy
+Started exporting files.
+Exported files successfully.
+Processing Transaction 217: Client: CBPS BPC - Project Title: BPC East Move
+Started exporting files.
+Exported files successfully.
+Processing Transaction 218: Client: Santander Bank - Project Title: Auto Loans
+Started exporting files.
+Exported files successfully.
+Processing Transaction 219: Client: Robins Kaplan - Project Title: Los Angeles
+Started exporting files.
+Exported files successfully.
+Processing Transaction 220: Client: Dorsey & Whitney - Project Title: BPA
+No files found. Skipping...
+Processing Transaction 221: Client: Reyes Holdings - Project Title: Capture RFI
+Started exporting files.
+Exported files successfully.
+Processing Transaction 222: Client: Alston & Bird - Project Title: Renewal
+Started exporting files.
+Exported files successfully.
+Processing Transaction 223: Client: Robins Kaplan - Project Title: Business Plan - 2017
+Started exporting files.
+Exported files successfully.
+Processing Transaction 224: Client: CBPS BPC - Project Title: Capacity Planning
+Started exporting files.
+Exported files successfully.
+Processing Transaction 225: Client: CBPS PSD - Project Title: RPA Marketing Material
+Started exporting files.
+Exported files successfully.
+Processing Transaction 226: Client: L'Oreal - Project Title: AP Contract Renewal
+Started exporting files.
+Exported files successfully.
+Processing Transaction 227: Client: Equifax - Project Title: CS Return Mail
+Started exporting files.
+Exported files successfully.
+Processing Transaction 228: Client: Equifax - Project Title: Check Scanning
+Started exporting files.
+Exported files successfully.
+Processing Transaction 229: Client: Liberty Mutual - Project Title: National Office Service RFP
+Started exporting files.
+Exported files successfully.
+Processing Transaction 230: Client: Hertz - Project Title: Deal Packets
+Started exporting files.
+Exported files successfully.
+Processing Transaction 231: Client: CBPS - Project Title: AP Buy Outs
+Started exporting files.
+Exported files successfully.
+Processing Transaction 232: Client: CBPS PSD - Project Title: PSD Intranet
+Started exporting files.
+Exported files successfully.
+Processing Transaction 233: Client: CBPS PSD - Project Title: Vendors
+Started exporting files.
+Exported files successfully.
+Processing Transaction 234: Client: CBPS PSD - Project Title: Pricing - HR Salary Guide
+Started exporting files.
+Exported files successfully.
+Processing Transaction 235: Client: Freeman Freeman & Smiley - Project Title: Lateral Imaging
+No files found. Skipping...
+Processing Transaction 236: Client: CBPS BPO Consulting - Project Title: PREX17
+Started exporting files.
+Exported files successfully.
+Processing Transaction 237: Client: Union Bank - Project Title: AP Dashboard
+Started exporting files.
+Exported files successfully.
+Processing Transaction 238: Client: CBPS DTS - Project Title: CBPS Finance Monthly Reporting RPA
+Started exporting files.
+Exported files successfully.
+Processing Transaction 239: Client: Academy District 20 - Project Title: Academy District 20 Student Records
+Started exporting files.
+Exported files successfully.
+Processing Transaction 240: Client: Equifax - Project Title: Rebate Processing
+Started exporting files.
+Exported files successfully.
+Processing Transaction 241: Client: Equifax - Project Title: Equifax Rebate Processing
+Started exporting files.
+Exported files successfully.
+Processing Transaction 242: Client: Graebel Van Lines - Project Title: Graebel Van Lines Litigation
+Started exporting files.
+Exported files successfully.
+Processing Transaction 243: Client: Citigroup - Project Title: Getzville Records Retrieval
+Started exporting files.
+Exported files successfully.
+Processing Transaction 244: Client: Aerospace - Project Title: Mail, Imaging CRD RFP - Renewal
+Started exporting files.
+Exported files successfully.
+Processing Transaction 245: Client: CBPS PSD - Project Title: Assessment - Workshop Kit
+Started exporting files.
+Exported files successfully.
+Processing Transaction 246: Client: Madison Square Garden - Project Title: Madison Square Garden HR
+Started exporting files.
+Exported files successfully.
+Processing Transaction 247: Client: Biomerieux - Project Title: Imaging
+Started exporting files.
+Exported files successfully.
+Processing Transaction 248: Client: Hogan Lovells - Project Title: Records RFP
+Started exporting files.
+Exported files successfully.
+Processing Transaction 249: Client: CBPS - Project Title: AP Requests - Payment OBSOLETE
+Started exporting files.
+Exported files successfully.
+Processing Transaction 250: Client: DeVry - Project Title: Transcript Automation
+Started exporting files.
+Exported files successfully.
+Processing Transaction 251: Client: Abt Associates - Project Title: Pensions - Imaging and Repository
+Started exporting files.
+Exported files successfully.
+Processing Transaction 252: Client: Denver Water - Project Title: Denver Water HR Files
+Started exporting files.
+Exported files successfully.
+Processing Transaction 253: Client: Aon - Project Title: Calgary Move
+Started exporting files.
+Exported files successfully.
+Processing Transaction 254: Client: Cook Medical - Project Title: eDiscovery Support
+No files found. Skipping...
+Processing Transaction 255: Client: Vanguard - Project Title: Mail Continuity
+Started exporting files.
+Exported files successfully.
+Processing Transaction 256: Client: Aon - Project Title: Atlanta Records
+Started exporting files.
+Exported files successfully.
+Processing Transaction 257: Client: National Association of Home Builders - Project Title: Onsite Imaging Project
+Started exporting files.
+Exported files successfully.
+Processing Transaction 258: Client: Honda - Project Title: Physical Inventory
+Started exporting files.
+Exported files successfully.
+Processing Transaction 259: Client: Honda - Project Title: Shipping Documents
+Started exporting files.
+Exported files successfully.
+Processing Transaction 260: Client: Aon - Project Title: Montreal Move
+Started exporting files.
+Exported files successfully.
+Processing Transaction 261: Client: Aon - Project Title: Vancouver
+No files found. Skipping...
+Processing Transaction 262: Client: Aon - Project Title: Edmonton
+No files found. Skipping...
+Processing Transaction 263: Client: Rotork - Project Title: AP
+No files found. Skipping...
+Processing Transaction 264: Client: Mazda - Project Title: MPS Fleet Rollout 2017
+No files found. Skipping...
+Processing Transaction 265: Client: Mazda - Project Title: AP RFP 2017
+Started exporting files.
+Exported files successfully.
+Processing Transaction 266: Client: Yum Yum - Project Title: Records RFP
+Started exporting files.
+Exported files successfully.
+Processing Transaction 267: Client: Chubb - Project Title: Life Insurance Annual Reporting
+Started exporting files.
+Exported files successfully.
+Processing Transaction 268: Client: AIG - Project Title: Dark Data
+Started exporting files.
+Exported files successfully.
+Processing Transaction 269: Client: AIG - Project Title: Trucking
+No files found. Skipping...
+Processing Transaction 270: Client: CBRE - Project Title: National Imaging RFP
+Started exporting files.
+Exported files successfully.
+Processing Transaction 271: Client: Raymond James - Project Title: Contract Terms Identification
+Started exporting files.
+Exported files successfully.
+Processing Transaction 272: Client: AIG - Project Title: AIG Houston Profitability and Management
+Started exporting files.
+Exported files successfully.
+Processing Transaction 273: Client: Verve - Project Title: Senior Living AP
+Started exporting files.
+Exported files successfully.
+Processing Transaction 274: Client: Comscore - Project Title: Marketing Research
+Started exporting files.
+Exported files successfully.
+Processing Transaction 275: Client: Xcell NOW Corp - Project Title: Mail 101
+Started exporting files.
+Exported files successfully.
+Processing Transaction 276: Client: CBPS BPO Consulting - Project Title: IoT Devices
+Started exporting files.
+Exported files successfully.
+Processing Transaction 277: Client: Aon - Project Title: National Imaging
+Started exporting files.
+Exported files successfully.
+Processing Transaction 278: Client: Canon Hong Kong - Project Title: PH
+Started exporting files.
+Exported files successfully.
+Processing Transaction 279: Client: Aon - Project Title: AON National Imaging
+Started exporting files.
+Exported files successfully.
+Processing Transaction 280: Client: Related - Project Title: Hudson Yard Cost Allocations
+Started exporting files.
+Exported files successfully.
+Processing Transaction 281: Client: CBPS BPO Consulting - Project Title: National Committee - Information Governance
+Started exporting files.
+Exported files successfully.
+Processing Transaction 282: Client: District 300 - Project Title: CSA
+Started exporting files.
+Exported files successfully.
+Processing Transaction 283: Client: NBA - Project Title: NBA Move
+Started exporting files.
+Exported files successfully.
+Processing Transaction 284: Client: Citigroup - Project Title: Branch Imaging
+Started exporting files.
+Exported files successfully.
+Processing Transaction 285: Client: CMFG - Project Title: Form Design
+Started exporting files.
+Exported files successfully.
+Processing Transaction 286: Client: CBPS BPO Consulting - Project Title: BPC PH Collateral
+Started exporting files.
+Exported files successfully.
+Processing Transaction 287: Client: Equifax - Project Title: RPA Unemployment Claims
+Started exporting files.
+Exported files successfully.
+Processing Transaction 288: Client: Union Bank - Project Title: BC and DR Procedures
+Started exporting files.
+Exported files successfully.
+Processing Transaction 289: Client: Kohn Law - Project Title: Kohn Bankruptcy Packets
+Started exporting files.
+Exported files successfully.
+Processing Transaction 290: Client: Barnes and Thornburg - Project Title: Barnes Incoming Attorney Imaging
+Started exporting files.
+Exported files successfully.
+Processing Transaction 291: Client: Atlas Insurance - Project Title: Improvement / Add On Business
+Started exporting files.
+Exported files successfully.
+Processing Transaction 292: Client: Chubb - Project Title: Improvement / Add On Business
+Started exporting files.
+Exported files successfully.
+Processing Transaction 293: Client: SunLife - Project Title: Renewal 2017
+Started exporting files.
+Exported files successfully.
+Processing Transaction 294: Client: Brunswick - Project Title: Imaging Project
+Started exporting files.
+Exported files successfully.
+Processing Transaction 295: Client: Miller Johnson - Project Title: RFP
+Started exporting files.
+Exported files successfully.
+Processing Transaction 296: Client: SunLife - Project Title: Renewal Automation
+Started exporting files.
+Exported files successfully.
+Processing Transaction 297: Client: Equifax - Project Title: EBR Q1 2017
+Started exporting files.
+Exported files successfully.
+Processing Transaction 298: Client: CBPS DTS - Project Title: BPO Driving New Revenue
+Started exporting files.
+Exported files successfully.
+Processing Transaction 299: Client: Snyders Lance - Project Title: HR
+Started exporting files.
+Exported files successfully.
+Processing Transaction 300: Client: Mendes and Mount LLP - Project Title: Mendes and Mount
+Started exporting files.
+Exported files successfully.
+
+=================================================
+Ending run at 11:35:20  AM, 10/14/2019
+=================================================
+
+=================================================
+Starting run at 02:48:44  AM, 10/15/2019
+=================================================
+Opening Therefore Navigator..
+Searching all client files..
+Total Number of Clients: 650
+Number of Client files to be downloaded: 650
+Starting at Transaction number 301
+Processing Transaction 301: Client: American Gas Association - Project Title: American Gas Move
+Started exporting files.
+Exported files successfully.
+Processing Transaction 302: Client: BASF - Project Title: HR Imaging
+No files found. Skipping...
+Processing Transaction 303: Client: ABA - Project Title: Imaging Initiative
+Started exporting files.
+Exported files successfully.
+Processing Transaction 304: Client: Marshall Gerstein - Project Title: Office Services
+Started exporting files.
+Exported files successfully.
+Processing Transaction 305: Client: CBPS - Project Title: AP Reporting
+No files found. Skipping...
+Processing Transaction 306: Client: CBPS - Project Title: AP Organizational Change Management
+Started exporting files.
+Exported files successfully.
+Processing Transaction 307: Client: CBPS - Project Title: AP PO - Sales Tax
+No files found. Skipping...
+Processing Transaction 308: Client: CBPS - Project Title: AP PO - GL Accounts/Coding
+No files found. Skipping...
+Processing Transaction 309: Client: CBPS - Project Title: AP PO - Invoice Processing
+No files found. Skipping...
+Processing Transaction 310: Client: CBPS - Project Title: AP Non PO - Accurals
+No files found. Skipping...
+Processing Transaction 311: Client: CBPS - Project Title: AP Non PO - Sales Tax
+No files found. Skipping...
+Processing Transaction 312: Client: CBPS - Project Title: AP Non PO - GL Accounts/Coding
+No files found. Skipping...
+Processing Transaction 313: Client: CBPS - Project Title: AP Non PO - Non Lease Process and Approval Workflow
+Started exporting files.
+Exported files successfully.
+Processing Transaction 314: Client: CBPS - Project Title: AP Requests - Credit
+No files found. Skipping...
+Processing Transaction 315: Client: CBPS - Project Title: AP Lease - Accurals
+Started exporting files.
+Exported files successfully.
+Processing Transaction 316: Client: CBPS - Project Title: AP Lease - Related Processes
+Started exporting files.
+Exported files successfully.
+Processing Transaction 317: Client: CBPS - Project Title: AP Lease - Special Processes
+No files found. Skipping...
+Processing Transaction 318: Client: CBPS - Project Title: AP Lease - Sales Tax
+Started exporting files.
+Exported files successfully.
+Processing Transaction 319: Client: CBPS - Project Title: AP Lease - GL Accounts / Coding
+No files found. Skipping...
+Processing Transaction 320: Client: DeVry - Project Title: Shared Services
+Started exporting files.
+Exported files successfully.
+Processing Transaction 321: Client: Mentor Network - Project Title: Finance Workflow
+Started exporting files.
+Exported files successfully.
+Processing Transaction 322: Client: Freedom Finance Network - Project Title: Mail and Imaging RFP
+Started exporting files.
+Exported files successfully.
+Processing Transaction 323: Client: CBPS DTS - Project Title: AP Gold Implementation
+Started exporting files.
+Exported files successfully.
+Processing Transaction 324: Client: Allen Matkins - Project Title: RFP
+Started exporting files.
+Exported files successfully.
+Processing Transaction 325: Client: Kia - Project Title: Records Manifest - Fullerton, CA
+Started exporting files.
+Exported files successfully.
+Processing Transaction 326: Client: Xcell NOW Corp - Project Title: BPC Box Project
+Started exporting files.
+Exported files successfully.
+Processing Transaction 327: Client: Xcell NOW Corp - Project Title: Claims Handling Onsite
+Started exporting files.
+Exported files successfully.
+Processing Transaction 328: Client: Xcell NOW Corp - Project Title: Data Entry Offshore
+Started exporting files.
+Exported files successfully.
+Processing Transaction 329: Client: Xcell NOW Corp - Project Title: AP Processing
+Started exporting files.
+Exported files successfully.
+Processing Transaction 330: Client: Reinhart Boerner Van Deuren SC - Project Title: Project Group and Scanning
+Started exporting files.
+Exported files successfully.
+Processing Transaction 331: Client: CBPS DTS - Project Title: S2P Solution Toolkit
+Started exporting files.
+Exported files successfully.
+Processing Transaction 332: Client: CBPS DTS - Project Title: AP Financials
+Started exporting files.
+Exported files successfully.
+Processing Transaction 333: Client: Day Pitney - Project Title: Enterprise Cleanup Project
+No files found. Skipping...
+Processing Transaction 334: Client: CenturyLink - Project Title: Capabilities Overview
+Started exporting files.
+Exported files successfully.
+Processing Transaction 335: Client: DeVry - Project Title: Financial Aid Title 4
+Started exporting files.
+Exported files successfully.
+Processing Transaction 336: Client: CBPS - Project Title: AP Implementation
+Started exporting files.
+Exported files successfully.
+Processing Transaction 337: Client: Jenner and Block - Project Title: Switchboard
+Started exporting files.
+Exported files successfully.
+Processing Transaction 338: Client: Stradley Ronan - Project Title: RFP
+Started exporting files.
+Exported files successfully.
+Processing Transaction 339: Client: Barnes and Thornburg - Project Title: Add-on Labor and Tracking SW
+No files found. Skipping...
+Processing Transaction 340: Client: CBPS DTS - Project Title: Insurance Training
+No files found. Skipping...
+Processing Transaction 341: Client: CBPS DTS - Project Title: Insurance Policy Changes
+Started exporting files.
+Exported files successfully.
+Processing Transaction 342: Client: CBPS DTS - Project Title: Insurance Claims Handling
+Started exporting files.
+Exported files successfully.
+Processing Transaction 343: Client: CBPS DTS - Project Title: Insurance New Business
+Started exporting files.
+Exported files successfully.
+Processing Transaction 344: Client: CBPS DTS - Project Title: AP Gold Go Live
+Started exporting files.
+Exported files successfully.
+Processing Transaction 345: Client: Stoel Rives LLP - Project Title: RFP
+Started exporting files.
+Exported files successfully.
+Processing Transaction 346: Client: Bremer Bank - Project Title: Floor Plans
+Started exporting files.
+Exported files successfully.
+Processing Transaction 347: Client: DiTech - Project Title: Financial Imaging RFP
+Started exporting files.
+Exported files successfully.
+Processing Transaction 348: Client: Pandora - Project Title: Pandora T&E Process Flow
+Started exporting files.
+Exported files successfully.
+Processing Transaction 349: Client: Union Bank - Project Title: AP RFP 2017
+Started exporting files.
+Exported files successfully.
+Processing Transaction 350: Client: CBPS DTS - Project Title: FS Ideas
+Started exporting files.
+Exported files successfully.
+Processing Transaction 351: Client: Union Bank - Project Title: AP Improvement 2016
+Started exporting files.
+Exported files successfully.
+Processing Transaction 352: Client: CBPS - Project Title: AP Requests - Payment
+Started exporting files.
+Exported files successfully.
+Processing Transaction 353: Client: CBPS BPO Consulting - Project Title: SC Logic Standardization
+Started exporting files.
+Exported files successfully.
+Processing Transaction 354: Client: Chubb - Project Title: Phoenix
+Started exporting files.
+Exported files successfully.
+Processing Transaction 355: Client: Ameriprise - Project Title: Fiche Imaging
+Started exporting files.
+Exported files successfully.
+Processing Transaction 356: Client: CBPS DTS - Project Title: AP Gold Test Scripts
+Started exporting files.
+Exported files successfully.
+Processing Transaction 357: Client: Andrews Kurth Kenyon - Project Title: Move NY
+Started exporting files.
+Exported files successfully.
+Processing Transaction 358: Client: Laughlin Falbo - Project Title: Presentation
+Started exporting files.
+Exported files successfully.
+Processing Transaction 359: Client: CBPS DTS - Project Title: AP Gold Reporting
+Started exporting files.
+Exported files successfully.
+Processing Transaction 360: Client: Equifax - Project Title: AP Vendor Look-up
+No files found. Skipping...
+Processing Transaction 361: Client: CBPS DTS - Project Title: AP Gold Workflow
+Started exporting files.
+Exported files successfully.
+Processing Transaction 362: Client: CBPS - Project Title: AP Interfaces
+Started exporting files.
+Exported files successfully.
+Processing Transaction 363: Client: CBPS DTS - Project Title: BPO Team Documents
+Started exporting files.
+Exported files successfully.
+Processing Transaction 364: Client: CBPS - Project Title: AP Lease - Core
+Started exporting files.
+Exported files successfully.
+Processing Transaction 365: Client: CBPS DTS - Project Title: KTA Environment
+Started exporting files.
+Exported files successfully.
+Processing Transaction 366: Client: Chapman - Project Title: AP
+Started exporting files.
+Exported files successfully.
+Processing Transaction 367: Client: CBPS DTS - Project Title: S2P Marketing
+Started exporting files.
+Exported files successfully.
+Processing Transaction 368: Client: Dorsey & Whitney - Project Title: Joint Workshop
+Started exporting files.
+Exported files successfully.
+Processing Transaction 369: Client: CBPS DTS - Project Title: FS Robotic Process Automation
+Started exporting files.
+Exported files successfully.
+Processing Transaction 370: Client: CBPS DTS - Project Title: S2P Solution
+Started exporting files.
+Exported files successfully.
+Processing Transaction 371: Client: Faegre Baker Daniels - Project Title: HR Digital Initiative
+Started exporting files.
+Exported files successfully.
+Processing Transaction 372: Client: Parker Hudson - Project Title: Office Move - Onsite Imaging and Records
+Started exporting files.
+Exported files successfully.
+Processing Transaction 373: Client: Kreig - Project Title: Records -  Add-on
+Started exporting files.
+Exported files successfully.
+Processing Transaction 374: Client: AIG - Project Title: AIG Advisors Return Mail
+Started exporting files.
+Exported files successfully.
+Processing Transaction 375: Client: Cargill - Project Title: Cargill RFI
+Started exporting files.
+Exported files successfully.
+Processing Transaction 376: Client: DeVry - Project Title: Devry Freemont
+Started exporting files.
+Exported files successfully.
+Processing Transaction 377: Client: Equifax - Project Title: I-9s
+Started exporting files.
+Exported files successfully.
+Processing Transaction 378: Client: ExxonMobil - Project Title: EMRE Lube
+Started exporting files.
+Exported files successfully.
+Processing Transaction 379: Client: ExxonMobil - Project Title: EMRE HOC
+Started exporting files.
+Exported files successfully.
+Processing Transaction 380: Client: Equifax - Project Title: AP - Australia
+Started exporting files.
+Exported files successfully.
+Processing Transaction 381: Client: ExxonMobil - Project Title: XOM-Microfiche
+Started exporting files.
+Exported files successfully.
+Processing Transaction 382: Client: ExxonMobil - Project Title: Baytown Imaging
+Started exporting files.
+Exported files successfully.
+Processing Transaction 383: Client: ExxonMobil - Project Title: ExxonMobil - HRC Audit
+Started exporting files.
+Exported files successfully.
+Processing Transaction 384: Client: Leukemia & Lymphoma Society - Project Title: Move Prep
+Started exporting files.
+Exported files successfully.
+Processing Transaction 385: Client: QBE - Project Title: Forth Worth
+Started exporting files.
+Exported files successfully.
+Processing Transaction 386: Client: Barnes and Thornburg - Project Title: RFI
+Started exporting files.
+Exported files successfully.
+Processing Transaction 387: Client: Jenner and Block - Project Title: National RFP
+Started exporting files.
+Exported files successfully.
+Processing Transaction 388: Client: Amtrak - Project Title: Remediation Services Phase 2
+Started exporting files.
+Exported files successfully.
+Processing Transaction 389: Client: TLC - Project Title: Imaging
+Started exporting files.
+Exported files successfully.
+Processing Transaction 390: Client: GE - Project Title: Ohio Imaging
+Started exporting files.
+Exported files successfully.
+Processing Transaction 391: Client: Robins Kaplan - Project Title: Business Plan - MSP
+Started exporting files.
+Exported files successfully.
+Processing Transaction 392: Client: ExxonMobil - Project Title: ExxonMobil - HRC Support
+Started exporting files.
+Exported files successfully.
+Processing Transaction 393: Client: CBPS BPO Consulting - Project Title: Microfiche Testing
+Started exporting files.
+Exported files successfully.
+Processing Transaction 394: Client: Sikorsky - Project Title: Sikorsky Enflite-Lifeport
+Started exporting files.
+Exported files successfully.
+Processing Transaction 395: Client: GE - Project Title: Energy Learning Center
+Started exporting files.
+Exported files successfully.
+Processing Transaction 396: Client: Chubb - Project Title: Dallas - Claims Scanning
+Started exporting files.
+Exported files successfully.
+Processing Transaction 397: Client: Dickstein - Project Title: RFP Renewal
+Started exporting files.
+Exported files successfully.
+Processing Transaction 398: Client: AIG - Project Title: Brainstorming Session
+Started exporting files.
+Exported files successfully.
+Processing Transaction 399: Client: Jenner and Block - Project Title: Implementation - 2015
+Started exporting files.
+Exported files successfully.
+Processing Transaction 400: Client: Encore Capital - Project Title: Encore Capital Imaging
+Started exporting files.
+Exported files successfully.
+Processing Transaction 401: Client: Andersen - Project Title: Andersen Windows
+Started exporting files.
+Exported files successfully.
+Processing Transaction 402: Client: Carrier - Project Title: AP
+Started exporting files.
+Exported files successfully.
+Processing Transaction 403: Client: Parker Poe Adams & Bernstein - Project Title: Office Services
+Started exporting files.
+Exported files successfully.
+Processing Transaction 404: Client: MBIA - Project Title: Records Program
+Started exporting files.
+Exported files successfully.
+Processing Transaction 405: Client: Synchrony Financial - Project Title: IRA Imaging Project
+Started exporting files.
+Exported files successfully.
+Processing Transaction 406: Client: Baker Botts - Project Title: Lateral Hires
+Started exporting files.
+Exported files successfully.
+Processing Transaction 407: Client: OmniLife - Project Title: Client Files
+Started exporting files.
+Exported files successfully.
+Processing Transaction 408: Client: ExxonMobil - Project Title: EMRE URC VHS-Projector Slides
+Started exporting files.
+Exported files successfully.
+Processing Transaction 409: Client: Baxter Medical MFG - Project Title: CAD Drawing Mgmt
+Started exporting files.
+Exported files successfully.
+Processing Transaction 410: Client: QVC - Project Title: Personnel Files
+Started exporting files.
+Exported files successfully.
+Processing Transaction 411: Client: CBPS BPO Consulting - Project Title: Standards and Regulations
+Started exporting files.
+Exported files successfully.
+Processing Transaction 412: Client: Gould and Ratnor - Project Title: Gould and Ratnor Records
+Started exporting files.
+Exported files successfully.
+Processing Transaction 413: Client: Equifax - Project Title: AP WebCenter Update
+Started exporting files.
+Exported files successfully.
+Processing Transaction 414: Client: Jackson Lewis - Project Title: SF SC Logic
+Started exporting files.
+Exported files successfully.
+Processing Transaction 415: Client: Xcell NOW Corp - Project Title: Document Management Services
+Started exporting files.
+Exported files successfully.
+Processing Transaction 416: Client: Xtra Great Corp - Project Title: New Great Project -CLOSED
+Started exporting files.
+Exported files successfully.
+Processing Transaction 417: Client: Katten - Project Title: RFP - 2011
+Started exporting files.
+Exported files successfully.
+Processing Transaction 418: Client: Chubb - Project Title: Standard BPC Pricing
+Started exporting files.
+Exported files successfully.
+Processing Transaction 419: Client: Hinshaw & Culbertson - Project Title: Paper Lite
+Started exporting files.
+Exported files successfully.
+Processing Transaction 420: Client: Lewis Brisbois - Project Title: Water Street
+Started exporting files.
+Exported files successfully.
+Processing Transaction 421: Client: Dorsey & Whitney - Project Title: NYC
+Started exporting files.
+Exported files successfully.
+Processing Transaction 422: Client: Chubb - Project Title: Environmental Policy Libraries
+Started exporting files.
+Exported files successfully.
+Processing Transaction 423: Client: Amtrak - Project Title: Legacy Drawings
+Started exporting files.
+Exported files successfully.
+Processing Transaction 424: Client: Procopio - Project Title: Off-Site Records Project – Corovan
+Started exporting files.
+Exported files successfully.
+Processing Transaction 425: Client: Lewis Brisbois - Project Title: Insurance Audit
+Started exporting files.
+Exported files successfully.
+Processing Transaction 426: Client: Hertz - Project Title: Park Ridge Move
+Started exporting files.
+Exported files successfully.
+Processing Transaction 427: Client: Aon - Project Title: Aon National RFP
+Started exporting files.
+Exported files successfully.
+Processing Transaction 428: Client: Blue Shield - Project Title: Woodland Hills
+Started exporting files.
+Exported files successfully.
+Processing Transaction 429: Client: Boehringer Ingelheim - Project Title: Pallet Project
+Started exporting files.
+Exported files successfully.
+Processing Transaction 430: Client: SAIF Corporation - Project Title: PDF Conversion
+Started exporting files.
+Exported files successfully.
+Processing Transaction 431: Client: Barnes and Thornburg - Project Title: RFP
+Started exporting files.
+Exported files successfully.
+Processing Transaction 432: Client: Southern California Edison Company - Project Title: Songs
+Started exporting files.
+Exported files successfully.
+Processing Transaction 433: Client: ExxonMobil - Project Title: XOM-SCMO Files
+Started exporting files.
+Exported files successfully.
+Processing Transaction 434: Client: Schulte Roth Zabell - Project Title: Schulte RFP
+Started exporting files.
+Exported files successfully.
+Processing Transaction 435: Client: Equifax - Project Title: PDF Processing
+Started exporting files.
+Exported files successfully.
+Processing Transaction 436: Client: Lurie Childrens Hospital - Project Title: EBR
+Started exporting files.
+Exported files successfully.
+Processing Transaction 437: Client: Choate - Project Title: Choate Trademark
+Started exporting files.
+Exported files successfully.
+Processing Transaction 438: Client: Heidell - Project Title: Records Audit
+Started exporting files.
+Exported files successfully.
+Processing Transaction 439: Client: Chapman - Project Title: New Business Implementation
+Started exporting files.
+Exported files successfully.
+Processing Transaction 440: Client: Equifax - Project Title: AP - Template
+Started exporting files.
+Exported files successfully.
+Processing Transaction 441: Client: Verizon - Project Title: Verizon Asbestos
+Started exporting files.
+Exported files successfully.
+Processing Transaction 442: Client: Los Angeles Department of Water and Power - Project Title: Pension Files
+Started exporting files.
+Exported files successfully.
+Processing Transaction 443: Client: Starr - Project Title: AIG Records
+Started exporting files.
+Exported files successfully.
+Processing Transaction 444: Client: AIG - Project Title: Sagepoint Return Mail Renewal
+Started exporting files.
+Exported files successfully.
+Processing Transaction 445: Client: Ansaldo STS - Project Title: Engineering Drawings
+Started exporting files.
+Exported files successfully.
+Processing Transaction 446: Client: Verizon - Project Title: Asbestos
+Started exporting files.
+Exported files successfully.
+Processing Transaction 447: Client: JC Penny - Project Title: Retention Schedule
+Started exporting files.
+Exported files successfully.
+Processing Transaction 448: Client: Aon - Project Title: San Fran Move
+Started exporting files.
+Exported files successfully.
+Processing Transaction 449: Client: Nossaman LLP - Project Title: Records
+Started exporting files.
+Exported files successfully.
+Processing Transaction 450: Client: Herzfeld and Rubin - Project Title: Retention Schedule
+Started exporting files.
+Exported files successfully.
+Processing Transaction 451: Client: DOW Chemical Company - Project Title: Audit
+Started exporting files.
+Exported files successfully.
+Processing Transaction 452: Client: Weil - Project Title: HR Digitization
+Started exporting files.
+Exported files successfully.
+Processing Transaction 453: Client: Verizon - Project Title: Plymouth Meeting Move
+Started exporting files.
+Exported files successfully.
+Processing Transaction 454: Client: DeVry - Project Title: National Price List
+Started exporting files.
+Exported files successfully.
+Processing Transaction 455: Client: Katten - Project Title: RFP
+Started exporting files.
+Exported files successfully.
+Processing Transaction 456: Client: Vandenberg and Feliu - Project Title: Case Files
+Started exporting files.
+Exported files successfully.
+Processing Transaction 457: Client: Chubb - Project Title: Claims Inserting
+Started exporting files.
+Exported files successfully.
+Processing Transaction 458: Client: Apria - Project Title: Healthcare HR
+Started exporting files.
+Exported files successfully.
+Processing Transaction 459: Client: CMFG - Project Title: CUNA Renewal
+Started exporting files.
+Exported files successfully.
+Processing Transaction 460: Client: Starr - Project Title: Records NYC
+Started exporting files.
+Exported files successfully.
+Processing Transaction 461: Client: Manulife - Project Title: Insurance Imaging
+Started exporting files.
+Exported files successfully.
+Processing Transaction 462: Client: Anderson Kill - Project Title: Card File Project
+Started exporting files.
+Exported files successfully.
+Processing Transaction 463: Client: Allianz - Project Title: Annotation Project
+Started exporting files.
+Exported files successfully.
+Processing Transaction 464: Client: UPMC - Project Title: Initial Storage Analysis
+Started exporting files.
+Exported files successfully.
+Processing Transaction 465: Client: Hertz - Project Title: Admin Center AP
+Started exporting files.
+Exported files successfully.
+Processing Transaction 466: Client: Apria Healthcare Group - Project Title: Apria Healthcare HR
+Started exporting files.
+Exported files successfully.
+Processing Transaction 467: Client: Weingarten Realty Investors - Project Title: Weingarten AP
+Started exporting files.
+Exported files successfully.
+Processing Transaction 468: Client: Xtra Great Corp - Project Title: New Stuff Galore
+Started exporting files.
+Exported files successfully.
+Processing Transaction 469: Client: AIG - Project Title: Camden
+Started exporting files.
+Exported files successfully.
+Processing Transaction 470: Client: Mitre - Project Title: McLean Bedford
+Started exporting files.
+Exported files successfully.
+Processing Transaction 471: Client: Wooden and McLaughlin LLP - Project Title: Records and Renewal
+Started exporting files.
+Exported files successfully.
+Processing Transaction 472: Client: Green and Hall - Project Title: Records
+Started exporting files.
+Exported files successfully.
+Processing Transaction 473: Client: CounselLink - Project Title: AP
+Started exporting files.
+Exported files successfully.
+Processing Transaction 474: Client: CBPS BPO Consulting - Project Title: T4 Pilot - BPC Proforma Reviews + Approvals
+Started exporting files.
+Exported files successfully.
+Processing Transaction 475: Client: Kaye Scholer - Project Title: Branch Offices
+Started exporting files.
+Exported files successfully.
+Processing Transaction 476: Client: Ernst & Young - Project Title: Ernst & Young AP
+Started exporting files.
+Exported files successfully.
+Processing Transaction 477: Client: Serling Rooks Hunter - Project Title: Serling Rooks Client Files
+Started exporting files.
+Exported files successfully.
+Processing Transaction 478: Client: Weil - Project Title: Weil CleanUp Docs
+Started exporting files.
+Exported files successfully.
+Processing Transaction 479: Client: Encore Capital - Project Title: Remote Indexing
+Started exporting files.
+Exported files successfully.
+Processing Transaction 480: Client: CBPS BPO Consulting - Project Title: National Meeting 2015
+Started exporting files.
+Exported files successfully.
+Processing Transaction 481: Client: CBPS BPO Consulting - Project Title: Digital Mail
+Started exporting files.
+Exported files successfully.
+Processing Transaction 482: Client: CBPS BPO Consulting - Project Title: IGSS
+Started exporting files.
+Exported files successfully.
+Processing Transaction 483: Client: CBPS BPO Consulting - Project Title: Time Tracking and Reporting
+Started exporting files.
+Exported files successfully.
+Processing Transaction 484: Client: CBPS BPO Consulting - Project Title: Helpdesk Initiative
+Started exporting files.
+Exported files successfully.
+Processing Transaction 485: Client: CBPS BPO Consulting - Project Title: ALA Presentations
+Started exporting files.
+Exported files successfully.
+Processing Transaction 486: Client: AIG - Project Title: Medical Records
+Started exporting files.
+Exported files successfully.
+Processing Transaction 487: Client: Barnes and Thornburg - Project Title: Diaries
+Started exporting files.
+Exported files successfully.
+Processing Transaction 488: Client: Deloitte - Project Title: Digital Mail
+Started exporting files.
+Exported files successfully.
+Processing Transaction 489: Client: City of Dallas - Project Title: City of Dallas
+Started exporting files.
+Exported files successfully.
+Processing Transaction 490: Client: Guardian Life - Project Title: Imaging Services
+Started exporting files.
+Exported files successfully.
+Processing Transaction 491: Client: ExxonMobil - Project Title: Exxon National Imaging
+Started exporting files.
+Exported files successfully.
+Processing Transaction 492: Client: Higgs Fletcher & Mack LLP - Project Title: Higgs Fletcher
+Started exporting files.
+Exported files successfully.
+Processing Transaction 493: Client: CBPS BPO Consulting - Project Title: KTA Demo - EQX CS
+Started exporting files.
+Exported files successfully.
+Processing Transaction 494: Client: TKE - Project Title: Ontario Canada
+Started exporting files.
+Exported files successfully.
+Processing Transaction 495: Client: Hertz - Project Title: 2015 Q4 EBR
+Started exporting files.
+Exported files successfully.
+Processing Transaction 496: Client: ImageSource - Project Title: Loan Processing
+Started exporting files.
+Exported files successfully.
+Processing Transaction 497: Client: Harbourvest - Project Title: Renovation
+Started exporting files.
+Exported files successfully.
+Processing Transaction 498: Client: Andersen - Project Title: Renewal by Andersen Phase 2
+Started exporting files.
+Exported files successfully.
+Processing Transaction 499: Client: SD Firm - Project Title: CBPS RFP
+Started exporting files.
+Exported files successfully.
+Processing Transaction 500: Client: Xtra Great Corp - Project Title: Test DWP
+Started exporting files.
+Exported files successfully.
+Processing Transaction 501: Client: Boehringer Ingelheim - Project Title: Litigation Scanning
+Started exporting files.
+Exported files successfully.
+Processing Transaction 502: Client: Aon - Project Title: Microfiche Imaging
+Started exporting files.
+Exported files successfully.
+Processing Transaction 503: Client: ExxonMobil - Project Title: Clinton Drawings Phase 2
+Started exporting files.
+Exported files successfully.
+Processing Transaction 504: Client: Ansaldo STS - Project Title: Ansaldo USSPA
+Started exporting files.
+Exported files successfully.
+Processing Transaction 505: Client: CBPS BPO Consulting - Project Title: SmarterCapture.com
+Started exporting files.
+Exported files successfully.
+Processing Transaction 506: Client: Equifax - Project Title: St Louis Scanning
+Started exporting files.
+Exported files successfully.
+Processing Transaction 507: Client: Advocate - Project Title: Central Processing Center
+Started exporting files.
+Exported files successfully.
+Processing Transaction 508: Client: State Auto - Project Title: Mail, Print and Imaging Services
+Started exporting files.
+Exported files successfully.
+Processing Transaction 509: Client: Budd Larner - Project Title: Southdown
+Started exporting files.
+Exported files successfully.
+Processing Transaction 510: Client: Xcell NOW Corp - Project Title: Imaging RFP
+Started exporting files.
+Exported files successfully.
+Processing Transaction 511: Client: CBPS BPO Consulting - Project Title: KTA Enablement
+Started exporting files.
+Exported files successfully.
+Processing Transaction 512: Client: TKE - Project Title: Ontario Canada Onsite Project
+Started exporting files.
+Exported files successfully.
+Processing Transaction 513: Client: Sanofi - Project Title: Records
+Started exporting files.
+Exported files successfully.
+Processing Transaction 514: Client: Schiff Hardin LLP - Project Title: Schiff Hardin
+Started exporting files.
+Exported files successfully.
+Processing Transaction 515: Client: Belgium Consulate - Project Title: Citizens Files
+Started exporting files.
+Exported files successfully.
+Processing Transaction 516: Client: CBPS BPO Consulting - Project Title: Webinars
+Started exporting files.
+Exported files successfully.
+Processing Transaction 517: Client: DOW Chemical Company - Project Title: On Site Scanning
+Started exporting files.
+Exported files successfully.
+Processing Transaction 518: Client: Belgium Consulate - Project Title: Belgium Backfile
+Started exporting files.
+Exported files successfully.
+Processing Transaction 519: Client: Willis - Project Title: Digital Intake
+Started exporting files.
+Exported files successfully.
+Processing Transaction 520: Client: Aon - Project Title: Super Center
+Started exporting files.
+Exported files successfully.
+Processing Transaction 521: Client: Baker and Hostetler - Project Title: Consulting
+Started exporting files.
+Exported files successfully.
+Processing Transaction 522: Client: DB Schenker - Project Title: AP
+Started exporting files.
+Exported files successfully.
+Processing Transaction 523: Client: GE - Project Title: Aero Energy
+Started exporting files.
+Exported files successfully.
+Processing Transaction 524: Client: Epstein Becker - Project Title: EBG NY Mail Copy
+Started exporting files.
+Exported files successfully.
+Processing Transaction 525: Client: Wyatt Tarrant and Combs LLP - Project Title: BPA
+Started exporting files.
+Exported files successfully.
+Processing Transaction 526: Client: Alcon Laboratories - Project Title: Records Management
+Started exporting files.
+Exported files successfully.
+Processing Transaction 527: Client: DeVry - Project Title: Onsite Student Processing Services
+Started exporting files.
+Exported files successfully.
+Processing Transaction 528: Client: Boehringer Ingelheim - Project Title: Legacy Drawings
+Started exporting files.
+Exported files successfully.
+Processing Transaction 529: Client: Neal Gerber - Project Title: Neal Gerber iManage
+Started exporting files.
+Exported files successfully.
+Processing Transaction 530: Client: Chubb - Project Title: Claims Interfiling
+Started exporting files.
+Exported files successfully.
+Processing Transaction 531: Client: Kaye Scholer - Project Title: Offsite Records Review
+Started exporting files.
+Exported files successfully.
+Processing Transaction 532: Client: CBPS BPO Consulting - Project Title: T&E Process Automation
+Started exporting files.
+Exported files successfully.
+Processing Transaction 533: Client: Boehringer Ingelheim - Project Title: Wide Format Scanners
+Started exporting files.
+Exported files successfully.
+Processing Transaction 534: Client: State of Wisconsin - Project Title: Kofax Consulting
+Started exporting files.
+Exported files successfully.
+Processing Transaction 535: Client: Guardian Life - Project Title: Enterprise Imaging
+Started exporting files.
+Exported files successfully.
+Processing Transaction 536: Client: Otsuka - Project Title: HR Document Conversion
+Started exporting files.
+Exported files successfully.
+Processing Transaction 537: Client: Starr - Project Title: HR Records
+Started exporting files.
+Exported files successfully.
+Processing Transaction 538: Client: Xtra Great Corp - Project Title: ABC Project
+Started exporting files.
+Exported files successfully.
+Processing Transaction 539: Client: Kaye Scholer - Project Title: Technology Upgrade
+Started exporting files.
+Exported files successfully.
+Processing Transaction 540: Client: HERC - Project Title: Spinoff
+Started exporting files.
+Exported files successfully.
+Processing Transaction 541: Client: World Bank - Project Title: World Bank Imaging
+Started exporting files.
+Exported files successfully.
+Processing Transaction 542: Client: Avangrid - Project Title: Managed Services RFP
+Started exporting files.
+Exported files successfully.
+Processing Transaction 543: Client: Boehringer Ingelheim - Project Title: HR Records
+Started exporting files.
+Exported files successfully.
+Processing Transaction 544: Client: Day Pitney - Project Title: iManage WorkSite Migration
+Started exporting files.
+Exported files successfully.
+Processing Transaction 545: Client: Nossaman LLP - Project Title: Office Services RFP
+Started exporting files.
+Exported files successfully.
+Processing Transaction 546: Client: Medtronics - Project Title: RFP
+Started exporting files.
+Exported files successfully.
+Processing Transaction 547: Client: Weil - Project Title: Redwood Shores RFP
+Started exporting files.
+Exported files successfully.
+Processing Transaction 548: Client: Boehringer Ingelheim - Project Title: BI Southbury Project
+Started exporting files.
+Exported files successfully.
+Processing Transaction 549: Client: Parker Hudson - Project Title: Renewal RFP
+Started exporting files.
+Exported files successfully.
+Processing Transaction 550: Client: Union Bank - Project Title: KTA Upgrade
+Started exporting files.
+Exported files successfully.
+Processing Transaction 551: Client: ExxonMobil - Project Title: OpenText Imaging
+Started exporting files.
+Exported files successfully.
+Processing Transaction 552: Client: Equifax - Project Title: Verification Services 2015
+Started exporting files.
+Exported files successfully.
+Processing Transaction 553: Client: Equifax - Project Title: AP - AU and NZ
+Started exporting files.
+Exported files successfully.
+Processing Transaction 554: Client: CBPS BPO Consulting - Project Title: Case Studies
+Started exporting files.
+Exported files successfully.
+Processing Transaction 555: Client: Chubb - Project Title: Attaching Group
+Started exporting files.
+Exported files successfully.
+Processing Transaction 556: Client: Abt Associates - Project Title: Abt T&E
+Started exporting files.
+Exported files successfully.
+Processing Transaction 557: Client: Husky Energy - Project Title: RFI
+Started exporting files.
+Exported files successfully.
+Processing Transaction 558: Client: Northwestern Mututal Life Insurance - Project Title: AP
+Started exporting files.
+Exported files successfully.
+Processing Transaction 559: Client: CBPS BPO Consulting - Project Title: Training Material
+Started exporting files.
+Exported files successfully.
+Processing Transaction 560: Client: Hill Farrer & Burrill LLP - Project Title: Records
+Started exporting files.
+Exported files successfully.
+Processing Transaction 561: Client: Southern California Edison Company - Project Title: AP
+Started exporting files.
+Exported files successfully.
+Processing Transaction 562: Client: Procopio - Project Title: eDiscovery
+Started exporting files.
+Exported files successfully.
+Processing Transaction 563: Client: FiServ - Project Title: Backfile Conversion
+Started exporting files.
+Exported files successfully.
+Processing Transaction 564: Client: QBE - Project Title: RFP
+Started exporting files.
+Exported files successfully.
+Processing Transaction 565: Client: CBPS PSD - Project Title: Professional Solutions Division Tools
+Started exporting files.
+Exported files successfully.
+Processing Transaction 566: Client: Perkins Coie - Project Title: RFP
+Started exporting files.
+Exported files successfully.
+Processing Transaction 567: Client: Weil - Project Title: Records
+Started exporting files.
+Exported files successfully.
+Processing Transaction 568: Client: Chapman - Project Title: Records
+Started exporting files.
+Exported files successfully.
+Processing Transaction 569: Client: Becton Dickinson - Project Title: Information Governance
+Started exporting files.
+Exported files successfully.
+Processing Transaction 570: Client: Boehringer Ingelheim - Project Title: Cross Project Docs and Tools
+Started exporting files.
+Exported files successfully.
+Processing Transaction 571: Client: Otis Elevator Company - Project Title: Billing Department
+Started exporting files.
+Exported files successfully.
+Processing Transaction 572: Client: ExxonMobil - Project Title: Big Data Remediation Services
+Started exporting files.
+Exported files successfully.
+Processing Transaction 573: Client: Raymond James - Project Title: Contracts Clean Up
+Started exporting files.
+Exported files successfully.
+Processing Transaction 574: Client: Pandora - Project Title: AP
+Started exporting files.
+Exported files successfully.
+Processing Transaction 575: Client: Equifax - Project Title: LATAM AP
+Started exporting files.
+Exported files successfully.
+Processing Transaction 576: Client: ExxonMobil - Project Title: Accutrac Replacement Project
+Started exporting files.
+Exported files successfully.
+Processing Transaction 577: Client: CSAA - Project Title: iBVA
+Started exporting files.
+Exported files successfully.
+Processing Transaction 578: Client: Cathay Bank - Project Title: IG Program
+Started exporting files.
+Exported files successfully.
+Processing Transaction 579: Client: Lloyd Gosselink - Project Title: Backfile Conversion
+Started exporting files.
+Exported files successfully.
+Processing Transaction 580: Client: Hall Render - Project Title: RFP
+Started exporting files.
+Exported files successfully.
+Processing Transaction 581: Client: Citigroup - Project Title: 15 Drawers Project
+Started exporting files.
+Exported files successfully.
+Processing Transaction 582: Client: Day Pitney - Project Title: AP
+Started exporting files.
+Exported files successfully.
+Processing Transaction 583: Client: GE - Project Title: Power Dresser Pension Docs
+Started exporting files.
+Exported files successfully.
+Processing Transaction 584: Client: Related - Project Title: Hudson Yard DMS
+Started exporting files.
+Exported files successfully.
+Processing Transaction 585: Client: Boehringer Ingelheim - Project Title: Valeant Regulatory
+Started exporting files.
+Exported files successfully.
+Processing Transaction 586: Client: Lloyd Gosselink - Project Title: Renewal RFP
+Started exporting files.
+Exported files successfully.
+Processing Transaction 587: Client: Boehringer Ingelheim - Project Title: Onsite Scanning Services
+Started exporting files.
+Exported files successfully.
+Processing Transaction 588: Client: Southern California Edison Company - Project Title: Customer Service
+Started exporting files.
+Exported files successfully.
+Processing Transaction 589: Client: Kreig - Project Title: Digital Mail
+Started exporting files.
+Exported files successfully.
+Processing Transaction 590: Client: Barnes and Thornburg - Project Title: Office Services Implementation
+Started exporting files.
+Exported files successfully.
+Processing Transaction 591: Client: FiServ - Project Title: HR Backfile
+Started exporting files.
+Exported files successfully.
+Processing Transaction 592: Client: Mazda - Project Title: ERR Project
+Started exporting files.
+Exported files successfully.
+Processing Transaction 593: Client: CBPS PSD - Project Title: Assessment - Business Value Assessment (BVA)
+Started exporting files.
+Exported files successfully.
+Processing Transaction 594: Client: Newmeyer & Dillion - Project Title: Digital Intake
+Started exporting files.
+Exported files successfully.
+Processing Transaction 595: Client: ExxonMobil - Project Title: MOH Microfiche
+Started exporting files.
+Exported files successfully.
+Processing Transaction 596: Client: Boehringer Ingelheim - Project Title: Medical Records
+Started exporting files.
+Exported files successfully.
+Processing Transaction 597: Client: Clark Hill - Project Title: Renewal
+Started exporting files.
+Exported files successfully.
+Processing Transaction 598: Client: Barnes and Thornburg - Project Title: Receptionists
+Started exporting files.
+Exported files successfully.
+Processing Transaction 599: Client: Chubb - Project Title: Ace RFP
+Started exporting files.
+Exported files successfully.
+Processing Transaction 600: Client: Equifax - Project Title: CS Automation
+Started exporting files.
+Exported files successfully.
+Processing Transaction 601: Client: Chubb - Project Title: Reinsurance
+Started exporting files.
+Exported files successfully.
+Processing Transaction 602: Client: Verizon - Project Title: HR Files
+Started exporting files.
+Exported files successfully.
+Processing Transaction 603: Client: Amtrak - Project Title: Remediation Services Phase 1
+Started exporting files.
+Exported files successfully.
+Processing Transaction 604: Client: CBPS BPO Consulting - Project Title: IGS Division Meetings
+Started exporting files.
+Exported files successfully.
+Processing Transaction 605: Client: Jenner and Block - Project Title: Imaging Initiative
+Started exporting files.
+Exported files successfully.
+Processing Transaction 606: Client: Husky Energy - Project Title: Scanning RFP
+Started exporting files.
+Exported files successfully.
+Processing Transaction 607: Client: Equifax - Project Title: AP and CS - Atlanta
+Started exporting files.
+Exported files successfully.
+Processing Transaction 608: Client: Equifax - Project Title: WFS Validation Services to BPC
+Started exporting files.
+Exported files successfully.
+Processing Transaction 609: Client: Brown Rudnick - Project Title: RFP
+Started exporting files.
+Exported files successfully.
+Processing Transaction 610: Client: CBPS BPO Consulting - Project Title: Job Descriptions
+Started exporting files.
+Exported files successfully.
+Processing Transaction 611: Client: ExxonMobil - Project Title: HAZOP Imaging
+Started exporting files.
+Exported files successfully.
+Processing Transaction 612: Client: Equifax - Project Title: AP - BPC
+Started exporting files.
+Exported files successfully.
+Processing Transaction 613: Client: CBPS BPO Consulting - Project Title: Dark Data
+Started exporting files.
+Exported files successfully.
+Processing Transaction 614: Client: Encore Capital - Project Title: Encore Data Extraction
+Started exporting files.
+Exported files successfully.
+Processing Transaction 615: Client: ABB - Project Title: Supply Chain RFI
+Started exporting files.
+Exported files successfully.
+Processing Transaction 616: Client: Faegre Baker Daniels - Project Title: National RFP
+Started exporting files.
+Exported files successfully.
+Processing Transaction 617: Client: Weil - Project Title: SV-Records
+Started exporting files.
+Exported files successfully.
+Processing Transaction 618: Client: Bodman PLC - Project Title: Renewal
+Started exporting files.
+Exported files successfully.
+Processing Transaction 619: Client: Procopio - Project Title: Procopio Digital Mail and Office Services
+Started exporting files.
+Exported files successfully.
+Processing Transaction 620: Client: CBPS BPO Consulting - Project Title: BPC US Collateral
+Started exporting files.
+Exported files successfully.
+Processing Transaction 621: Client: Boehringer Ingelheim - Project Title: Animal Health Care Project
+Started exporting files.
+Exported files successfully.
+Processing Transaction 622: Client: GE - Project Title: Power Pension/Payroll/Tax Imaging
+Started exporting files.
+Exported files successfully.
+Processing Transaction 623: Client: Hopkins & Carley - Project Title: Integrated Services
+Started exporting files.
+Exported files successfully.
+Processing Transaction 624: Client: Sheppard Mullin - Project Title: RFP
+Started exporting files.
+Exported files successfully.
+Processing Transaction 625: Client: CMFG - Project Title: BPC Transition
+Started exporting files.
+Exported files successfully.
+Processing Transaction 626: Client: Barnes and Thornburg - Project Title: Digital Mail
+Started exporting files.
+Exported files successfully.
+Processing Transaction 627: Client: Day Pitney - Project Title: Records
+Started exporting files.
+Exported files successfully.
+Processing Transaction 628: Client: Northwestern Mututal Life Insurance - Project Title: Microform
+Started exporting files.
+Exported files successfully.
+Processing Transaction 629: Client: Equifax - Project Title: NON PO Rejection Process
+Started exporting files.
+Exported files successfully.
+Processing Transaction 630: Client: Equifax - Project Title: CFPB PDF Processing
+Started exporting files.
+Exported files successfully.
+Processing Transaction 631: Client: Shamrock - Project Title: Company AP
+Started exporting files.
+Exported files successfully.
+Processing Transaction 632: Client: CSC - Project Title: CSC AP
+Started exporting files.
+Exported files successfully.
+Processing Transaction 633: Client: Equifax - Project Title: Alpharetta CS and AP Site Renewal 2017
+Started exporting files.
+Exported files successfully.
+Processing Transaction 634: Client: Comerica - Project Title: Branch Capture and Retention
+Started exporting files.
+Exported files successfully.
+Processing Transaction 635: Client: Milbank - Project Title: Records Renewal
+Started exporting files.
+Exported files successfully.
+Processing Transaction 636: Client: CBPS BPO Consulting - Project Title: T4 Pilot - SSG Ad hoc Purchase Orders (APOs)
+Started exporting files.
+Exported files successfully.
+Processing Transaction 637: Client: Equifax - Project Title: BC and DR (All Sites)
+Started exporting files.
+Exported files successfully.
+Processing Transaction 638: Client: CBPS BPO Consulting - Project Title: IGS Implementation Framework
+Started exporting files.
+Exported files successfully.
+Processing Transaction 639: Client: ExxonMobil - Project Title: OPs EBR and LA
+Started exporting files.
+Exported files successfully.
+Processing Transaction 640: Client: DeVry - Project Title: Chicago Admissions
+Started exporting files.
+Exported files successfully.
+Processing Transaction 641: Client: CBPS DTS - Project Title: Insurance Marketing
+Started exporting files.
+Exported files successfully.
+Processing Transaction 642: Client: ABB - Project Title: AP and PO
+Started exporting files.
+Exported files successfully.
+Processing Transaction 643: Client: ExxonMobil - Project Title: HRC Exit Plan
+Started exporting files.
+Exported files successfully.
+Processing Transaction 644: Client: Exeter - Project Title: Managed Services Program
+Started exporting files.
+Exported files successfully.
+Processing Transaction 645: Client: CBPS BPO Consulting - Project Title: Site Procedures, Checklists, and Tools
+Started exporting files.
+Exported files successfully.
+Processing Transaction 646: Client: CBPS BPO Consulting - Project Title: IGS Templates
+Started exporting files.
+Exported files successfully.
+Processing Transaction 647: Client: CBPS BPO Consulting - Project Title: ImageSilo
+Started exporting files.
+Exported files successfully.
+Processing Transaction 648: Client: CBPS BPO Consulting - Project Title: T4 Corporate Therefore Rollout (CTR) Project
+Started exporting files.
+Exported files successfully.
+Processing Transaction 649: Client: ExxonMobil - Project Title: Microform Imaging RFP
+Started exporting files.
+Exported files successfully.
+Processing Transaction 650: Client: Equifax - Project Title: AP - UK
+Started exporting files.
+Exported files successfully.
+Reformating exported files..
+SKIP COPY ------ Advocate  -  Central Processing Center  ------  Advocate Health Care - Canon - 04-03-15.pdf already exist..................
+SKIP COPY ------ Allianz  -  RFP 2018  ------  AGCS_Office and Facilities Support RFP final.doc already exist..................
+SKIP COPY ------ Barnes and Thornburg  -  Office Services Implementation  ------  Barnes and Thornburg - Office Services Implementation.mpp already exist..................
+SKIP COPY ------ Barnes and Thornburg  -  Office Services Implementation  ------  Barnes and Thornburg - Office Services Implementation.mpp already exist..................
+SKIP COPY ------ Barnes and Thornburg  -  Office Services Implementation  ------  Barnes and Thornburg - Office Services Implementation.mpp already exist..................
+SKIP COPY ------ Barnes and Thornburg  -  Office Services Implementation  ------  Barnes and Thornburg - Office Services Implementation.mpp already exist..................
+SKIP COPY ------ Barnes and Thornburg  -  Office Services Implementation  ------  Barnes and Thornburg - Office Services Implementation.mpp already exist..................
+SKIP COPY ------ Barnes and Thornburg  -  Office Services Implementation  ------  Barnes and Thornburg - Office Services Implementation.mpp already exist..................
+SKIP COPY ------ Best Best & Krieger  -  RFP  ------  BBK RFP Pricing Sheet 4-9-2019.xlsx already exist..................
+SKIP COPY ------ Best Buy  -  Best Buy Change Requests  ------  Re  Best Buy proj...l 11 8 - Canon notes.eml already exist..................
+SKIP COPY ------ Cargill  -  Cargill RFI  ------  RFI Responses.docx already exist..................
+SKIP COPY ------ CBPS BPO Consulting  -  PREX17  ------  Events_2017_PREX_PDX_Breakout1_Technical_ThePowerofTakingE-DiscoveryIn-House.pdf already exist..................
+SKIP COPY ------ CBPS BPO Consulting  -  PREX17  ------  Events_2017_PREX_PDX_Breakout3_Leadership_TamingtheOverPreservationBeast.pdf already exist..................
+SKIP COPY ------ CBPS BPO Consulting  -  PREX17  ------  Events_2017_PREX_PDX_Breakout3_TeamProcess_SpoliationandtheNewRules.pdf already exist..................
+SKIP COPY ------ CBPS BPO Consulting  -  PREX17  ------  Events_2017_PREX_PDX_Breakout4_Leadership_BallinYourCourt.pdf already exist..................
+SKIP COPY ------ CBPS BPO Consulting  -  PREX17  ------  Events_2017_PREX_PDX_Breakout4_Technical_EnhancingImpactthroughKPI.pdf already exist..................
+SKIP COPY ------ CBPS BPO Consulting  -  PREX17  ------  Events_2017_PREX_PDX_Breakout5_Leadership_HarnessingSocialMediafromAllAngles.pdf already exist..................
+SKIP COPY ------ CBPS BPO Consulting  -  PREX17  ------  Events_2017_PREX_PDX_Breakout5_Technical_MigrateDatainaLegallyDefensibleManner.pdf already exist..................
+SKIP COPY ------ CBPS BPO Consulting  -  PREX17  ------  Events_2017_PREX_PDX_Breakout6_FineTuneYourCollectionStrategies.pdf already exist..................
+SKIP COPY ------ CBPS BPO Consulting  -  PREX17  ------  Events_2017_PREX_PDX_Breakout6_Technical_99ProblemsWebAintOne.pdf already exist..................
+SKIP COPY ------ CBPS BPO Consulting  -  PREX17  ------  Events_2017_PREX_PDX_Breakout6_TheNewCorporateLegalDepartment.pdf already exist..................
+SKIP COPY ------ CBPS BPO Consulting  -  PREX17  ------  Events_2017_PREX_PDX_Breakout1_Leadership_BuildingYourPreservationResponsePlaybook.pdf already exist..................
+SKIP COPY ------ CBPS BPO Consulting  -  PREX17  ------  Events_2017_PREX_PDX_Breakout1_TeamProcess_The Art of Negotiation- DeterminingWhatsReasonable.pdf already exist..................
+SKIP COPY ------ CBPS BPO Consulting  -  PREX17  ------  Events_2017_PREX_PDX_Breakout1_Technical_ThePowerofTakingE-DiscoveryIn-House.pdf already exist..................
+SKIP COPY ------ CBPS BPO Consulting  -  PREX17  ------  Events_2017_PREX_PDX_Breakout2_Leadership_PreservationMaturity_HowtoInstillContinuousImprovement.pdf already exist..................
+SKIP COPY ------ CBPS BPO Consulting  -  PREX17  ------  Events_2017_PREX_PDX_Breakout2_TeamProcess_Cleaning the Pipes_DefensibleDataDeletion.pdf already exist..................
+SKIP COPY ------ CBPS BPO Consulting  -  PREX17  ------  Events_2017_PREX_PDX_Breakout2_Technical_ANewApproachtoEndpointPreservationandCollection.pdf already exist..................
+SKIP COPY ------ CBPS BPO Consulting  -  PREX17  ------  Events_2017_PREX_PDX_Breakout3_Leadership_TamingtheOverPreservationBeast.pdf already exist..................
+SKIP COPY ------ CBPS BPO Consulting  -  PREX17  ------  Events_2017_PREX_PDX_Breakout3_TeamProcess_SpoliationandtheNewRules.pdf already exist..................
+SKIP COPY ------ CBPS BPO Consulting  -  PREX17  ------  Events_2017_PREX_PDX_Breakout3_Technical_MovingtoOffice365_WhatYouNeedtoKnowaboutEDiscovery.pdf already exist..................
+SKIP COPY ------ CBPS BPO Consulting  -  PREX17  ------  Events_2017_PREX_PDX_Breakout4_Leadership_BallinYourCourt.pdf already exist..................
+SKIP COPY ------ CBPS BPO Consulting  -  PREX17  ------  Events_2017_PREX_PDX_Breakout4_TeamProcess_DataPrivacytheGDPRandSecurityAllinOne.pdf already exist..................
+SKIP COPY ------ CBPS BPO Consulting  -  PREX17  ------  Events_2017_PREX_PDX_Breakout4_Technical_EnhancingImpactthroughKPI.pdf already exist..................
+SKIP COPY ------ CBPS BPO Consulting  -  PREX17  ------  Events_2017_PREX_PDX_Breakout5_Leadership_HarnessingSocialMediafromAllAngles.pdf already exist..................
+SKIP COPY ------ CBPS BPO Consulting  -  PREX17  ------  Events_2017_PREX_PDX_Breakout5_TeamProcess_BringingeDiscoveryInHouse_StoriesfromtheTrenches.pdf already exist..................
+SKIP COPY ------ CBPS BPO Consulting  -  PREX17  ------  Events_2017_PREX_PDX_Breakout5_Technical_MigrateDatainaLegallyDefensibleManner.pdf already exist..................
+SKIP COPY ------ CBPS BPO Consulting  -  PREX17  ------  Events_2017_PREX_PDX_Breakout6_FineTuneYourCollectionStrategies.pdf already exist..................
+SKIP COPY ------ CBPS BPO Consulting  -  PREX17  ------  Events_2017_PREX_PDX_Breakout6_Technical_99ProblemsWebAintOne.pdf already exist..................
+SKIP COPY ------ CBPS BPO Consulting  -  PREX17  ------  Events_2017_PREX_PDX_Breakout6_TheNewCorporateLegalDepartment.pdf already exist..................
+SKIP COPY ------ CBPS BPO Consulting  -  PREX17  ------  Events_2017_PREX_PDX_JudicialPanel_CaseLawbytheClock.pdf already exist..................
+SKIP COPY ------ CBPS BPO Consulting  -  PREX17  ------  Event_2017_PREX17_Agenda.pdf already exist..................
+SKIP COPY ------ CBPS BPO Consulting  -  T4 Corporate Therefore Rollout (CTR) Project  ------  Canon Business Process Services CBPS.pdf already exist..................
+SKIP COPY ------ CBPS BPO Consulting  -  Therefore Demos  ------  PAY-SGO.JPG already exist..................
+SKIP COPY ------ CBPS BPO Consulting  -  Therefore Demos  ------  PO-HKT.pdf already exist..................
+SKIP COPY ------ CBPS BPO Consulting  -  Therefore Demos  ------  VEN-SGO.pdf already exist..................
+SKIP COPY ------ CBPS DTS  -  KTA Environment  ------  KTA Server Environment_11152018.vsd already exist..................
+SKIP COPY ------ CBPS PSD  -  Vendors  ------  ScheduleABC.pdf already exist..................
+SKIP COPY ------ CBPS  -  AP Lease - Core  ------  LEASE-001_031417_CBPS Approved _Lithe initial rev.docx already exist..................
+SKIP COPY ------ CBPS  -  AP Lease - Core  ------  LEASE-002A_ 031417_CBPS Approved_Lithe intiial rev.docx already exist..................
+SKIP COPY ------ CBPS  -  AP Lease - Core  ------  LEASE-002B_ 031417_CBPS Approved_Lithe intiial rev.docx already exist..................
+SKIP COPY ------ CBPS  -  AP Lease - Core  ------  LEASE-002C_ 031417_CBPS Approved_Lithe intiial rev.docx already exist..................
+SKIP COPY ------ CBPS  -  AP Lease - Core  ------  LEASE-003 031417_CBPS Approved for Lithe IT initial review.docx already exist..................
+SKIP COPY ------ CBPS  -  AP Lease - Core  ------  LEASE-004A_ 031417_CBPS Approved_Lithe intiial rev.docx already exist..................
+SKIP COPY ------ CBPS  -  AP Lease - Core  ------  LEASE-004B_ 031417_CBPS Approved_Lithe intiial rev.docx already exist..................
+SKIP COPY ------ CBPS  -  AP Lease - Core  ------  LEASE-004C_ 031417_CBPS Approved_Lithe intiial rev.docx already exist..................
+SKIP COPY ------ CBPS  -  AP Lease - Core  ------  LEASE-005A_ 031617_CBPS Approved_Lithe intiial rev.docx already exist..................
+SKIP COPY ------ CBPS  -  AP Lease - Core  ------  LEASE-005B _031317_CBPS Approved for Lithe IT initial review.docx already exist..................
+SKIP COPY ------ CBPS  -  AP Lease - Core  ------  LEASE-005C_ 041817_CBPS Approved_Lithe intiial rev_UPDATE.docx already exist..................
+SKIP COPY ------ CBPS  -  AP Lease - Core  ------  LEASE-005D_ 031617_CBPS Approved_Lithe intiial rev.docx already exist..................
+SKIP COPY ------ CBPS  -  AP Lease - Core  ------  LEASE_EXPORT_001_041017_ver1.0.docx already exist..................
+SKIP COPY ------ CBPS  -  AP Lease - Core  ------  LEASE_INGEST_001_ver2.0_041017.docx already exist..................
+SKIP COPY ------ CBPS  -  AP Lease - Core  ------  Sales Tax-002_ver5.0_032817.docx already exist..................
+SKIP COPY ------ CBPS  -  AP Lease - Core  ------  Sales Tax_ver5.0_032817.docx already exist..................
+SKIP COPY ------ CBPS  -  AP Requests - Payment OBSOLETE  ------  6.xlsx already exist..................
+SKIP COPY ------ CBPS  -  AP Requests - Payment  ------  6.xlsx already exist..................
+SKIP COPY ------ CBRE  -  National Imaging RFP  ------  BPC_CBRE_RFP_Therefore Unit Price_V2_PW_FILE.xls already exist..................
+SKIP COPY ------ CBRE  -  National Imaging RFP  ------  BPC_CBRE_RFP_V2_PW_FILE.xls already exist..................
+SKIP COPY ------ CBRE  -  National Imaging RFP  ------  BPC_CBRE_RFP_V2_PW_FILE.xls already exist..................
+SKIP COPY ------ Chubb  -  Claims Attaching National  ------  Re  Fw  Chubb  Cl...ry   Research Clerks.eml already exist..................
+SKIP COPY ------ Chubb  -  Claims Support OFallon  ------  O'Fallon Claims Support Services Proposal from CBPS f 1.12.2019.docx already exist..................
+SKIP COPY ------ Chubb  -  Improvement _ Add On Business  ------  Opportunities Slides_Stephens_3.2.15.ppt already exist..................
+SKIP COPY ------ Coca Cola  -  RM and Imaging 2018  ------  Coca Cola ver1.pptx already exist..................
+SKIP COPY ------ Cooley LLP  -  NYC RFP  ------  Cooley Agenda 2-27.doc already exist..................
+SKIP COPY ------ Cooley LLP  -  NYC RFP  ------  Cooley Kick Off_v3.pptx already exist..................
+SKIP COPY ------ Epstein Becker  -  EBG NY Mail Copy  ------  EBG RFP Requirements vF.docx already exist..................
+SKIP COPY ------ Equifax  -  Alpharetta CS and AP Site Renewal 2017  ------  Canon (3) Falcon-RetrofitM72 147534-1 2.2.18.pdf already exist..................
+SKIP COPY ------ Equifax  -  Alpharetta CS and AP Site Renewal 2017  ------  Equifax_Consumer Services_EFXGA_Renewal 2017_v2_CC_FILE.xls already exist..................
+SKIP COPY ------ Equifax  -  Alpharetta CS and AP Site Renewal 2017  ------  Equifax_Consumer Services_EFXGA_Renewal 2017_v13_CC_FILE.xls already exist..................
+SKIP COPY ------ Equifax  -  Alpharetta CS and AP Site Renewal 2017  ------  Quote_US_PC_SC_3000021628554.1_2018-01-25.pdf already exist..................
+SKIP COPY ------ Equifax  -  AP - UK  ------  Equifax GA - CBPS - AP UK Consultancy Order Form v1.doc already exist..................
+SKIP COPY ------ Equifax  -  Equifax Rebate Processing  ------  BPC_Equifax_Breach Rebate Processing_Handwritte.xls already exist..................
+SKIP COPY ------ Equifax  -  Equifax Rebate Processing  ------  BPC_Equifax_Breach Rebate Processing_Handwritten_.xls already exist..................
+SKIP COPY ------ Exeter  -  Managed Services Program  ------  Exeter Procedures Manual v3 - AC 9-23-215.docx already exist..................
+SKIP COPY ------ ExxonMobil  -  EMRE URC VHS-Projector Slides  ------  XOM EMRE URC VHS-Projector Slides_v.pdf already exist..................
+SKIP COPY ------ ExxonMobil  -  HRC Exit Plan  ------  Exxon - HRC Imaging and Storage Solution 2020 v8.pptx already exist..................
+SKIP COPY ------ ExxonMobil  -  HRC Exit Plan  ------  Canon Business Process Services, Inc..pdf already exist..................
+SKIP COPY ------ GE  -  Power Pension_Payroll_Tax Imaging - Change Requests  ------  1.xlsx already exist..................
+SKIP COPY ------ GE  -  Power Pension_Payroll_Tax Imaging - Change Requests  ------  1.xlsx already exist..................
+SKIP COPY ------ GE  -  Power Pension_Payroll_Tax Imaging - Change Requests  ------  Scanned from a Xerox Multifunction Printer.pdf already exist..................
+SKIP COPY ------ GE  -  Power Pension_Payroll_Tax Imaging  ------  BRD - EHP FINAL (12).docx already exist..................
+SKIP COPY ------ Goodwin Proctor LLP  -  RFP 2019  ------  Changes to Goodwin Proposal.docx already exist..................
+SKIP COPY ------ Goodwin Proctor LLP  -  RFP 2019  ------  Goodwin_AP_V4@36_PW_FILE.xls already exist..................
+SKIP COPY ------ Goodwin Proctor LLP  -  RFP 2019  ------  Goodwin_AP_V4@60_PW_FILE.xls already exist..................
+SKIP COPY ------ Goodwin Proctor LLP  -  RFP 2019  ------  Employee Discounts 2019.pdf already exist..................
+SKIP COPY ------ Goodwin Proctor LLP  -  RFP 2019  ------  Fw_ Re_ Goodwin - Client feedback from Redwood City RE_ Wages.pdf already exist..................
+SKIP COPY ------ Goodwin Proctor LLP  -  RFP 2019  ------  Re_ Fw_ Goodwin Salary Approvals.pdf already exist..................
+SKIP COPY ------ Goodwin Proctor LLP  -  RFP 2019  ------  _ Goodwin Area Manager Assignments.pdf already exist..................
+SKIP COPY ------ Goodwin Proctor LLP  -  RFP 2019  ------  _ Re_ Fw_ Goodwin Salary Approvals_NY.pdf already exist..................
+SKIP COPY ------ Goodwin Proctor LLP  -  RFP 2019  ------  _ RE_ Goodwin quote.pdf already exist..................
+SKIP COPY ------ Goodwin Proctor LLP  -  RFP 2019  ------  _ Re_ Goodwin Salaries.pdf already exist..................
+SKIP COPY ------ Goodwin Proctor LLP  -  RFP 2019  ------  _ Re_ Goodwin Salary Approvals.pdf already exist..................
+SKIP COPY ------ Goodwin Proctor LLP  -  RFP 2019  ------  _ RE_ Quote - Binding.pdf already exist..................
+SKIP COPY ------ Goodwin Proctor LLP  -  RFP 2019  ------  _ RE_ Quote - Excel List.pdf already exist..................
+SKIP COPY ------ Goodwin Proctor LLP  -  RFP 2019  ------  _ Re_ Updated Salary recommendations - Innovation Section.pdf already exist..................
+SKIP COPY ------ Guardian Life  -  Enterprise Imaging  ------  n1p23qge.xlsm already exist..................
+SKIP COPY ------ Hertz  -  BPC Kofax Transfer  ------  Hertz BPC Kofax Transfer  v3.docx already exist..................
+SKIP COPY ------ Hertz  -  Hertz Renewal - BPC  ------  Hertz transition - Using CBPS Kofax License BPC S.xlsm already exist..................
+SKIP COPY ------ Hertz  -  Hertz Renewal - BPC  ------  Hertz transition - Using CBPS Kofax License BPC S.xlsm already exist..................
+SKIP COPY ------ Hertz  -  Hertz Renewal - BPC  ------  Hertz transition - Using CBPS Kofax License BPC S.xlsm already exist..................
+SKIP COPY ------ Hopkins & Carley  -  Integrated Services  ------  Hopkins Carley #1 (8.9.16) fully executed.pdf already exist..................
+SKIP COPY ------ Liberty Mutual  -  National Office Service RFP  ------  Liberty Mutual_RFP 2017_Mail, Office Servi.xls already exist..................
+SKIP COPY ------ Liberty Mutual  -  National Office Service RFP  ------  Liberty Mutual_RFP 2017_Mail, Office Servi.xls already exist..................
+SKIP COPY ------ Liberty Mutual  -  National Office Service RFP  ------  Liberty Mutual_RFP 2017_Mail, Office Servi.xls already exist..................
+SKIP COPY ------ Liberty Mutual  -  PFN Automation  ------  BART Finance Company Information.xlsx already exist..................
+SKIP COPY ------ Liberty Mutual  -  PFN Automation  ------  LM Lookup Tool 6.7.2017.xlsm already exist..................
+SKIP COPY ------ Liberty Mutual  -  PFN Automation  ------  LM Lookup Tool 6.7.2017.xlsm already exist..................
+SKIP COPY ------ Liberty Mutual  -  PFN Automation  ------  LM - PFN Automation - Statement of Work v1.docx already exist..................
+SKIP COPY ------ Los Angeles Department of Water and Power  -  Pension Files  ------  BPC_LADWP_WPERP_Backfile_Conversion_V1_JC_FILE.xls already exist..................
+SKIP COPY ------ Los Angeles Department of Water and Power  -  Pension Files  ------  BPC_LADWP_WPERP_Backfile_Conversion_V1_JC_FILE.xls already exist..................
+SKIP COPY ------ Mentor Network  -  Finance Workflow  ------  ebook-go-beyond-capture-en.pdf already exist..................
+SKIP COPY ------ Mentor Network  -  Finance Workflow  ------  wp-bpm-in-the-cloud.pdf already exist..................
+SKIP COPY ------ Mentor Network  -  Finance Workflow  ------  wp-forrester-smart-process-apps-one-year-later.pdf already exist..................
+SKIP COPY ------ Mentor Network  -  Finance Workflow  ------  wp-Kofax-Federal-RM-2015.pdf already exist..................
+SKIP COPY ------ Milbank  -  Records Renewal  ------  Re  Milbank SOW A...m - DRAFT for Review.eml already exist..................
+SKIP COPY ------ Milbank  -  Records Renewal  ------  Re  Milbank SOW A...m - DRAFT for Review.eml already exist..................
+SKIP COPY ------ Neal Gerber  -  Neal Gerber iManage  ------  NGE - Statement of Work - 2018 BPA v3.docx already exist..................
+SKIP COPY ------ Neal Gerber  -  Neal Gerber iManage  ------  NGE Assessment Findings Report_v5 - MASTER.docx already exist..................
+SKIP COPY ------ Neal Gerber  -  Neal Gerber iManage  ------  NGE Business Process Assessment Findings Report_06-2018.pdf already exist..................
+SKIP COPY ------ Neal Gerber  -  Neal Gerber iManage  ------  NGE Onsite Storage Review_v3.xlsx already exist..................
+SKIP COPY ------ Nelson Mullins  -  RFP  ------  NelsonMullins_FM_RFP_CBPS ELECTRONIC vF.docx already exist..................
+SKIP COPY ------ Northwestern Mututal Life Insurance  -  Microform  ------  BPC_NWM_RFP_Microfilm_v1.xls already exist..................
+SKIP COPY ------ Pandora  -  AP  ------  Pandora_BP_Master_08-11-2006_EPerea-Edits.docx already exist..................
+SKIP COPY ------ Procopio  -  Off-Site Records Project – Corovan  ------  Program Status Report -Procopio Records Program (03-2.docx already exist..................
+SKIP COPY ------ QBE  -  RFP  ------  QBE Kofax BPC v.1.xls already exist..................
+SKIP COPY ------ Raymond James  -  Contract Terms Identification  ------  ADDISON_MSA_2014_03_26_FINAL.pdf already exist..................
+SKIP COPY ------ Raymond James  -  Contract Terms Identification  ------  ApexSystems_MSA_CAF2211_PRF5954_2017_01_10_Final.pdf already exist..................
+SKIP COPY ------ Raymond James  -  Contract Terms Identification  ------  Bottomline_MSA_PRF2120_2015_04_10_FINAL.PDF already exist..................
+SKIP COPY ------ Sheppard Mullin  -  RFP  ------  Canon's Response to Sheppard Mullin RFP vF.pdf already exist..................
+SKIP COPY ------ Stradley Ronan  -  RFP  ------  Stradley RFP Final 1.30.17.docx already exist..................
+SKIP COPY ------ Tradeshift  -  Procter and Gamble  ------  CBPS Proctor and Gamble Capture Proposal - 20190502.docx already exist..................
+SKIP COPY ------ UPMC  -  Imaging Center  ------  1.xlsx already exist..................
+SKIP COPY ------ UPS  -  Key Entry RFP  ------  UPS_BPC_SRB CM_V1_PW_FILE.xlsm already exist..................
+SKIP COPY ------ UPS  -  Key Entry RFP  ------  UPS_Suspense Resolution_Philippines_V1_PW_FILE.xls already exist..................
+SKIP COPY ------ Weil  -  RFI Houston and DC  ------  7thfloor_floorplan.pdf already exist..................
+SKIP COPY ------ Xcell NOW Corp  -  AP Processing  ------  Capture_2.0_Process_Environment_-_TDD (P).docx already exist..................
+SKIP COPY ------ Xcell NOW Corp  -  Imaging RFP  ------  Access Model AP.xlsx already exist..................
+SKIP COPY ------ Xcell NOW Corp  -  Imaging RFP  ------  5.docx already exist..................
+SKIP COPY ------ Xcell NOW Corp  -  Imaging RFP  ------  Stradley Risk Management 1.0 v2.xlsx already exist..................
+SKIP COPY ------ Xcell NOW Corp  -  Imaging RFP  ------  Stradley Ronon_Implementation Meeting Agenda_2017-06-09_vF.doc already exist..................
+
+=================================================
+Ending run at 04:13:29  AM, 10/15/2019
+=================================================

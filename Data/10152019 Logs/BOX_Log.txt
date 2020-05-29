@@ -1,0 +1,791 @@
+﻿
+=================================================
+Starting run at 10:21:34  AM, 10/15/2019
+=================================================
+Logging in to Box as fcanta@cbps.canon.com
+Log in to Box successful...
+=========================
+Client: ABA
+Successfully uploaded ABA folder.
+=========================
+Client: ABB
+Successfully uploaded ABB folder.
+=========================
+Client: Abt Associates
+Successfully uploaded Abt Associates folder.
+=========================
+Client: Academy District 20
+Successfully uploaded Academy District 20 folder.
+=========================
+Client: Advocate
+Successfully uploaded Advocate folder.
+=========================
+Client: Aerospace
+Successfully uploaded Aerospace folder.
+=========================
+Client: AIG
+Successfully uploaded AIG folder.
+=========================
+Client: Alcon Laboratories
+Successfully uploaded Alcon Laboratories folder.
+=========================
+Client: Allen Matkins
+Successfully uploaded Allen Matkins folder.
+=========================
+Client: Allianz
+Successfully uploaded Allianz folder.
+=========================
+Client: Alston & Bird
+Successfully uploaded Alston & Bird folder.
+=========================
+Client: American Gas Association
+Successfully uploaded American Gas Association folder.
+=========================
+Client: Ameriprise
+Successfully uploaded Ameriprise folder.
+=========================
+Client: Amtrak
+Successfully uploaded Amtrak folder.
+=========================
+Client: Andersen
+Successfully uploaded Andersen folder.
+=========================
+Client: Anderson Kill
+Successfully uploaded Anderson Kill folder.
+=========================
+Client: Andrews Kurth Kenyon
+Successfully uploaded Andrews Kurth Kenyon folder.
+=========================
+Client: Ansaldo STS
+Successfully uploaded Ansaldo STS folder.
+=========================
+Client: Aon
+Successfully uploaded Aon folder.
+=========================
+Client: Apria
+Successfully uploaded Apria folder.
+=========================
+Client: Apria Healthcare Group
+Successfully uploaded Apria Healthcare Group folder.
+=========================
+Client: Arconic Inc
+Successfully uploaded Arconic Inc folder.
+=========================
+Client: Atlas Insurance
+Successfully uploaded Atlas Insurance folder.
+=========================
+Client: Avangrid
+Successfully uploaded Avangrid folder.
+=========================
+Client: AXA
+Successfully uploaded AXA folder.
+=========================
+Client: Baker and Hostetler
+Successfully uploaded Baker and Hostetler folder.
+=========================
+Client: Baker Botts
+Successfully uploaded Baker Botts folder.
+=========================
+Client: Barnes and Thornburg
+Successfully uploaded Barnes and Thornburg folder.
+=========================
+Client: Baxter Medical MFG
+Successfully uploaded Baxter Medical MFG folder.
+=========================
+Client: Becton Dickinson
+Successfully uploaded Becton Dickinson folder.
+=========================
+Client: Belgium Consulate
+Successfully uploaded Belgium Consulate folder.
+=========================
+Client: Best Best & Krieger
+Successfully uploaded Best Best & Krieger folder.
+=========================
+Client: Best Buy
+Successfully uploaded Best Buy folder.
+=========================
+Client: Biomerieux
+Successfully uploaded Biomerieux folder.
+=========================
+Client: Blue Cross Blue Shield
+Successfully uploaded Blue Cross Blue Shield folder.
+=========================
+Client: Blue Shield
+Successfully uploaded Blue Shield folder.
+=========================
+Client: Bodman PLC
+Successfully uploaded Bodman PLC folder.
+=========================
+Client: Boehringer Ingelheim
+Successfully uploaded Boehringer Ingelheim folder.
+=========================
+Client: Boeing
+Successfully uploaded Boeing folder.
+=========================
+Client: Boies Schiller Flexner LLP
+Successfully uploaded Boies Schiller Flexner LLP folder.
+=========================
+Client: Box
+Successfully uploaded Box folder.
+=========================
+Client: Bremer Bank
+Successfully uploaded Bremer Bank folder.
+=========================
+Client: Brown Rudnick
+Successfully uploaded Brown Rudnick folder.
+=========================
+Client: Brunswick
+Successfully uploaded Brunswick folder.
+=========================
+Client: Budd Larner
+Successfully uploaded Budd Larner folder.
+=========================
+Client: Canon Hong Kong
+Successfully uploaded Canon Hong Kong folder.
+=========================
+Client: Capgemini
+Successfully uploaded Capgemini folder.
+=========================
+Client: Cargill
+Successfully uploaded Cargill folder.
+=========================
+Client: Carrier
+Successfully uploaded Carrier folder.
+=========================
+Client: Cathay Bank
+Successfully uploaded Cathay Bank folder.
+=========================
+Client: CBPS
+Successfully uploaded CBPS folder.
+=========================
+Client: CBPS BPC
+Successfully uploaded CBPS BPC folder.
+=========================
+Client: CBPS BPO Consulting
+Successfully uploaded CBPS BPO Consulting folder.
+=========================
+Client: CBPS DTS
+Successfully uploaded CBPS DTS folder.
+=========================
+Client: CBPS HR
+Successfully uploaded CBPS HR folder.
+=========================
+
+
+
+
+=================================================
+Starting run at 11:22:12  AM, 10/15/2019
+=================================================
+Logging in to Box as fcanta@cbps.canon.com
+Log in to Box successful...
+=========================
+Client: CBPS PSD
+Successfully uploaded CBPS PSD folder.
+=========================
+Client: CBRE
+Successfully uploaded CBRE folder.
+=========================
+Client: CC&S
+Successfully uploaded CC&S folder.
+=========================
+Client: CenturyLink
+Successfully uploaded CenturyLink folder.
+=========================
+Client: Chapman
+Successfully uploaded Chapman folder.
+=========================
+Client: Choate
+Successfully uploaded Choate folder.
+=========================
+Client: Chubb
+Successfully uploaded Chubb folder.
+=========================
+Client: Citigroup
+Successfully uploaded Citigroup folder.
+=========================
+Client: City of Dallas
+Successfully uploaded City of Dallas folder.
+=========================
+Client: Clark Hill
+Successfully uploaded Clark Hill folder.
+=========================
+Client: Clorox
+Successfully uploaded Clorox folder.
+=========================
+Client: CMFG
+Successfully uploaded CMFG folder.
+=========================
+Client: CNBC
+Successfully uploaded CNBC folder.
+=========================
+Client: Coca Cola
+Successfully uploaded Coca Cola folder.
+=========================
+Client: Comerica
+Successfully uploaded Comerica folder.
+=========================
+Client: Comscore
+Successfully uploaded Comscore folder.
+=========================
+Client: Cooley LLP
+Successfully uploaded Cooley LLP folder.
+=========================
+Client: CounselLink
+Successfully uploaded CounselLink folder.
+=========================
+Client: Country-Wide Insurance
+Successfully uploaded Country-Wide Insurance folder.
+=========================
+Client: Credit Suisse
+Successfully uploaded Credit Suisse folder.
+=========================
+Client: CSAA
+Successfully uploaded CSAA folder.
+=========================
+Client: CSC
+Successfully uploaded CSC folder.
+=========================
+Client: Day Pitney
+Successfully uploaded Day Pitney folder.
+=========================
+Client: DB Schenker
+Successfully uploaded DB Schenker folder.
+=========================
+Client: DCH Health Systems
+Successfully uploaded DCH Health Systems folder.
+=========================
+Client: Debevoise
+Successfully uploaded Debevoise folder.
+=========================
+Client: Deloitte
+Successfully uploaded Deloitte folder.
+=========================
+Client: Denver Water
+Successfully uploaded Denver Water folder.
+=========================
+Client: DeVry
+Successfully uploaded DeVry folder.
+=========================
+Client: Dickinson Wright PLLC
+Successfully uploaded Dickinson Wright PLLC folder.
+=========================
+Client: Dickstein
+Successfully uploaded Dickstein folder.
+=========================
+Client: District 300
+Successfully uploaded District 300 folder.
+=========================
+Client: DiTech
+Successfully uploaded DiTech folder.
+=========================
+Client: Dorsey & Whitney
+Successfully uploaded Dorsey & Whitney folder.
+=========================
+Client: DOW Chemical Company
+Successfully uploaded DOW Chemical Company folder.
+=========================
+Client: Electronic Arts
+Successfully uploaded Electronic Arts folder.
+=========================
+Client: Encore Capital
+Successfully uploaded Encore Capital folder.
+=========================
+Client: Epstein Becker
+Successfully uploaded Epstein Becker folder.
+=========================
+Client: Equifax
+Successfully uploaded Equifax folder.
+=========================
+Client: Ernst & Young
+Successfully uploaded Ernst & Young folder.
+=========================
+Client: Everest National Insurance Company
+Successfully uploaded Everest National Insurance Company folder.
+=========================
+Client: Exeter
+Successfully uploaded Exeter folder.
+=========================
+Client: Expeditors International of Washington Inc
+Successfully uploaded Expeditors International of Washington Inc folder.
+=========================
+Client: ExxonMobil
+Successfully uploaded ExxonMobil folder.
+=========================
+Client: Facebook
+Successfully uploaded Facebook folder.
+=========================
+Client: Faegre Baker Daniels
+Successfully uploaded Faegre Baker Daniels folder.
+=========================
+Client: FiServ
+Successfully uploaded FiServ folder.
+=========================
+Client: Fisher & Phillips LLP
+Successfully uploaded Fisher & Phillips LLP folder.
+=========================
+Client: Fragomen, Del Rey, Bernsen & Loewry
+Successfully uploaded Fragomen, Del Rey, Bernsen & Loewry folder.
+=========================
+Client: Freedom Finance Network
+Successfully uploaded Freedom Finance Network folder.
+=========================
+Client: Freeman Freeman & Smiley
+Successfully uploaded Freeman Freeman & Smiley folder.
+=========================
+Client: GE
+Successfully uploaded GE folder.
+=========================
+Client: Gilead
+Successfully uploaded Gilead folder.
+=========================
+Client: Goodwin Proctor LLP
+Successfully uploaded Goodwin Proctor LLP folder.
+=========================
+Client: Gould and Ratnor
+Successfully uploaded Gould and Ratnor folder.
+=========================
+Client: Graebel Van Lines
+Successfully uploaded Graebel Van Lines folder.
+=========================
+Client: Graubard
+Successfully uploaded Graubard folder.
+=========================
+Client: Green and Hall
+Successfully uploaded Green and Hall folder.
+=========================
+Client: Guardian Life
+Successfully uploaded Guardian Life folder.
+=========================
+Client: Hall Render
+Successfully uploaded Hall Render folder.
+=========================
+Client: Harbourvest
+Successfully uploaded Harbourvest folder.
+=========================
+Client: Hartz
+Successfully uploaded Hartz folder.
+=========================
+Client: Heidell
+Successfully uploaded Heidell folder.
+=========================
+Client: HERC
+Successfully uploaded HERC folder.
+=========================
+Client: Hertz
+Successfully uploaded Hertz folder.
+=========================
+Client: Herzfeld and Rubin
+Successfully uploaded Herzfeld and Rubin folder.
+=========================
+Client: Higgs Fletcher & Mack LLP
+Successfully uploaded Higgs Fletcher & Mack LLP folder.
+=========================
+Client: Hill Farrer & Burrill LLP
+Successfully uploaded Hill Farrer & Burrill LLP folder.
+=========================
+Client: Hinshaw & Culbertson
+Successfully uploaded Hinshaw & Culbertson folder.
+=========================
+Client: Hogan Lovells
+Successfully uploaded Hogan Lovells folder.
+=========================
+Client: Honda
+Successfully uploaded Honda folder.
+=========================
+Client: Hopkins & Carley
+Successfully uploaded Hopkins & Carley folder.
+=========================
+Client: HSBC
+Successfully uploaded HSBC folder.
+=========================
+Client: Husky Energy
+Successfully uploaded Husky Energy folder.
+=========================
+Client: Ice Miller LLP
+Successfully uploaded Ice Miller LLP folder.
+=========================
+Client: ICW Group
+Successfully uploaded ICW Group folder.
+=========================
+Client: ImageSource
+Successfully uploaded ImageSource folder.
+=========================
+Client: Innovis
+Successfully uploaded Innovis folder.
+=========================
+Client: Jackson Lewis
+Successfully uploaded Jackson Lewis folder.
+=========================
+Client: Jaffe Raitt Heuer & Weiss
+Successfully uploaded Jaffe Raitt Heuer & Weiss folder.
+=========================
+Client: JC Penny
+Successfully uploaded JC Penny folder.
+=========================
+Client: Jeffer Mangels Butler and Mitchell LLP
+Successfully uploaded Jeffer Mangels Butler and Mitchell LLP folder.
+=========================
+Client: Jefferson Capital Systems
+Successfully uploaded Jefferson Capital Systems folder.
+=========================
+Client: Jenner and Block
+Successfully uploaded Jenner and Block folder.
+=========================
+Client: JM Smucker
+Successfully uploaded JM Smucker folder.
+=========================
+Client: John Hancock
+Successfully uploaded John Hancock folder.
+=========================
+Client: JP Morgan Chase & Co
+Successfully uploaded JP Morgan Chase & Co folder.
+=========================
+Client: Katten
+Successfully uploaded Katten folder.
+=========================
+Client: Kaye Scholer
+Successfully uploaded Kaye Scholer folder.
+=========================
+Client: Kia
+Successfully uploaded Kia folder.
+=========================
+Client: Klockner Pentaplast
+Successfully uploaded Klockner Pentaplast folder.
+=========================
+Client: Knights of Columbus
+Successfully uploaded Knights of Columbus folder.
+=========================
+Client: Kohn Law
+Successfully uploaded Kohn Law folder.
+=========================
+Client: Kreig
+Successfully uploaded Kreig folder.
+=========================
+Client: L'Oreal
+Successfully uploaded L'Oreal folder.
+=========================
+Client: Latham & Watkins LLP
+Successfully uploaded Latham & Watkins LLP folder.
+=========================
+Client: Laughlin Falbo
+Successfully uploaded Laughlin Falbo folder.
+=========================
+Client: Leukemia & Lymphoma Society
+Successfully uploaded Leukemia & Lymphoma Society folder.
+=========================
+Client: Lewis Brisbois
+Successfully uploaded Lewis Brisbois folder.
+=========================
+Client: Liberty Mutual
+Successfully uploaded Liberty Mutual folder.
+=========================
+Client: Lloyd Gosselink
+Successfully uploaded Lloyd Gosselink folder.
+=========================
+Client: LogistiCare
+Successfully uploaded LogistiCare folder.
+=========================
+Client: Los Angeles Department of Water and Power
+Successfully uploaded Los Angeles Department of Water and Power folder.
+=========================
+Client: Lurie Childrens Hospital
+Successfully uploaded Lurie Childrens Hospital folder.
+=========================
+Client: Madison Square Garden
+Successfully uploaded Madison Square Garden folder.
+=========================
+Client: Manulife
+Successfully uploaded Manulife folder.
+=========================
+Client: Marshall Gerstein
+Successfully uploaded Marshall Gerstein folder.
+=========================
+Client: Mazda
+Successfully uploaded Mazda folder.
+=========================
+Client: MBIA
+Successfully uploaded MBIA folder.
+=========================
+Client: Medtronics
+Successfully uploaded Medtronics folder.
+=========================
+Client: Mendes and Mount LLP
+Successfully uploaded Mendes and Mount LLP folder.
+=========================
+Client: Mentor Network
+Successfully uploaded Mentor Network folder.
+=========================
+Client: Milbank
+Successfully uploaded Milbank folder.
+=========================
+Client: Miller Canfield
+Successfully uploaded Miller Canfield folder.
+=========================
+Client: Miller Johnson
+Successfully uploaded Miller Johnson folder.
+=========================
+Client: Mitre
+Successfully uploaded Mitre folder.
+=========================
+Client: Morgan and Morgan
+Successfully uploaded Morgan and Morgan folder.
+=========================
+Client: National Association of Home Builders
+Successfully uploaded National Association of Home Builders folder.
+=========================
+Client: NBA
+Successfully uploaded NBA folder.
+=========================
+Client: Neal Gerber
+Successfully uploaded Neal Gerber folder.
+=========================
+Client: Nelson Mullins
+Successfully uploaded Nelson Mullins folder.
+=========================
+Client: Newmark, Knight and Frank
+Successfully uploaded Newmark, Knight and Frank folder.
+=========================
+Client: Newmeyer & Dillion
+Successfully uploaded Newmeyer & Dillion folder.
+=========================
+Client: Nexteer Automotive
+Successfully uploaded Nexteer Automotive folder.
+=========================
+Client: Nixon Peabody
+Successfully uploaded Nixon Peabody folder.
+=========================
+Client: Northwestern Mututal Life Insurance
+Successfully uploaded Northwestern Mututal Life Insurance folder.
+=========================
+Client: Nossaman LLP
+Successfully uploaded Nossaman LLP folder.
+=========================
+Client: OmniLife
+Successfully uploaded OmniLife folder.
+=========================
+Client: Otis Elevator Company
+Successfully uploaded Otis Elevator Company folder.
+=========================
+Client: Otsuka
+Successfully uploaded Otsuka folder.
+=========================
+Client: Pandora
+Successfully uploaded Pandora folder.
+=========================
+Client: Parker Hudson
+Successfully uploaded Parker Hudson folder.
+=========================
+Client: Parker Poe Adams & Bernstein
+Successfully uploaded Parker Poe Adams & Bernstein folder.
+=========================
+Client: Peninsula Regional Medical Center
+Successfully uploaded Peninsula Regional Medical Center folder.
+=========================
+Client: Perkins Coie
+Successfully uploaded Perkins Coie folder.
+=========================
+Client: Perry Ellis
+Successfully uploaded Perry Ellis folder.
+=========================
+Client: Pfizer
+Successfully uploaded Pfizer folder.
+=========================
+Client: Philips
+Successfully uploaded Philips folder.
+=========================
+Client: Preferred One
+Successfully uploaded Preferred One folder.
+=========================
+Client: Procopio
+Successfully uploaded Procopio folder.
+=========================
+Client: Proskauer Rose LLP
+Successfully uploaded Proskauer Rose LLP folder.
+=========================
+Client: QBE
+Successfully uploaded QBE folder.
+=========================
+Client: QVC
+Successfully uploaded QVC folder.
+=========================
+Client: Raymond James
+Successfully uploaded Raymond James folder.
+=========================
+Client: Reinhart Boerner Van Deuren SC
+Successfully uploaded Reinhart Boerner Van Deuren SC folder.
+=========================
+Client: Related
+Successfully uploaded Related folder.
+=========================
+Client: Reyes Holdings
+Successfully uploaded Reyes Holdings folder.
+=========================
+Client: Robins Kaplan
+Successfully uploaded Robins Kaplan folder.
+=========================
+Client: Rockland County
+Successfully uploaded Rockland County folder.
+=========================
+Client: Ryerson
+Successfully uploaded Ryerson folder.
+=========================
+Client: SAIF Corporation
+Successfully uploaded SAIF Corporation folder.
+=========================
+Client: Sanofi
+Successfully uploaded Sanofi folder.
+=========================
+Client: Santander Bank
+Successfully uploaded Santander Bank folder.
+=========================
+Client: Schiff Hardin LLP
+Successfully uploaded Schiff Hardin LLP folder.
+=========================
+Client: Schulte Roth Zabell
+Successfully uploaded Schulte Roth Zabell folder.
+=========================
+Client: SD Firm
+Successfully uploaded SD Firm folder.
+=========================
+Client: Sephora
+Successfully uploaded Sephora folder.
+=========================
+Client: Serling Rooks Hunter
+Successfully uploaded Serling Rooks Hunter folder.
+=========================
+Client: Seward & Kissel
+Successfully uploaded Seward & Kissel folder.
+=========================
+Client: Shamrock
+Successfully uploaded Shamrock folder.
+=========================
+Client: Shelby Group
+Successfully uploaded Shelby Group folder.
+=========================
+Client: Sheppard Mullin
+Successfully uploaded Sheppard Mullin folder.
+=========================
+Client: Sikorsky
+Successfully uploaded Sikorsky folder.
+=========================
+Client: Snyders Lance
+Successfully uploaded Snyders Lance folder.
+=========================
+Client: Southern California Edison Company
+Successfully uploaded Southern California Edison Company folder.
+=========================
+Client: Starr
+Successfully uploaded Starr folder.
+=========================
+Client: State Auto
+Successfully uploaded State Auto folder.
+=========================
+Client: State of Wisconsin
+Successfully uploaded State of Wisconsin folder.
+=========================
+Client: Stoel Rives LLP
+Successfully uploaded Stoel Rives LLP folder.
+=========================
+Client: Stradley Ronan
+Successfully uploaded Stradley Ronan folder.
+=========================
+Client: SunLife
+Successfully uploaded SunLife folder.
+=========================
+Client: Synchrony Financial
+Successfully uploaded Synchrony Financial folder.
+=========================
+Client: Tesoro Corp
+Successfully uploaded Tesoro Corp folder.
+=========================
+Client: Tewksbury Schools
+Successfully uploaded Tewksbury Schools folder.
+=========================
+Client: The Conference Board
+Successfully uploaded The Conference Board folder.
+=========================
+Client: The Hartford Insurance Group
+Successfully uploaded The Hartford Insurance Group folder.
+=========================
+Client: Thompson Hine LLP
+Successfully uploaded Thompson Hine LLP folder.
+=========================
+Client: TKE
+Successfully uploaded TKE folder.
+=========================
+Client: TLC
+Successfully uploaded TLC folder.
+=========================
+Client: Tradeshift
+Successfully uploaded Tradeshift folder.
+=========================
+Client: Treehouse Private Brands Inc
+Successfully uploaded Treehouse Private Brands Inc folder.
+=========================
+Client: Troutman Sanders LLP
+Successfully uploaded Troutman Sanders LLP folder.
+=========================
+Client: Union Bank
+Successfully uploaded Union Bank folder.
+=========================
+Client: United Technologies Corporation
+Successfully uploaded United Technologies Corporation folder.
+=========================
+Client: UPMC
+Successfully uploaded UPMC folder.
+=========================
+Client: UPS
+Successfully uploaded UPS folder.
+=========================
+Client: Vandenberg and Feliu
+Successfully uploaded Vandenberg and Feliu folder.
+=========================
+Client: Vanguard
+Successfully uploaded Vanguard folder.
+=========================
+Client: Verizon
+Successfully uploaded Verizon folder.
+=========================
+Client: Verve
+Successfully uploaded Verve folder.
+=========================
+Client: Wake Forest
+Successfully uploaded Wake Forest folder.
+=========================
+Client: Weil
+Successfully uploaded Weil folder.
+=========================
+Client: Weingarten Realty Investors
+Successfully uploaded Weingarten Realty Investors folder.
+=========================
+Client: Willis
+Successfully uploaded Willis folder.
+=========================
+Client: Wilson Sonsini Goodrich & Roasati
+Successfully uploaded Wilson Sonsini Goodrich & Roasati folder.
+=========================
+Client: Wooden and McLaughlin LLP
+Successfully uploaded Wooden and McLaughlin LLP folder.
+=========================
+Client: World Bank
+Successfully uploaded World Bank folder.
+=========================
+Client: Wyatt Tarrant and Combs LLP
+Successfully uploaded Wyatt Tarrant and Combs LLP folder.
+=========================
+Client: Xcell NOW Corp
+Successfully uploaded Xcell NOW Corp folder.
+=========================
+Client: XL Catlin
+Successfully uploaded XL Catlin folder.
+=========================
+Client: Xtra Great Corp
+Successfully uploaded Xtra Great Corp folder.
+=========================
+Client: Yum Yum
+Successfully uploaded Yum Yum folder.
+
+=================================================
+Ending run at 12:54:52  PM, 10/15/2019
+=================================================

@@ -1,0 +1,345 @@
+<Activity mc:Ignorable="sap sap2010" x:Class="Go_To_PSD_Folder" mva:VisualBasic.Settings="{x:Null}" sap:VirtualizedContainerService.HintSize="526,2106" sap2010:WorkflowViewState.IdRef="Go_To_PSD_Folder_1" xmlns="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:mva="clr-namespace:Microsoft.VisualBasic.Activities;assembly=System.Activities" xmlns:p="http://schemas.uipath.com/workflow/activities/cv" xmlns:sap="http://schemas.microsoft.com/netfx/2009/xaml/activities/presentation" xmlns:sap2010="http://schemas.microsoft.com/netfx/2010/xaml/activities/presentation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:sd="clr-namespace:System.Drawing;assembly=System.Drawing" xmlns:uc="clr-namespace:UiPath.CV;assembly=UiPath.CV" xmlns:ui="http://schemas.uipath.com/workflow/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TextExpression.NamespacesForImplementation>
+    <scg:List x:TypeArguments="x:String" Capacity="21">
+      <x:String>System.Activities</x:String>
+      <x:String>System.Activities.Statements</x:String>
+      <x:String>System.Activities.Expressions</x:String>
+      <x:String>System.Activities.Validation</x:String>
+      <x:String>System.Activities.XamlIntegration</x:String>
+      <x:String>Microsoft.VisualBasic</x:String>
+      <x:String>Microsoft.VisualBasic.Activities</x:String>
+      <x:String>System</x:String>
+      <x:String>System.Collections</x:String>
+      <x:String>System.Collections.Generic</x:String>
+      <x:String>System.Data</x:String>
+      <x:String>System.Diagnostics</x:String>
+      <x:String>System.Drawing</x:String>
+      <x:String>System.IO</x:String>
+      <x:String>System.Linq</x:String>
+      <x:String>System.Net.Mail</x:String>
+      <x:String>System.Xml</x:String>
+      <x:String>System.Xml.Linq</x:String>
+      <x:String>UiPath.Core</x:String>
+      <x:String>UiPath.Core.Activities</x:String>
+      <x:String>System.Windows.Markup</x:String>
+    </scg:List>
+  </TextExpression.NamespacesForImplementation>
+  <TextExpression.ReferencesForImplementation>
+    <scg:List x:TypeArguments="AssemblyReference" Capacity="32">
+      <AssemblyReference>System.Activities</AssemblyReference>
+      <AssemblyReference>Microsoft.VisualBasic</AssemblyReference>
+      <AssemblyReference>mscorlib</AssemblyReference>
+      <AssemblyReference>System.Data</AssemblyReference>
+      <AssemblyReference>System.Data.DataSetExtensions</AssemblyReference>
+      <AssemblyReference>System</AssemblyReference>
+      <AssemblyReference>System.Drawing</AssemblyReference>
+      <AssemblyReference>System.Core</AssemblyReference>
+      <AssemblyReference>System.Xml</AssemblyReference>
+      <AssemblyReference>System.Xml.Linq</AssemblyReference>
+      <AssemblyReference>PresentationFramework</AssemblyReference>
+      <AssemblyReference>WindowsBase</AssemblyReference>
+      <AssemblyReference>PresentationCore</AssemblyReference>
+      <AssemblyReference>System.Xaml</AssemblyReference>
+      <AssemblyReference>UiPath.System.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.UiAutomation.Activities</AssemblyReference>
+      <AssemblyReference>System.ServiceModel</AssemblyReference>
+      <AssemblyReference>UiPath.CV</AssemblyReference>
+      <AssemblyReference>UiPath.Excel</AssemblyReference>
+      <AssemblyReference>UiPath.Mail</AssemblyReference>
+    </scg:List>
+  </TextExpression.ReferencesForImplementation>
+  <Sequence DisplayName="Go_To_PSDFolder_To_ClientEngagement_Search" sap:VirtualizedContainerService.HintSize="486,2026" sap2010:WorkflowViewState.IdRef="Sequence_1">
+    <Sequence.Variables>
+      <Variable x:TypeArguments="x:String" Name="ClientEngagementState" />
+      <Variable x:TypeArguments="x:String" Name="PSDVisible" />
+    </Sequence.Variables>
+    <sap:WorkflowViewStateService.ViewState>
+      <scg:Dictionary x:TypeArguments="x:String, x:Object">
+        <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+      </scg:Dictionary>
+    </sap:WorkflowViewStateService.ViewState>
+    <p:CVScope ContinueOnError="{x:Null}" ApiKey="1WYslroMavMF01wKhHPgwaY1D6fE19iZmz4l4TJjcCFaAwuJBRJyXKHo+QqB3KNM" DelayBefore="300" DisplayName="Go to Repository" sap:VirtualizedContainerService.HintSize="464,384" sap2010:WorkflowViewState.IdRef="CVScope_1" Server="https://cv.uipath.com">
+      <p:CVScope.Body>
+        <ActivityAction x:TypeArguments="x:Object">
+          <ActivityAction.Argument>
+            <DelegateInArgument x:TypeArguments="x:Object" Name="CVSessionData" />
+          </ActivityAction.Argument>
+          <Sequence DisplayName="Do" sap2010:WorkflowViewState.IdRef="Sequence_2">
+            <p:CvClickWithDescriptor DelayBefore="{x:Null}" DelayMS="{x:Null}" ClickType="CLICK_SINGLE" Descriptor="[&quot;Target: Icon (3,314,26,25)&quot; +&#xA;&quot;Anchor: Text 'Repository' (33,320,52,11)&quot;]" DesignTimeScaleFactor="1.5" DisplayName="Click Repository" sap:VirtualizedContainerService.HintSize="400,106" sap2010:WorkflowViewState.IdRef="CvClickWithDescriptor_1" InformativeScreenshot="cc5ceb2763e4a7ba15e7d5146730f541" KeyModifiers="None" MouseButton="BTN_LEFT" TimeoutMS="30000">
+              <p:CvClickWithDescriptor.CursorPosition>
+                <ui:CursorPosition Position="Center">
+                  <ui:CursorPosition.OffsetX>
+                    <InArgument x:TypeArguments="x:Int32" />
+                  </ui:CursorPosition.OffsetX>
+                  <ui:CursorPosition.OffsetY>
+                    <InArgument x:TypeArguments="x:Int32" />
+                  </ui:CursorPosition.OffsetY>
+                </ui:CursorPosition>
+              </p:CvClickWithDescriptor.CursorPosition>
+              <p:CvClickWithDescriptor.DesignTimeDescriptor>
+                <uc:CvDescriptor>
+                  <uc:CvDescriptor.Anchors>
+                    <x:Array Type="uc:CvElementDescriptor">
+                      <uc:CvElementDescriptor DesignTimeArea="33, 320, 52, 11" ElementType="Text" Text="Repository" />
+                    </x:Array>
+                  </uc:CvDescriptor.Anchors>
+                  <uc:CvDescriptor.Target>
+                    <uc:CvElementDescriptor DesignTimeArea="3, 314, 26, 25" ElementType="Icon" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAACcAAAAlCAYAAADBa/A+AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAFiUAABYlAUlSJPAAAAMaSURBVFhH7ZjZT1pBFMb7HzYmTaoGW7VccYEiIIuyFAGVFlQUu7hjTNUXl9oqFlM2tekLjagvbewSNX1qC/iipYlfZwaooECuVFua8CVfzpm5A/fHnJmByzWPx4OU1Uo1HL2O323Py4RXPaus7V52Y3pqGjabDaoWFQxaA/SGZlisHAbHJRifkmLsacI0p32WLg46XTPu6Y3o7LCio7UV3dK7mNG1YcGox5zh1PO0TWyXSNAgqEIGnLPfyWI+xeNxLL1YQmN9IyorKmHq5LDs1yD0zoTtzxZsfbKQ2MHy0HsT3IFWWO31qL4twJ2aGjgUCry238eXkSeIToziu2sE38aHmSPJ9nOTEWqh8OJwVHt7+5idnUW9iIPNUYc320ZsfjAzsBQcjeGPBJBATy8o0KarhahagEkycxTsK4GhILzh+vv6WRmz6eTkJJnR2fuJ3d1dDA8NwvpAjr7HIoxMikkpxaSkp3ZNS+CakaD3YR2UagGqym+gXchhTq/FgkGHeRKz2S4W5yhrDrizOj46xs7ODgEcgkIugcHYDJNZxmy2yDNys0UGvV6KpsZ6yBrFMCla0KlUokulgpW4i+bEVrWa9cnqRLhVXnkeji5+PqIzeUQAD/YP8DYUwsbGGtbW/AgGfSym5+vrAZZ7vV74faTPHyAm/YEAcyrfCAZZfOQcAFd7ds05CdwqP7h0xX/EEYsdIhKJ5nQ0eupIDkdjMebFZ4uQyxSZcD3dPexCjAygTn/DfI5FE+P/1IfkA9K4vLQMjVqTCadRaeDocbDzbMW9Arfbzc/J8ew1eXK+4+jGbGpoyoRrN7ZjbHQM4XA44c2Et8JbWfNLd/K+E64JyKSyTLgBshD5boirlI9sGp1W9x/B5TuE/6bokXMO7iKH8FUqJ1xRlNVbKmthKpW1UJXKWqhKZS1UxQ33Kgtc0Ze1aH+VlMrKQ6WyFqr/r6zsGaKAh+rLlt/nzw5H479W1u9WZYuS/XlIL1LT6aXOlV+2U/ela1/EiTLhKm5WgBNy0LZpGTlfp4/Pl/MdR8HKrpdlwhWbixjOg1/55BH5MQA2CQAAAABJRU5ErkJggg==" />
+                  </uc:CvDescriptor.Target>
+                </uc:CvDescriptor>
+              </p:CvClickWithDescriptor.DesignTimeDescriptor>
+              <p:CvClickWithDescriptor.Target>
+                <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Selector="{x:Null}" TimeoutMS="{x:Null}" WaitForReady="INTERACTIVE" />
+              </p:CvClickWithDescriptor.Target>
+              <sap:WorkflowViewStateService.ViewState>
+                <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                  <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                  <x:Boolean x:Key="IsPinned">False</x:Boolean>
+                </scg:Dictionary>
+              </sap:WorkflowViewStateService.ViewState>
+            </p:CvClickWithDescriptor>
+          </Sequence>
+        </ActivityAction>
+      </p:CVScope.Body>
+      <p:CVScope.DesignTimeCache>
+        <uc:CVCache InformativeScreenshot="aff15b39b7ac75e661f512d792980baa" LogicalPosition="0, 258" OcrText="El o—Repository A&#xD;&#xA;Corporate Libraries&#xD;&#xA;HR&#xD;&#xA;Legal&#xD;&#xA;El PSD&#xD;&#xA;I: Client Engagements&#xD;&#xA;El I: Partner Agreements&#xD;&#xA;[‘1 Partner Documents V&#xD;&#xA;Saved Searches&#xD;&#xA;ﬁr Favorites&#xD;&#xA;E Repository&#xD;&#xA;0 Workﬂow lnbox&#xD;&#xA;Tasks&#xD;&#xA;ljjn Reports" Position="0, 258" ScaleFactor="1.5" ScreenshotGuid="d3d71c21-81af-478b-82f9-717f9e5d3d29" ServerVersion="1">
+          <uc:CVCache.CvUiElements>
+            <scg:List x:TypeArguments="uc:CvElementInfo" Capacity="64">
+              <uc:CvElementInfo Category="Icon" Confidence="DesignTime" Region="3, 313, 26, 25" Score="1" />
+              <uc:CvElementInfo Category="Icon" Confidence="DesignTime" Region="3, 280, 27, 27" Score="1" />
+              <uc:CvElementInfo Category="Icon" Confidence="DesignTime" Region="3, 348, 26, 25" Score="1" />
+              <uc:CvElementInfo Category="Icon" Confidence="DesignTime" Region="4, 379, 23, 26" Score="1" />
+              <uc:CvElementInfo Category="Icon" Confidence="DesignTime" Region="37, 56, 18, 17" Score="1" />
+              <uc:CvElementInfo Category="Icon" Confidence="DesignTime" Region="3, 415, 26, 22" Score="1" />
+              <uc:CvElementInfo Category="Icon" Confidence="DesignTime" Region="55, 93, 18, 18" Score="1" />
+              <uc:CvElementInfo Category="Icon" Confidence="DesignTime" Region="55, 113, 18, 17" Score="1" />
+              <uc:CvElementInfo Category="Icon" Confidence="DesignTime" Region="36, 20, 18, 16" Score="1" />
+              <uc:CvElementInfo Category="Icon" Confidence="DesignTime" Region="37, 38, 18, 17" Score="1" />
+              <uc:CvElementInfo Category="Icon" Confidence="DesignTime" Region="37, 76, 18, 16" Score="1" />
+              <uc:CvElementInfo Category="ArrowButton" Confidence="DesignTime" Region="282, 128, 16, 16" Score="1" />
+              <uc:CvElementInfo Category="ArrowButton" Confidence="DesignTime" Region="283, 2, 16, 16" Score="1" />
+              <uc:CvElementInfo Category="Button" Confidence="DesignTime" Region="23, 23, 10, 10" Score="1" />
+              <uc:CvElementInfo Category="Button" Confidence="DesignTime" Region="23, 60, 11, 11" Score="1" />
+              <uc:CvElementInfo Category="Button" Confidence="DesignTime" Region="23, 80, 11, 10" Score="1" />
+              <uc:CvElementInfo Category="Button" Confidence="DesignTime" Region="23, 42, 10, 10" Score="1" />
+              <uc:CvElementInfo Category="Icon" Confidence="DesignTime" Region="40, 98, 11, 12" Score="1" />
+              <uc:CvElementInfo Category="Button" Confidence="DesignTime" Region="5, 4, 11, 12" Score="1" />
+              <uc:CvElementInfo Category="Icon" Confidence="DesignTime" Region="19, 1, 18, 18" Score="1" />
+              <uc:CvElementInfo Category="Button" Confidence="DesignTime" Region="41, 117, 10, 10" Score="1" />
+              <uc:CvElementInfo Category="Button" Confidence="DesignTime" Region="19, 1, 18, 18" Score="1" />
+              <uc:CvElementInfo Category="Icon" Confidence="DesignTime" Region="41, 117, 10, 10" Score="1" />
+              <uc:CvElementInfo Category="MaximizeButton" Confidence="DesignTime" Region="4, 4, 12, 12" Score="1" />
+              <uc:CvElementInfo Category="InputBox" Confidence="DesignTime" Region="7, 168, 282, 99" Score="1" />
+              <uc:CvElementInfo Category="Icon" Confidence="Runtime" Region="4, 4, 12, 12" Score="1" />
+              <uc:CvElementInfo Category="Button" Confidence="Runtime" Region="40, 98, 12, 12" Score="1" />
+              <uc:CvElementInfo Category="Icon" Confidence="Runtime" Region="23, 60, 11, 12" Score="1" />
+              <uc:CvElementInfo Category="CloseButton" Confidence="Runtime" Region="4, 4, 12, 12" Score="1" />
+              <uc:CvElementInfo Category="Icon" Confidence="Runtime" Region="72, 131, 19, 15" Score="1" />
+              <uc:CvElementInfo Category="Icon" Confidence="Runtime" Region="22, 23, 12, 12" Score="1" />
+              <uc:CvElementInfo Category="Icon" Confidence="Runtime" Region="24, 42, 10, 10" Score="1" />
+              <uc:CvElementInfo Category="Button" Confidence="Runtime" Region="37, 20, 18, 16" Score="1" />
+              <uc:CvElementInfo Category="Icon" Confidence="Runtime" Region="22, 78, 11, 11" Score="1" />
+              <uc:CvElementInfo Category="MinimizeButton" Confidence="Runtime" Region="19, 0, 18, 18" Score="1" />
+              <uc:CvElementInfo Category="MinimizeButton" Confidence="Runtime" Region="4, 4, 11, 12" Score="1" />
+              <uc:CvElementInfo Category="Button" Confidence="Runtime" Region="4, 380, 23, 26" Score="1" />
+              <uc:CvElementInfo Category="Button" Confidence="Runtime" Region="282, 1, 17, 18" Score="1" />
+              <uc:CvElementInfo Category="ArrowButton" Confidence="Runtime" Region="4, 4, 12, 11" Score="1" />
+              <uc:CvElementInfo Category="ArrowButton" Confidence="Runtime" Region="19, 2, 18, 17" Score="1" />
+              <uc:CvElementInfo Category="InputBox" Confidence="Runtime" Region="19, 1, 17, 16" Score="1" />
+              <uc:CvElementInfo Category="ArrowButton" Confidence="Runtime" Region="40, 98, 11, 11" Score="1" />
+              <uc:CvElementInfo Category="MaximizeButton" Confidence="Runtime" Region="19, 1, 18, 18" Score="1" />
+              <uc:CvElementInfo Category="RadioButton" Confidence="Runtime" Region="19, 2, 18, 16" Score="1" />
+            </scg:List>
+          </uc:CVCache.CvUiElements>
+          <uc:CVCache.OcrTexts>
+            <scg:List x:TypeArguments="uc:OcrTextInfo" Capacity="32">
+              <uc:OcrTextInfo Region="6, 6, 9, 8" Text="El" />
+              <uc:OcrTextInfo Region="20, 0, 77, 19" Text="o—Repository" />
+              <uc:OcrTextInfo Region="286, 7, 8, 6" Text="A" />
+              <uc:OcrTextInfo Region="58, 24, 52, 11" Text="Corporate" />
+              <uc:OcrTextInfo Region="115, 24, 42, 9" Text="Libraries" />
+              <uc:OcrTextInfo Region="58, 43, 15, 8" Text="HR" />
+              <uc:OcrTextInfo Region="58, 61, 26, 12" Text="Legal" />
+              <uc:OcrTextInfo Region="24, 80, 9, 8" Text="El" />
+              <uc:OcrTextInfo Region="58, 80, 20, 8" Text="PSD" />
+              <uc:OcrTextInfo Region="56, 95, 16, 16" Text="I:" />
+              <uc:OcrTextInfo Region="76, 98, 29, 9" Text="Client" />
+              <uc:OcrTextInfo Region="109, 99, 70, 11" Text="Engagements" />
+              <uc:OcrTextInfo Region="42, 118, 9, 8" Text="El" />
+              <uc:OcrTextInfo Region="56, 114, 16, 16" Text="I:" />
+              <uc:OcrTextInfo Region="76, 118, 36, 8" Text="Partner" />
+              <uc:OcrTextInfo Region="116, 118, 64, 11" Text="Agreements" />
+              <uc:OcrTextInfo Region="74, 132, 16, 12" Text="[‘1" />
+              <uc:OcrTextInfo Region="94, 136, 36, 8" Text="Partner" />
+              <uc:OcrTextInfo Region="135, 136, 59, 8" Text="Documents" />
+              <uc:OcrTextInfo Region="286, 133, 8, 6" Text="V" />
+              <uc:OcrTextInfo Region="4, 152, 31, 8" Text="Saved" />
+              <uc:OcrTextInfo Region="39, 152, 46, 8" Text="Searches" />
+              <uc:OcrTextInfo Region="4, 280, 24, 24" Text="ﬁr" />
+              <uc:OcrTextInfo Region="33, 287, 42, 8" Text="Favorites" />
+              <uc:OcrTextInfo Region="0, 309, 28, 32" Text="E" />
+              <uc:OcrTextInfo Region="33, 320, 52, 11" Text="Repository" />
+              <uc:OcrTextInfo Region="4, 348, 24, 22" Text="0" />
+              <uc:OcrTextInfo Region="32, 354, 47, 8" Text="Workﬂow" />
+              <uc:OcrTextInfo Region="83, 354, 28, 8" Text="lnbox" />
+              <uc:OcrTextInfo Region="32, 387, 25, 8" Text="Tasks" />
+              <uc:OcrTextInfo Region="4, 413, 23, 24" Text="ljjn" />
+              <uc:OcrTextInfo Region="33, 421, 37, 10" Text="Reports" />
+            </scg:List>
+          </uc:CVCache.OcrTexts>
+        </uc:CVCache>
+      </p:CVScope.DesignTimeCache>
+      <p:CVScope.OCREngine>
+        <ActivityFunc x:TypeArguments="sd:Image, scg:IEnumerable(scg:KeyValuePair(sd:Rectangle, x:String))">
+          <ActivityFunc.Argument>
+            <DelegateInArgument x:TypeArguments="sd:Image" Name="Image" />
+          </ActivityFunc.Argument>
+          <ui:GoogleOCR FilterRegion="{x:Null}" Output="{x:Null}" Text="{x:Null}" AllowedCharacters="" ComputeSkewAngle="False" DeniedCharacters="" DisplayName="Tesseract OCR" ExtractWords="True" sap:VirtualizedContainerService.HintSize="200,22" sap2010:WorkflowViewState.IdRef="GoogleOCR_1" Image="[Image]" Invert="False" Language="eng" Profile="Legacy" Scale="2" />
+        </ActivityFunc>
+      </p:CVScope.OCREngine>
+      <p:CVScope.Target>
+        <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" TimeoutMS="{x:Null}" InformativeScreenshot="bc38239362242ff1ebb3eef0c6e0ce86" Selector="&lt;wnd app='thenavigator.exe' cls='Afx:*' title='Therefore™ Navigator' /&gt;&lt;wnd cls='AfxWnd140u' title='ShortcutsContainer' /&gt;" WaitForReady="INTERACTIVE" />
+      </p:CVScope.Target>
+      <sap:WorkflowViewStateService.ViewState>
+        <scg:Dictionary x:TypeArguments="x:String, x:Object">
+          <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+          <x:Boolean x:Key="IsPinned">False</x:Boolean>
+        </scg:Dictionary>
+      </sap:WorkflowViewStateService.ViewState>
+    </p:CVScope>
+    <ui:GetAttribute ContinueOnError="{x:Null}" Attribute="aastate" DisplayName="Check if PSD Folder is Visible" sap:VirtualizedContainerService.HintSize="464,134" sap2010:WorkflowViewState.IdRef="GetAttribute_2">
+      <ui:GetAttribute.Result>
+        <OutArgument x:TypeArguments="x:String">[PSDVisible]</OutArgument>
+      </ui:GetAttribute.Result>
+      <ui:GetAttribute.Target>
+        <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" TimeoutMS="{x:Null}" InformativeScreenshot="0b28b528cae9250270f0566486f67300" Selector="&lt;wnd app='thenavigator.exe' cls='Afx:*' title='Therefore™ Navigator' /&gt;&lt;wnd cls='SysTreeView32' idx='1' /&gt;&lt;ctrl name='PSD' role='outline item' /&gt;" WaitForReady="INTERACTIVE" />
+      </ui:GetAttribute.Target>
+      <sap:WorkflowViewStateService.ViewState>
+        <scg:Dictionary x:TypeArguments="x:String, x:Object">
+          <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+          <x:Boolean x:Key="IsPinned">False</x:Boolean>
+        </scg:Dictionary>
+      </sap:WorkflowViewStateService.ViewState>
+    </ui:GetAttribute>
+    <ui:Click DelayBefore="{x:Null}" DelayMS="{x:Null}" ClickType="CLICK_SINGLE" DisplayName="Click Repository" sap:VirtualizedContainerService.HintSize="464,106" sap2010:WorkflowViewState.IdRef="Click_13" KeyModifiers="None" MouseButton="BTN_LEFT" SendWindowMessages="False" SimulateClick="False">
+      <ui:Click.CursorPosition>
+        <ui:CursorPosition Position="Center">
+          <ui:CursorPosition.OffsetX>
+            <InArgument x:TypeArguments="x:Int32" />
+          </ui:CursorPosition.OffsetX>
+          <ui:CursorPosition.OffsetY>
+            <InArgument x:TypeArguments="x:Int32" />
+          </ui:CursorPosition.OffsetY>
+        </ui:CursorPosition>
+      </ui:Click.CursorPosition>
+      <ui:Click.Target>
+        <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" TimeoutMS="{x:Null}" InformativeScreenshot="3672dacf35de48235b78336186b660f2" Selector="&lt;wnd app='thenavigator.exe' cls='Afx:*' title='Therefore™ Navigator' /&gt;&lt;wnd cls='SysTreeView32' idx='1' /&gt;&lt;ctrl name='Repository' role='outline item' /&gt;" WaitForReady="NONE" />
+      </ui:Click.Target>
+    </ui:Click>
+    <If Condition="[PSDVisible.Equals(&quot;collapsed, focusable, selectable&quot;)]" DisplayName="PSD Visible?" sap:VirtualizedContainerService.HintSize="464,249" sap2010:WorkflowViewState.IdRef="If_4">
+      <If.Else>
+        <ui:Click DelayBefore="{x:Null}" DelayMS="{x:Null}" ClickType="CLICK_DOUBLE" DisplayName="Double Click Repository" sap:VirtualizedContainerService.HintSize="314,106" sap2010:WorkflowViewState.IdRef="Click_12" KeyModifiers="None" MouseButton="BTN_LEFT" SendWindowMessages="False" SimulateClick="False">
+          <ui:Click.CursorPosition>
+            <ui:CursorPosition Position="Center">
+              <ui:CursorPosition.OffsetX>
+                <InArgument x:TypeArguments="x:Int32" />
+              </ui:CursorPosition.OffsetX>
+              <ui:CursorPosition.OffsetY>
+                <InArgument x:TypeArguments="x:Int32" />
+              </ui:CursorPosition.OffsetY>
+            </ui:CursorPosition>
+          </ui:Click.CursorPosition>
+          <ui:Click.Target>
+            <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" TimeoutMS="{x:Null}" InformativeScreenshot="3672dacf35de48235b78336186b660f2" Selector="&lt;wnd app='thenavigator.exe' cls='Afx:*' title='Therefore™ Navigator' /&gt;&lt;wnd cls='SysTreeView32' idx='1' /&gt;&lt;ctrl name='Repository' role='outline item' /&gt;" WaitForReady="NONE" />
+          </ui:Click.Target>
+        </ui:Click>
+      </If.Else>
+    </If>
+    <ui:Click DelayBefore="{x:Null}" DelayMS="{x:Null}" ClickType="CLICK_SINGLE" DisplayName="Click PSD" sap:VirtualizedContainerService.HintSize="464,106" sap2010:WorkflowViewState.IdRef="Click_5" KeyModifiers="None" MouseButton="BTN_LEFT" SendWindowMessages="False" SimulateClick="False">
+      <ui:Click.CursorPosition>
+        <ui:CursorPosition Position="Center">
+          <ui:CursorPosition.OffsetX>
+            <InArgument x:TypeArguments="x:Int32" />
+          </ui:CursorPosition.OffsetX>
+          <ui:CursorPosition.OffsetY>
+            <InArgument x:TypeArguments="x:Int32" />
+          </ui:CursorPosition.OffsetY>
+        </ui:CursorPosition>
+      </ui:Click.CursorPosition>
+      <ui:Click.Target>
+        <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" TimeoutMS="{x:Null}" InformativeScreenshot="0b28b528cae9250270f0566486f67300" Selector="&lt;wnd app='thenavigator.exe' cls='Afx:*' title='Therefore™ Navigator' /&gt;&lt;wnd cls='SysTreeView32' idx='1' /&gt;&lt;ctrl name='PSD' role='outline item' /&gt;" WaitForReady="NONE" />
+      </ui:Click.Target>
+      <sap:WorkflowViewStateService.ViewState>
+        <scg:Dictionary x:TypeArguments="x:String, x:Object">
+          <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+          <x:Boolean x:Key="IsPinned">False</x:Boolean>
+        </scg:Dictionary>
+      </sap:WorkflowViewStateService.ViewState>
+    </ui:Click>
+    <ui:GetAttribute ContinueOnError="{x:Null}" Attribute="aastate" DisplayName="Check If Client Engagements is visible" sap:VirtualizedContainerService.HintSize="464,134" sap2010:WorkflowViewState.IdRef="GetAttribute_1">
+      <ui:GetAttribute.Result>
+        <OutArgument x:TypeArguments="x:String">[ClientEngagementState]</OutArgument>
+      </ui:GetAttribute.Result>
+      <ui:GetAttribute.Target>
+        <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" TimeoutMS="{x:Null}" InformativeScreenshot="ab5e810818477c5ca37816dc6e8d1a17" Selector="&lt;wnd app='thenavigator.exe' cls='Afx:*' title='Therefore™ Navigator' /&gt;&lt;wnd cls='SysTreeView32' idx='1' /&gt;&lt;ctrl name='Client Engagements' role='outline item' /&gt;" WaitForReady="INTERACTIVE" />
+      </ui:GetAttribute.Target>
+    </ui:GetAttribute>
+    <If Condition="[ClientEngagementState.Equals(&quot;collapsed, focusable, selectable&quot;)]" DisplayName="Client Engagement Visible?" sap:VirtualizedContainerService.HintSize="464,249" sap2010:WorkflowViewState.IdRef="If_3">
+      <sap:WorkflowViewStateService.ViewState>
+        <scg:Dictionary x:TypeArguments="x:String, x:Object">
+          <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+          <x:Boolean x:Key="IsPinned">False</x:Boolean>
+        </scg:Dictionary>
+      </sap:WorkflowViewStateService.ViewState>
+      <If.Else>
+        <ui:Click DelayBefore="{x:Null}" DelayMS="{x:Null}" ClickType="CLICK_DOUBLE" DisplayName="Double Click PSD" sap:VirtualizedContainerService.HintSize="314,106" sap2010:WorkflowViewState.IdRef="Click_11" KeyModifiers="None" MouseButton="BTN_LEFT" SendWindowMessages="False" SimulateClick="False">
+          <ui:Click.CursorPosition>
+            <ui:CursorPosition Position="Center">
+              <ui:CursorPosition.OffsetX>
+                <InArgument x:TypeArguments="x:Int32" />
+              </ui:CursorPosition.OffsetX>
+              <ui:CursorPosition.OffsetY>
+                <InArgument x:TypeArguments="x:Int32" />
+              </ui:CursorPosition.OffsetY>
+            </ui:CursorPosition>
+          </ui:Click.CursorPosition>
+          <ui:Click.Target>
+            <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" TimeoutMS="{x:Null}" InformativeScreenshot="9e20f726841e58a3c7177775a9d11d2f" Selector="&lt;wnd app='thenavigator.exe' cls='Afx:*' title='Therefore™ Navigator' /&gt;&lt;wnd cls='SysTreeView32' idx='1' /&gt;&lt;ctrl name='PSD' role='outline item' /&gt;" WaitForReady="NONE" />
+          </ui:Click.Target>
+        </ui:Click>
+      </If.Else>
+    </If>
+    <ui:Click DelayBefore="{x:Null}" DelayMS="{x:Null}" ClickType="CLICK_SINGLE" DisplayName="Click Client Engagements" sap:VirtualizedContainerService.HintSize="464,106" sap2010:WorkflowViewState.IdRef="Click_8" KeyModifiers="None" MouseButton="BTN_LEFT" SendWindowMessages="False" SimulateClick="False">
+      <ui:Click.CursorPosition>
+        <ui:CursorPosition Position="Center">
+          <ui:CursorPosition.OffsetX>
+            <InArgument x:TypeArguments="x:Int32" />
+          </ui:CursorPosition.OffsetX>
+          <ui:CursorPosition.OffsetY>
+            <InArgument x:TypeArguments="x:Int32" />
+          </ui:CursorPosition.OffsetY>
+        </ui:CursorPosition>
+      </ui:Click.CursorPosition>
+      <ui:Click.Target>
+        <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" TimeoutMS="{x:Null}" InformativeScreenshot="c186fa01726b05401ed2f38d9ce4f79d" Selector="&lt;wnd app='thenavigator.exe' cls='Afx:*' title='Therefore™ Navigator' /&gt;&lt;wnd cls='SysTreeView32' idx='1' /&gt;&lt;ctrl name='Client Engagements' role='outline item' /&gt;" WaitForReady="INTERACTIVE" />
+      </ui:Click.Target>
+      <sap:WorkflowViewStateService.ViewState>
+        <scg:Dictionary x:TypeArguments="x:String, x:Object">
+          <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+          <x:Boolean x:Key="IsPinned">False</x:Boolean>
+        </scg:Dictionary>
+      </sap:WorkflowViewStateService.ViewState>
+    </ui:Click>
+    <ui:SendHotkey DelayBefore="{x:Null}" DelayBetweenKeys="{x:Null}" DelayMS="{x:Null}" Activate="True" ClickBeforeTyping="False" DisplayName="Send Enter Hotkey" EmptyField="False" sap:VirtualizedContainerService.HintSize="464,114" sap2010:WorkflowViewState.IdRef="SendHotkey_1" Key="enter" KeyModifiers="None" SendWindowMessages="False" SpecialKey="True">
+      <ui:SendHotkey.Target>
+        <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Selector="{x:Null}" TimeoutMS="{x:Null}" WaitForReady="INTERACTIVE" />
+      </ui:SendHotkey.Target>
+      <sap:WorkflowViewStateService.ViewState>
+        <scg:Dictionary x:TypeArguments="x:String, x:Object">
+          <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+          <x:Boolean x:Key="IsPinned">False</x:Boolean>
+        </scg:Dictionary>
+      </sap:WorkflowViewStateService.ViewState>
+    </ui:SendHotkey>
+  </Sequence>
+</Activity>

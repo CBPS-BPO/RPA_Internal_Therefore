@@ -1,0 +1,289 @@
+<Activity mc:Ignorable="sap sap2010" x:Class="Reformat_Exported_Files" mva:VisualBasic.Settings="{x:Null}" sap:VirtualizedContainerService.HintSize="644.666666666667,5105.33333333333" sap2010:WorkflowViewState.IdRef="Reformat_Exported_Files_1" xmlns="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:mva="clr-namespace:Microsoft.VisualBasic.Activities;assembly=System.Activities" xmlns:sap="http://schemas.microsoft.com/netfx/2009/xaml/activities/presentation" xmlns:sap2010="http://schemas.microsoft.com/netfx/2010/xaml/activities/presentation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:ui="http://schemas.uipath.com/workflow/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TextExpression.NamespacesForImplementation>
+    <scg:List x:TypeArguments="x:String" Capacity="21">
+      <x:String>System.Activities</x:String>
+      <x:String>System.Activities.Statements</x:String>
+      <x:String>System.Activities.Expressions</x:String>
+      <x:String>System.Activities.Validation</x:String>
+      <x:String>System.Activities.XamlIntegration</x:String>
+      <x:String>Microsoft.VisualBasic</x:String>
+      <x:String>Microsoft.VisualBasic.Activities</x:String>
+      <x:String>System</x:String>
+      <x:String>System.Collections</x:String>
+      <x:String>System.Collections.Generic</x:String>
+      <x:String>System.Data</x:String>
+      <x:String>System.Diagnostics</x:String>
+      <x:String>System.Drawing</x:String>
+      <x:String>System.IO</x:String>
+      <x:String>System.Linq</x:String>
+      <x:String>System.Net.Mail</x:String>
+      <x:String>System.Xml</x:String>
+      <x:String>System.Xml.Linq</x:String>
+      <x:String>UiPath.Core</x:String>
+      <x:String>UiPath.Core.Activities</x:String>
+      <x:String>System.Windows.Markup</x:String>
+    </scg:List>
+  </TextExpression.NamespacesForImplementation>
+  <TextExpression.ReferencesForImplementation>
+    <scg:List x:TypeArguments="AssemblyReference" Capacity="20">
+      <AssemblyReference>System.Activities</AssemblyReference>
+      <AssemblyReference>Microsoft.VisualBasic</AssemblyReference>
+      <AssemblyReference>mscorlib</AssemblyReference>
+      <AssemblyReference>System.Data</AssemblyReference>
+      <AssemblyReference>System.Data.DataSetExtensions</AssemblyReference>
+      <AssemblyReference>System</AssemblyReference>
+      <AssemblyReference>System.Drawing</AssemblyReference>
+      <AssemblyReference>System.Core</AssemblyReference>
+      <AssemblyReference>System.Xml</AssemblyReference>
+      <AssemblyReference>System.Xml.Linq</AssemblyReference>
+      <AssemblyReference>PresentationFramework</AssemblyReference>
+      <AssemblyReference>WindowsBase</AssemblyReference>
+      <AssemblyReference>PresentationCore</AssemblyReference>
+      <AssemblyReference>System.Xaml</AssemblyReference>
+      <AssemblyReference>UiPath.System.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.UiAutomation.Activities</AssemblyReference>
+      <AssemblyReference>System.ServiceModel</AssemblyReference>
+      <AssemblyReference>UiPath.CV</AssemblyReference>
+      <AssemblyReference>UiPath.Excel</AssemblyReference>
+      <AssemblyReference>UiPath.Mail</AssemblyReference>
+    </scg:List>
+  </TextExpression.ReferencesForImplementation>
+  <Sequence DisplayName="Reformat_Exported_Files" sap:VirtualizedContainerService.HintSize="604.666666666667,5025.33333333333" sap2010:WorkflowViewState.IdRef="Sequence_1">
+    <Sequence.Variables>
+      <Variable x:TypeArguments="x:String" Default="C:\Users\n65669\Desktop\Sample" Name="FileDirectory" />
+    </Sequence.Variables>
+    <sap:WorkflowViewStateService.ViewState>
+      <scg:Dictionary x:TypeArguments="x:String, x:Object">
+        <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+      </scg:Dictionary>
+    </sap:WorkflowViewStateService.ViewState>
+    <ui:ForEach x:TypeArguments="x:Object" CurrentIndex="{x:Null}" DisplayName="For Each" sap:VirtualizedContainerService.HintSize="582.666666666667,4901.33333333333" sap2010:WorkflowViewState.IdRef="ForEach`1_1" Values="[Directory.GetDirectories(FileDirectory)]">
+      <ui:ForEach.Body>
+        <ActivityAction x:TypeArguments="x:Object">
+          <ActivityAction.Argument>
+            <DelegateInArgument x:TypeArguments="x:Object" Name="item" />
+          </ActivityAction.Argument>
+          <Sequence DisplayName="Body" sap:VirtualizedContainerService.HintSize="566,4762.66666666667" sap2010:WorkflowViewState.IdRef="Sequence_2">
+            <Sequence.Variables>
+              <Variable x:TypeArguments="x:String" Name="ClientFolder" />
+              <Variable x:TypeArguments="x:String" Default="C:\Users\n65669\Desktop\BOX" Name="BoxDirectory" />
+              <Variable x:TypeArguments="x:Boolean" Name="ClientFolderExist" />
+              <Variable x:TypeArguments="x:String" Name="ProjectNameFolder" />
+              <Variable x:TypeArguments="x:Boolean" Name="ProjectNameFolderExist" />
+            </Sequence.Variables>
+            <sap:WorkflowViewStateService.ViewState>
+              <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+              </scg:Dictionary>
+            </sap:WorkflowViewStateService.ViewState>
+            <Assign sap:VirtualizedContainerService.HintSize="544,62" sap2010:WorkflowViewState.IdRef="Assign_3">
+              <Assign.To>
+                <OutArgument x:TypeArguments="x:String">[ClientFolder]</OutArgument>
+              </Assign.To>
+              <Assign.Value>
+                <InArgument x:TypeArguments="x:String">[Path.GetFileName(item.ToString)]</InArgument>
+              </Assign.Value>
+            </Assign>
+            <Assign sap:VirtualizedContainerService.HintSize="544,62" sap2010:WorkflowViewState.IdRef="Assign_8">
+              <Assign.To>
+                <OutArgument x:TypeArguments="x:String">[ProjectNameFolder]</OutArgument>
+              </Assign.To>
+              <Assign.Value>
+                <InArgument x:TypeArguments="x:String">[Split(ClientFolder, ",")(1)]</InArgument>
+              </Assign.Value>
+            </Assign>
+            <Assign sap:VirtualizedContainerService.HintSize="544,62" sap2010:WorkflowViewState.IdRef="Assign_4">
+              <Assign.To>
+                <OutArgument x:TypeArguments="x:String">[ClientFolder]</OutArgument>
+              </Assign.To>
+              <Assign.Value>
+                <InArgument x:TypeArguments="x:String">[Split(ClientFolder, ",")(0)]</InArgument>
+              </Assign.Value>
+            </Assign>
+            <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="544,62.6666666666667" sap2010:WorkflowViewState.IdRef="WriteLine_12" Text="[&quot;Client Folder: &quot; + ClientFolder]" />
+            <ui:PathExists DisplayName="Path Exists" Exists="[ClientFolderExist]" sap:VirtualizedContainerService.HintSize="544,90.6666666666667" sap2010:WorkflowViewState.IdRef="PathExists_2" Path="[BoxDirectory + &quot;\&quot; + ClientFolder]" PathType="Folder" />
+            <If Condition="[ClientFolderExist]" DisplayName="If Client Folder Exist" sap:VirtualizedContainerService.HintSize="544,402.666666666667" sap2010:WorkflowViewState.IdRef="If_1">
+              <sap:WorkflowViewStateService.ViewState>
+                <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                  <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                  <x:Boolean x:Key="IsPinned">False</x:Boolean>
+                </scg:Dictionary>
+              </sap:WorkflowViewStateService.ViewState>
+              <If.Then>
+                <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="209.333333333333,62.6666666666667" sap2010:WorkflowViewState.IdRef="WriteLine_6" Text="[ClientFolder + &quot; exist&quot;]" />
+              </If.Then>
+              <If.Else>
+                <Sequence DisplayName="Create Folder" sap:VirtualizedContainerService.HintSize="231.333333333333,248.666666666667" sap2010:WorkflowViewState.IdRef="Sequence_6">
+                  <sap:WorkflowViewStateService.ViewState>
+                    <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                      <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                    </scg:Dictionary>
+                  </sap:WorkflowViewStateService.ViewState>
+                  <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="209.333333333333,62.6666666666667" sap2010:WorkflowViewState.IdRef="WriteLine_7" Text="[ClientFolder + &quot; doesnt exist&quot;]" />
+                  <ui:CreateDirectory ContinueOnError="{x:Null}" DisplayName="Create Directory" sap:VirtualizedContainerService.HintSize="209.333333333333,22" sap2010:WorkflowViewState.IdRef="CreateDirectory_1" Path="[BoxDirectory + &quot;\&quot; + ClientFolder]" />
+                </Sequence>
+              </If.Else>
+            </If>
+            <ui:PathExists DisplayName="Path Exists" Exists="[ProjectNameFolderExist]" sap:VirtualizedContainerService.HintSize="544,90.6666666666667" sap2010:WorkflowViewState.IdRef="PathExists_5" Path="[BoxDirectory + &quot;\&quot; + ClientFolder + &quot;\&quot; + ProjectNameFolder]" PathType="Folder" />
+            <If Condition="[ProjectNameFolderExist]" DisplayName="If Project Name Folder Exist" sap:VirtualizedContainerService.HintSize="544,402.666666666667" sap2010:WorkflowViewState.IdRef="If_4">
+              <sap:WorkflowViewStateService.ViewState>
+                <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                  <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                  <x:Boolean x:Key="IsPinned">False</x:Boolean>
+                </scg:Dictionary>
+              </sap:WorkflowViewStateService.ViewState>
+              <If.Then>
+                <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="209.333333333333,62.6666666666667" sap2010:WorkflowViewState.IdRef="WriteLine_16" Text="[ProjectNameFolder + &quot; exist&quot;]" />
+              </If.Then>
+              <If.Else>
+                <Sequence DisplayName="Create Folder" sap:VirtualizedContainerService.HintSize="231.333333333333,248.666666666667" sap2010:WorkflowViewState.IdRef="Sequence_9">
+                  <sap:WorkflowViewStateService.ViewState>
+                    <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                      <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                    </scg:Dictionary>
+                  </sap:WorkflowViewStateService.ViewState>
+                  <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="209.333333333333,62.6666666666667" sap2010:WorkflowViewState.IdRef="WriteLine_17" Text="[ProjectNameFolder + &quot; doesnt exist&quot;]" />
+                  <ui:CreateDirectory ContinueOnError="{x:Null}" DisplayName="Create Directory" sap:VirtualizedContainerService.HintSize="209.333333333333,22" sap2010:WorkflowViewState.IdRef="CreateDirectory_4" Path="[BoxDirectory + &quot;\&quot; + ClientFolder + &quot;\&quot; + ProjectNameFolder]" />
+                </Sequence>
+              </If.Else>
+            </If>
+            <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="544,62.6666666666667" sap2010:WorkflowViewState.IdRef="WriteLine_1" Text="[&quot;Client: &quot; + ClientFolder]" />
+            <ui:ForEach x:TypeArguments="x:Object" CurrentIndex="{x:Null}" DisplayName="For Each" sap:VirtualizedContainerService.HintSize="544,2980.66666666667" sap2010:WorkflowViewState.IdRef="ForEach`1_2" Values="[Directory.GetDirectories(item.ToString)]">
+              <ui:ForEach.Body>
+                <ActivityAction x:TypeArguments="x:Object">
+                  <ActivityAction.Argument>
+                    <DelegateInArgument x:TypeArguments="x:Object" Name="item" />
+                  </ActivityAction.Argument>
+                  <Sequence DisplayName="Body" sap:VirtualizedContainerService.HintSize="527.333333333333,2842" sap2010:WorkflowViewState.IdRef="Sequence_3">
+                    <Sequence.Variables>
+                      <Variable x:TypeArguments="x:String" Name="FolderName" />
+                      <Variable x:TypeArguments="x:String" Name="DocumentFolder" />
+                      <Variable x:TypeArguments="x:Boolean" Name="DocumentFolderExist" />
+                    </Sequence.Variables>
+                    <sap:WorkflowViewStateService.ViewState>
+                      <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                        <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                      </scg:Dictionary>
+                    </sap:WorkflowViewStateService.ViewState>
+                    <Assign DisplayName="Document Folder" sap:VirtualizedContainerService.HintSize="505.333333333333,62" sap2010:WorkflowViewState.IdRef="Assign_2">
+                      <Assign.To>
+                        <OutArgument x:TypeArguments="x:String">[DocumentFolder]</OutArgument>
+                      </Assign.To>
+                      <Assign.Value>
+                        <InArgument x:TypeArguments="x:String">[Path.GetFileName(item.ToString)]</InArgument>
+                      </Assign.Value>
+                    </Assign>
+                    <Assign DisplayName="Document Folder" sap:VirtualizedContainerService.HintSize="505.333333333333,62" sap2010:WorkflowViewState.IdRef="Assign_7">
+                      <Assign.To>
+                        <OutArgument x:TypeArguments="x:String">[DocumentFolder]</OutArgument>
+                      </Assign.To>
+                      <Assign.Value>
+                        <InArgument x:TypeArguments="x:String">[Split(DocumentFolder,",")(0)]</InArgument>
+                      </Assign.Value>
+                    </Assign>
+                    <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="505.333333333333,62.6666666666667" sap2010:WorkflowViewState.IdRef="WriteLine_13" Text="[&quot;Document Folder: &quot; + DocumentFolder]" />
+                    <ui:PathExists DisplayName="Path Exists" Exists="[DocumentFolderExist]" sap:VirtualizedContainerService.HintSize="505.333333333333,90.6666666666667" sap2010:WorkflowViewState.IdRef="PathExists_3" Path="[BoxDirectory + &quot;\&quot; + ClientFolder + &quot;\&quot; + ProjectNameFolder + &quot;\&quot; + DocumentFolder]" PathType="Folder" />
+                    <If Condition="[DocumentFolderExist]" sap:VirtualizedContainerService.HintSize="505.333333333333,402.666666666667" sap2010:WorkflowViewState.IdRef="If_2">
+                      <If.Then>
+                        <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="209.333333333333,62.6666666666667" sap2010:WorkflowViewState.IdRef="WriteLine_8" Text="[DocumentFolder + &quot; exist&quot;]" />
+                      </If.Then>
+                      <If.Else>
+                        <Sequence DisplayName="Create Folder" sap:VirtualizedContainerService.HintSize="231.333333333333,248.666666666667" sap2010:WorkflowViewState.IdRef="Sequence_7">
+                          <sap:WorkflowViewStateService.ViewState>
+                            <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                              <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                            </scg:Dictionary>
+                          </sap:WorkflowViewStateService.ViewState>
+                          <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="209.333333333333,62.6666666666667" sap2010:WorkflowViewState.IdRef="WriteLine_9" Text="[DocumentFolder + &quot; doesnt exist&quot;]" />
+                          <ui:CreateDirectory ContinueOnError="{x:Null}" DisplayName="Create Directory" sap:VirtualizedContainerService.HintSize="209.333333333333,22" sap2010:WorkflowViewState.IdRef="CreateDirectory_2" Path="[BoxDirectory + &quot;\&quot; + ClientFolder + &quot;\&quot; + ProjectNameFolder + &quot;\&quot; + DocumentFolder]" />
+                        </Sequence>
+                      </If.Else>
+                    </If>
+                    <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="505.333333333333,62.6666666666667" sap2010:WorkflowViewState.IdRef="WriteLine_2" Text="[&quot;Second folder: &quot; + DocumentFolder]" />
+                    <ui:ForEach x:TypeArguments="x:Object" CurrentIndex="{x:Null}" DisplayName="For Each" sap:VirtualizedContainerService.HintSize="505.333333333333,1735.33333333333" sap2010:WorkflowViewState.IdRef="ForEach`1_3" Values="[Directory.GetDirectories(item.ToString)]">
+                      <ui:ForEach.Body>
+                        <ActivityAction x:TypeArguments="x:Object">
+                          <ActivityAction.Argument>
+                            <DelegateInArgument x:TypeArguments="x:Object" Name="item" />
+                          </ActivityAction.Argument>
+                          <Sequence DisplayName="Body" sap:VirtualizedContainerService.HintSize="488.666666666667,1596.66666666667" sap2010:WorkflowViewState.IdRef="Sequence_4">
+                            <Sequence.Variables>
+                              <Variable x:TypeArguments="x:String" Name="FolderDocumentType" />
+                              <Variable x:TypeArguments="x:Boolean" Name="FolderDocumentTypeExist" />
+                            </Sequence.Variables>
+                            <sap:WorkflowViewStateService.ViewState>
+                              <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                                <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                              </scg:Dictionary>
+                            </sap:WorkflowViewStateService.ViewState>
+                            <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="466.666666666667,62.6666666666667" sap2010:WorkflowViewState.IdRef="WriteLine_3" Text="[&quot;Third folder: &quot; + item.ToString]" />
+                            <Assign sap:VirtualizedContainerService.HintSize="466.666666666667,62" sap2010:WorkflowViewState.IdRef="Assign_5">
+                              <Assign.To>
+                                <OutArgument x:TypeArguments="x:String">[FolderDocumentType]</OutArgument>
+                              </Assign.To>
+                              <Assign.Value>
+                                <InArgument x:TypeArguments="x:String">[Path.GetFileName(item.ToString)]</InArgument>
+                              </Assign.Value>
+                            </Assign>
+                            <Assign sap:VirtualizedContainerService.HintSize="466.666666666667,62" sap2010:WorkflowViewState.IdRef="Assign_6">
+                              <Assign.To>
+                                <OutArgument x:TypeArguments="x:String">[FolderDocumentType]</OutArgument>
+                              </Assign.To>
+                              <Assign.Value>
+                                <InArgument x:TypeArguments="x:String">[Split(FolderDocumentType, ",")(0)]</InArgument>
+                              </Assign.Value>
+                            </Assign>
+                            <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="466.666666666667,62.6666666666667" sap2010:WorkflowViewState.IdRef="WriteLine_14" Text="[&quot;Document Type Folder: &quot; + FolderDocumentType]" />
+                            <ui:PathExists DisplayName="Path Exists" Exists="[FolderDocumentTypeExist]" sap:VirtualizedContainerService.HintSize="466.666666666667,90.6666666666667" sap2010:WorkflowViewState.IdRef="PathExists_4" Path="[BoxDirectory + &quot;\&quot; + ClientFolder + &quot;\&quot; + ProjectNameFolder + &quot;\&quot; + DocumentFolder + &quot;\&quot; + FolderDocumentType]" PathType="Folder" />
+                            <If Condition="[FolderDocumentTypeExist]" sap:VirtualizedContainerService.HintSize="466.666666666667,402.666666666667" sap2010:WorkflowViewState.IdRef="If_3">
+                              <If.Then>
+                                <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="209.333333333333,62.6666666666667" sap2010:WorkflowViewState.IdRef="WriteLine_10" Text="[FolderDocumentType + &quot; exist&quot;]" />
+                              </If.Then>
+                              <If.Else>
+                                <Sequence DisplayName="Create Folder" sap:VirtualizedContainerService.HintSize="231.333333333333,248.666666666667" sap2010:WorkflowViewState.IdRef="Sequence_8">
+                                  <sap:WorkflowViewStateService.ViewState>
+                                    <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                                      <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                                    </scg:Dictionary>
+                                  </sap:WorkflowViewStateService.ViewState>
+                                  <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="209.333333333333,62.6666666666667" sap2010:WorkflowViewState.IdRef="WriteLine_11" Text="[FolderDocumentType + &quot; doesnt exist&quot;]" />
+                                  <ui:CreateDirectory ContinueOnError="{x:Null}" DisplayName="Create Directory" sap:VirtualizedContainerService.HintSize="209.333333333333,22" sap2010:WorkflowViewState.IdRef="CreateDirectory_3" Path="[BoxDirectory + &quot;\&quot; + ClientFolder + &quot;\&quot; + ProjectNameFolder + &quot;\&quot; + DocumentFolder + &quot;\&quot; + FolderDocumentType]" />
+                                </Sequence>
+                              </If.Else>
+                            </If>
+                            <ui:ForEach x:TypeArguments="x:Object" CurrentIndex="{x:Null}" DisplayName="For Each" sap:VirtualizedContainerService.HintSize="466.666666666667,490" sap2010:WorkflowViewState.IdRef="ForEach`1_4" Values="[Directory.GetFiles(item.ToString)]">
+                              <ui:ForEach.Body>
+                                <ActivityAction x:TypeArguments="x:Object">
+                                  <ActivityAction.Argument>
+                                    <DelegateInArgument x:TypeArguments="x:Object" Name="item" />
+                                  </ActivityAction.Argument>
+                                  <Sequence DisplayName="Body" sap:VirtualizedContainerService.HintSize="231.333333333333,351.333333333333" sap2010:WorkflowViewState.IdRef="Sequence_5">
+                                    <Sequence.Variables>
+                                      <Variable x:TypeArguments="ui:GenericValue" Name="Files" />
+                                    </Sequence.Variables>
+                                    <sap:WorkflowViewStateService.ViewState>
+                                      <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                                        <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                                      </scg:Dictionary>
+                                    </sap:WorkflowViewStateService.ViewState>
+                                    <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="209.333333333333,62.6666666666667" sap2010:WorkflowViewState.IdRef="WriteLine_15" Text="[&quot;Files? &quot; + item.ToString]" />
+                                    <ui:CopyFile ContinueOnError="{x:Null}" Destination="[BoxDirectory + &quot;\&quot; + ClientFolder + &quot;\&quot; + ProjectNameFolder + &quot;\&quot; + DocumentFolder + &quot;\&quot; + FolderDocumentType + &quot;\&quot; + Path.GetFileName(item.ToString)]" DisplayName="Copy File" sap:VirtualizedContainerService.HintSize="209.333333333333,22" sap2010:WorkflowViewState.IdRef="CopyFile_1" Overwrite="False" Path="[item.ToString]" />
+                                    <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="209.333333333333,62.6666666666667" sap2010:WorkflowViewState.IdRef="WriteLine_4" Text="[&quot;Files on third folder &quot; + item.ToString]" />
+                                  </Sequence>
+                                </ActivityAction>
+                              </ui:ForEach.Body>
+                            </ui:ForEach>
+                          </Sequence>
+                        </ActivityAction>
+                      </ui:ForEach.Body>
+                    </ui:ForEach>
+                  </Sequence>
+                </ActivityAction>
+              </ui:ForEach.Body>
+            </ui:ForEach>
+          </Sequence>
+        </ActivityAction>
+      </ui:ForEach.Body>
+    </ui:ForEach>
+  </Sequence>
+</Activity>
